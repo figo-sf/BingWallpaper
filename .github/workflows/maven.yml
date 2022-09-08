@@ -24,14 +24,11 @@ jobs:
     - name: Run Java Application
       run: java -jar target/bing-wallpaper.jar
     - name: Commit files
-      run: |
-         git config --local user.email "niumoo@126.com"
-         git config --local user.name "niumoo"
-         git pull
-         git add bing-wallpaper.md
-         git commit -m "update readme.md"
-    - name: Push changes
-      uses:  ad-m/github-push-action@master
+
+    - name: Copy
+      uses: andstor/copycat-action@v3
       with:
-         github_token: ${{ secrets.MY_GIT_TOKEN }}
-         branch: main
+        personal_token: ${{ secrets.MY_GIT_TOKEN }}
+        src_path: /bing-wallpaper.md
+        dst_owner: figo-sf
+        dst_repo_name: figoMdbook
