@@ -14,3 +14,5 @@ jobs:
           src_path: /bing-wallpaper.md
           dst_owner: figo-sf
           dst_repo_name: figoMdbook
+          dst_branch: main
+          src_branch: main
