@@ -15,7 +15,7 @@ public class Image {
     @Override
     public String toString() {
         String smallUrl = url + "&pid=hp&w=384&h=216&rs=1&c=4";
-        return String.format("![%s](%s)%s [download 4k](%s)",desc, smallUrl, date, url);
+        return String.format("- %s|[%s](%s) [download 4k](%s)", date, desc, smallUrl, url);
     }
 
     public String formatMarkdown() {
