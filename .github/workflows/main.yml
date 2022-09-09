@@ -1,34 +1,16 @@
 # This workflow will build a Java project with Maven
 # For more information see: https://help.github.com/actions/language-and-framework-guides/building-and-testing-java-with-maven
-
-name: Java CI with Maven
-
+name: Copy
 on:
-  schedule:
-    # * is a special character in YAML so you have to quote this string
-    - cron:  '0 9 * * *'
   workflow_dispatch:
 jobs:
-  build:
-
+  copy:
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v2
-    - name: Set up JDK 1.8
-      uses: actions/setup-java@v1
-      with:
-        java-version: 1.8
-    - name: Build with Maven
-      run: mvn -B package --file pom.xml
-    - name: Run Java Application
-      run: java -jar target/bing-wallpaper.jar
-    - name: Commit files
-
-    - name: Copy
-      uses: andstor/copycat-action@v3
-      with:
-        personal_token: ${{ secrets.MY_GIT_TOKEN }}
-        src_path: /bing-wallpaper.md
-        dst_owner: figo-sf
-        dst_repo_name: figoMdbook
+      - name: Copycat
+        uses: andstor/copycat-action@v3
+        with:
+          personal_token: ${{ secrets.MY_GIT_TOKEN }}
+          src_path: /bing-wallpaper.md
+          dst_owner: figo-sf
+          dst_repo_name: figoMdbook
