@@ -3,3 +3,4 @@
 
 2022-09-10 | [中秋之夜, 上海豫园](/th?id=OHR.MidAutumn2022_ZH-CN9825550508_UHD.jpg) 
 2022-09-11 | [在喀拉拉邦河流中行驶的一艘小船，印度](/th?id=OHR.KeralaIndia_ZH-CN0125201857_UHD.jpg) 
+2022-09-12 | [栗耳簇舌巨嘴鸟，巴西潘塔纳尔保护区里](/th?id=OHR.Aracari_ZH-CN0383753817_UHD.jpg) 
