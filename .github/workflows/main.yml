@@ -14,7 +14,7 @@ jobs:
         with:
           personal_token: ${{ secrets.MY_GIT_TOKEN }}
           src_path: bg.css
-          dst_path: css/bg.css
+          dst_path: css/bg2.css
           dst_owner: figo-sf
           dst_repo_name: figoMdbook
           src_repo_name: BingWallpaper
