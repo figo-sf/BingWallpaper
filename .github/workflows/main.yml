@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Copycat
-        uses: figo-sf/copycat-action@main
+        uses: figo-sf/copycat-action@v1
         with:
           personal_token: ${{ secrets.MY_GIT_TOKEN }}
           src_path: bg.css
