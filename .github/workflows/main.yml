@@ -4,18 +4,20 @@ name: Copy
 on:
   workflow_dispatch:
   workflow_call:
+
 jobs:
   copy:
     runs-on: ubuntu-latest
     steps:
       - name: Copycat
-        uses: andstor/copycat-action@v3
+        uses: figo-sf/copycat-action@main
         with:
           personal_token: ${{ secrets.MY_GIT_TOKEN }}
           src_path: bg.css
           dst_path: css/bg.css
           dst_owner: figo-sf
           dst_repo_name: figoMdbook
+          src_repo_name: BingWallpaper
           src_branch: main
           dst_branch: gh-pages
 
