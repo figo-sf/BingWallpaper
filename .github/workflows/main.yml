@@ -15,5 +15,6 @@ jobs:
           dst_path: css/bg.css
           dst_owner: figo-sf
           dst_repo_name: figoMdbook
-          dst_branch: main
-          src_branch: gh-pages
+          src_branch: main
+          dst_branch: gh-pages
+
