@@ -29,6 +29,7 @@ jobs:
           git config --local user.name "figo"
           git pull
           git add bing-wallpaper.md
+          git add bg.css
           git commit -m "update bing-wallpaper.md"
       - name: Push changes
         uses:  ad-m/github-push-action@master

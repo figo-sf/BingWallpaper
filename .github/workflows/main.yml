@@ -11,8 +11,9 @@ jobs:
         uses: andstor/copycat-action@v3
         with:
           personal_token: ${{ secrets.MY_GIT_TOKEN }}
-          src_path: /bing-wallpaper.md
+          src_path: bg.css
+          dst_path: css/bg.css
           dst_owner: figo-sf
           dst_repo_name: figoMdbook
           dst_branch: main
-          src_branch: main
+          src_branch: gh-pages
