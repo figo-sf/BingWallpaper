@@ -4,3 +4,4 @@
 2022-09-11 | [在喀拉拉邦河流中行驶的一艘小船，印度](https://s.cn.bing.net/th?id=OHR.KeralaIndia_ZH-CN0125201857_UHD.jpg) 
 2022-09-12 | [栗耳簇舌巨嘴鸟，巴西潘塔纳尔保护区里](https://s.cn.bing.net/th?id=OHR.Aracari_ZH-CN0383753817_UHD.jpg) 
 2022-09-13 | [大沙丘国家公园和保护区，美国科罗拉多州](https://s.cn.bing.net/th?id=OHR.GSDNPest_ZH-CN0818304791_UHD.jpg) 
+2022-09-13 | [大沙丘国家公园和保护区，美国科罗拉多州](https://s.cn.bing.net/th?id=OHR.GSDNPest_ZH-CN0818304791_UHD.jpg) 
