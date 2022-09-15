@@ -6,3 +6,4 @@
 2022-09-13 | [大沙丘国家公园和保护区，美国科罗拉多州](https://s.cn.bing.net/th?id=OHR.GSDNPest_ZH-CN0818304791_UHD.jpg) 
 2022-09-13 | [大沙丘国家公园和保护区，美国科罗拉多州](https://s.cn.bing.net/th?id=OHR.GSDNPest_ZH-CN0818304791_UHD.jpg) 
 2022-09-13 | [大沙丘国家公园和保护区，美国科罗拉多州](https://s.cn.bing.net/th?id=OHR.GSDNPest_ZH-CN0818304791_UHD.jpg) 
+2022-09-14 | [大理石峡谷中横跨科罗拉多河的纳瓦霍桥，美国亚利桑那州北部](https://s.cn.bing.net/th?id=OHR.MarbleCanyon_ZH-CN1066862981_UHD.jpg) 
