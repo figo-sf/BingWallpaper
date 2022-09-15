@@ -28,7 +28,7 @@ public class Image {
     }
 
     public String toBackGround() {
-        return String.format(".bing { background-image: url(https://s.cn.bing.net%s); opacity: 0.8;}",url);
+        return String.format(".bing { background-image: url(https://s.cn.bing.net%s); opacity: 0.8;background-size: cover;}",url);
     }
 
 }
