@@ -9,3 +9,4 @@
 2022-09-14 | [大理石峡谷中横跨科罗拉多河的纳瓦霍桥，美国亚利桑那州北部](https://s.cn.bing.net/th?id=OHR.MarbleCanyon_ZH-CN1066862981_UHD.jpg) 
 2022-09-15 | [罗兰豁口上空的银河，法国上比利牛斯省](https://s.cn.bing.net/th?id=OHR.PyreneesPark_ZH-CN1341030921_UHD.jpg) 
 2022-09-15 | [罗兰豁口上空的银河，法国上比利牛斯省](https://s.cn.bing.net/th?id=OHR.PyreneesPark_ZH-CN1341030921_UHD.jpg) 
+2022-09-16 | [百内国家公园中的一头美洲狮，智利巴塔哥尼亚](https://s.cn.bing.net/th?id=OHR.PianePuma_ZH-CN1482049046_UHD.jpg) 
