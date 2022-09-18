@@ -11,3 +11,4 @@
 2022-09-15 | [罗兰豁口上空的银河，法国上比利牛斯省](https://s.cn.bing.net/th?id=OHR.PyreneesPark_ZH-CN1341030921_UHD.jpg) 
 2022-09-16 | [百内国家公园中的一头美洲狮，智利巴塔哥尼亚](https://s.cn.bing.net/th?id=OHR.PianePuma_ZH-CN1482049046_UHD.jpg) 
 2022-09-17 | [布莱克浦塔和中央码头，英国兰开夏郡](https://s.cn.bing.net/th?id=OHR.BlackpoolBeach_ZH-CN2646268897_UHD.jpg) 
+2022-09-18 | [幽鹤国家公园的翡翠湖, 加拿大不列颠哥伦比亚省](https://s.cn.bing.net/th?id=OHR.EmeraldYoho_ZH-CN4524610330_UHD.jpg) 
