@@ -36,7 +36,3 @@ jobs:
         with:
           github_token: ${{ secrets.MY_GIT_TOKEN }}
           branch: main
-      - name: curl
-        run: |
-          echo -H 'Authorization: Bearer ${INPUT_GITHUB_TOKEN}'
-          curl --location --request POST 'https://api.github.com/repos/figo-sf/BingWallpaper/dispatches' -H 'Accept: application/vnd.github+json' -H 'Authorization: Bearer ${INPUT_GITHUB_TOKEN}' -d '{ "event_type": "webhook-1"}'
