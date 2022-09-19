@@ -4,6 +4,9 @@ name: Copy
 on:
   workflow_dispatch:
   workflow_call:
+  repository_dispatch:
+    types:
+      - webhook-1
 
 jobs:
   copy:
