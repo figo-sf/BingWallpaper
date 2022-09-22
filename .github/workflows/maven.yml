@@ -24,6 +24,8 @@ jobs:
       - name: Run Java Application
         env:
           OPERATOR_PWD : ${{ secrets.OPERATOR_PWD }}
+          OPERATOR_NAME : ${{ secrets.OPERATOR_NAME }}
+          BUCKET_NAME : ${{ secrets.BUCKET_NAME }}
         run: java -jar target/bing-wallpaper.jar
       - name: Commit files
         run: |

@@ -10,19 +10,18 @@ import java.io.InputStream;
 import java.net.URL;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Properties;
 
 public class UpYunRestManagerUtils {
 
-    public static RestManager getRestManager(){
-		String BUCKET_NAME=System.getProperty("BUCKET_NAME","bing-figo");
-		String OPERATOR_NAME=System.getProperty("OPERATOR_NAME","sffchxd");
-		String OPERATOR_PWD=System.getenv("OPERATOR_PWD");
+    public static RestManager getRestManager() {
+        String BUCKET_NAME = System.getenv("BUCKET_NAME");
+        String OPERATOR_NAME = System.getenv("OPERATOR_NAME");
+        String OPERATOR_PWD = System.getenv("OPERATOR_PWD");
         return new RestManager(BUCKET_NAME, OPERATOR_NAME, OPERATOR_PWD);
     }
 
-    public static Response uploadFile(Image image ) throws UpException, IOException {
-        String fileUrl=image.getRealUrl();
+    public static Response uploadFile(Image image) throws UpException, IOException {
+        String fileUrl = image.getRealUrl();
         URL url = new URL(fileUrl);
         InputStream bis = url.openStream();
         //支持http特定功能
@@ -49,7 +48,7 @@ public class UpYunRestManagerUtils {
         // 如果缩略图间隔标志符为"!"，密钥为"bac"，上传文件路径为"/folder/test.jpg"，
         // 那么该图片的对外访问地址为：http://空间域名 /folder/test.jpg!bac
         //params.put(RestManager.PARAMS.CONTENT_SECRET.getValue(), "bac");
-        Response result = getRestManager().writeFile(image.toSavePath()+"/"+fileUrl.substring(fileUrl.lastIndexOf("=")+1), bout.toByteArray(), params);
+        Response result = getRestManager().writeFile(image.toSavePath() + "/" + fileUrl.substring(fileUrl.lastIndexOf("=") + 1), bout.toByteArray(), params);
         bout.flush();
         bis.close();
         return result;
