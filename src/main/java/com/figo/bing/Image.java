@@ -31,4 +31,17 @@ public class Image {
         return String.format(".bing { background-image: url(https://s.cn.bing.net%s); opacity: 0.8;background-size: cover;}",url);
     }
 
+    public String toSavePath(){
+       String[] num= date.split("-");
+        return num[0]+"/"+num[1];
+    }
+
+    public String getRealUrl(){
+        String realUrl=url;
+        if(!url.contains("http")){
+            realUrl=Constant.BING_URL+url;
+        }
+        return realUrl;
+    }
+
 }

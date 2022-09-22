@@ -26,6 +26,12 @@
             <version>1.18.18</version>
             <scope>compile</scope>
         </dependency>
+
+        <dependency>
+            <groupId>com.upyun</groupId>
+            <artifactId>java-sdk</artifactId>
+            <version>4.2.3</version>
+        </dependency>
     </dependencies>
 
     <build>

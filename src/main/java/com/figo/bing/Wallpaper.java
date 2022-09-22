@@ -1,5 +1,6 @@
 package com.figo.bing;
 
+import okhttp3.Response;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 
@@ -17,11 +18,14 @@ public class Wallpaper {
 
         LocalDate localDate = LocalDate.now();
         url = url.substring(0, url.lastIndexOf("_")) + "_UHD.jpg";
+
         String desc = document.select(".musCardCont h2 a").html();
         Image image = new Image(desc, localDate.toString(), url);
+        Response response = UpYunRestManagerUtils.uploadFile(image);
+        if (!response.isSuccessful()) {
+            throw new RuntimeException(response.toString());
+        }
         BingFileUtils.writeBingCss(image);
         BingFileUtils.writeBing(image);
-
-
     }
 }
