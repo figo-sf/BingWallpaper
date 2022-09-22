@@ -17,7 +17,7 @@ public class UpYunRestManagerUtils {
     public static RestManager getRestManager(){
 		String BUCKET_NAME=System.getProperty("BUCKET_NAME","bing-figo");
 		String OPERATOR_NAME=System.getProperty("OPERATOR_NAME","sffchxd");
-		String OPERATOR_PWD=System.getProperty("OPERATOR_PWD","o1BlLX7h58KJJL9O1O2471cH1OuQEORI");
+		String OPERATOR_PWD=System.getProperty("OPERATOR_PWD","xxx");
         return new RestManager(BUCKET_NAME, OPERATOR_NAME, OPERATOR_PWD);
     }
 
