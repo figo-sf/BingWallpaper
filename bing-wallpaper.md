@@ -14,3 +14,4 @@
 2022-09-21 | [赫努姆的茅草屋顶, 德国叙尔特岛](https://s.cn.bing.net/th?id=OHR.SyltNordseeHoernum_ZH-CN6316415332_UHD.jpg) 2022-09-22 | [春角礁灯塔，缅因州南波特兰](https://s.cn.bing.net/th?id=OHR.SpringPoint_ZH-CN6445792697_UHD.jpg) 
 2022-09-23 | [最后一美元公路旁的白杨树，科罗拉多州特鲁莱德市附近](https://s.cn.bing.net/th?id=OHR.LastDollarRoad_ZH-CN1462265798_UHD.jpg) 
 2022-09-23 | [最后一美元公路旁的白杨树，科罗拉多州特鲁莱德市附近](https://s.cn.bing.net/th?id=OHR.LastDollarRoad_ZH-CN1462265798_UHD.jpg) 
+2022-09-24 | [阿卡迪亚国家公园上空的银河系，美国缅因州](https://s.cn.bing.net/th?id=OHR.DarkSkyAcadia_ZH-CN1827511700_UHD.jpg) 
