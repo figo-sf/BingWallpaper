@@ -17,3 +17,4 @@
 2022-09-24 | [阿卡迪亚国家公园上空的银河系，美国缅因州](https://s.cn.bing.net/th?id=OHR.DarkSkyAcadia_ZH-CN1827511700_UHD.jpg) 
 2022-09-25 | [亚马逊河鸟瞰图，巴西](https://s.cn.bing.net/th?id=OHR.AmazonMangroves_ZH-CN2154443859_UHD.jpg) 
 2022-09-26 | [两头穿越苏西特纳河的驯鹿，美国阿拉斯加](https://s.cn.bing.net/th?id=OHR.SusitnaRiver_ZH-CN2317772890_UHD.jpg) 
+2022-09-27 | [黄石国家公园里的上间歇泉盆地，美国怀俄明州](https://s.cn.bing.net/th?id=OHR.YellowstoneUGB_ZH-CN2518690319_UHD.jpg) 
