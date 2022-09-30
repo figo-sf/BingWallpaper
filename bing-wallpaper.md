@@ -20,3 +20,4 @@
 2022-09-27 | [黄石国家公园里的上间歇泉盆地，美国怀俄明州](https://s.cn.bing.net/th?id=OHR.YellowstoneUGB_ZH-CN2518690319_UHD.jpg) 
 2022-09-28 | [卡伯特镇的福斯特廊桥，美国佛蒙特州](https://s.cn.bing.net/th?id=OHR.FosterCoveredBridge_ZH-CN2672988563_UHD.jpg) 
 2022-09-29 | [约翰斯顿峡谷，加拿大班夫国家公园](https://s.cn.bing.net/th?id=OHR.JohnstonWater_ZH-CN3121890365_UHD.jpg) 
+2022-09-30 | [在新湾潜水的南露脊鲸，阿根廷瓦尔德斯半岛](https://s.cn.bing.net/th?id=OHR.EubalaenaAustralis_ZH-CN3366455170_UHD.jpg) 
