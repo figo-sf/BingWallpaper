@@ -21,3 +21,4 @@
 2022-09-28 | [卡伯特镇的福斯特廊桥，美国佛蒙特州](https://s.cn.bing.net/th?id=OHR.FosterCoveredBridge_ZH-CN2672988563_UHD.jpg) 
 2022-09-29 | [约翰斯顿峡谷，加拿大班夫国家公园](https://s.cn.bing.net/th?id=OHR.JohnstonWater_ZH-CN3121890365_UHD.jpg) 
 2022-09-30 | [在新湾潜水的南露脊鲸，阿根廷瓦尔德斯半岛](https://s.cn.bing.net/th?id=OHR.EubalaenaAustralis_ZH-CN3366455170_UHD.jpg) 
+2022-10-01 | [山上的日出，河北蔚县](https://s.cn.bing.net/th?id=OHR.NationalDay2022_ZH-CN3861603311_UHD.jpg) 
