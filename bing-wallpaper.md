@@ -22,3 +22,4 @@
 2022-09-29 | [约翰斯顿峡谷，加拿大班夫国家公园](https://s.cn.bing.net/th?id=OHR.JohnstonWater_ZH-CN3121890365_UHD.jpg) 
 2022-09-30 | [在新湾潜水的南露脊鲸，阿根廷瓦尔德斯半岛](https://s.cn.bing.net/th?id=OHR.EubalaenaAustralis_ZH-CN3366455170_UHD.jpg) 
 2022-10-01 | [山上的日出，河北蔚县](https://s.cn.bing.net/th?id=OHR.NationalDay2022_ZH-CN3861603311_UHD.jpg) 
+2022-10-02 | [倒映在湖中的勃朗峰山脉，法国霞慕尼市](https://s.cn.bing.net/th?id=OHR.LacChesserys_ZH-CN4136691056_UHD.jpg) 
