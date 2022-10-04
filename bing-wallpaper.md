@@ -24,3 +24,4 @@
 2022-10-01 | [山上的日出，河北蔚县](https://s.cn.bing.net/th?id=OHR.NationalDay2022_ZH-CN3861603311_UHD.jpg) 
 2022-10-02 | [倒映在湖中的勃朗峰山脉，法国霞慕尼市](https://s.cn.bing.net/th?id=OHR.LacChesserys_ZH-CN4136691056_UHD.jpg) 
 2022-10-03 | [仙女谷，苏格兰斯凯岛](https://s.cn.bing.net/th?id=OHR.FairyGlen_ZH-CN4521633106_UHD.jpg) 
+2022-10-04 | [黄山的日出，中国](https://s.cn.bing.net/th?id=OHR.ChongyangFestival_ZH-CN5260976551_UHD.jpg) 
