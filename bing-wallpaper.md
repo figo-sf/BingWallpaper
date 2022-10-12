@@ -32,3 +32,4 @@
 2022-10-09 | [楚科奇海的浮游植物水华，美国阿拉斯加州海岸附近](https://s.cn.bing.net/th?id=OHR.ChukchiSea_ZH-CN7218471261_UHD.jpg) 
 2022-10-10 | [瓦伦蒂诺大坝，意大利伦巴第大区布雷西亚省](https://s.cn.bing.net/th?id=OHR.ValvestinoDam_ZH-CN8397604653_UHD.jpg) 
 2022-10-11 | [带着闪闪发光水滴的泛生墙藓, 荷兰](https://s.cn.bing.net/th?id=OHR.TortulaMoss_ZH-CN8695265186_UHD.jpg) 
+2022-10-12 | [蒙茅斯海滩的菊石路面，英国多塞特侏罗纪海岸世界遗产地](https://s.cn.bing.net/th?id=OHR.AmmoniteGraveyard_ZH-CN8904427525_UHD.jpg) 
