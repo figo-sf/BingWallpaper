@@ -35,3 +35,4 @@
 2022-10-12 | [蒙茅斯海滩的菊石路面，英国多塞特侏罗纪海岸世界遗产地](https://s.cn.bing.net/th?id=OHR.AmmoniteGraveyard_ZH-CN8904427525_UHD.jpg) 
 2022-10-13 | [迪纳利国家公园里的两只驼鹿，美国阿拉斯加州](https://s.cn.bing.net/th?id=OHR.AlaskaMoose_ZH-CN9148253690_UHD.jpg) 
 2022-10-14 | [奥尔德萨和佩尔迪多山国家公园里的瀑布，西班牙比利牛斯山脉](https://s.cn.bing.net/th?id=OHR.RioArazas_ZH-CN9451571402_UHD.jpg) 
+2022-10-15 | [纳克什鲁斯塔姆遗址，伊朗波斯波利斯](https://s.cn.bing.net/th?id=OHR.NaqsheRustam_ZH-CN9695151436_UHD.jpg) 
