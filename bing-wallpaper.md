@@ -36,3 +36,4 @@
 2022-10-13 | [迪纳利国家公园里的两只驼鹿，美国阿拉斯加州](https://s.cn.bing.net/th?id=OHR.AlaskaMoose_ZH-CN9148253690_UHD.jpg) 
 2022-10-14 | [奥尔德萨和佩尔迪多山国家公园里的瀑布，西班牙比利牛斯山脉](https://s.cn.bing.net/th?id=OHR.RioArazas_ZH-CN9451571402_UHD.jpg) 
 2022-10-15 | [纳克什鲁斯塔姆遗址，伊朗波斯波利斯](https://s.cn.bing.net/th?id=OHR.NaqsheRustam_ZH-CN9695151436_UHD.jpg) 
+2022-10-16 | [克里斯蒂安王子之声，格陵兰岛](https://s.cn.bing.net/th?id=OHR.PrinceChristianSound_ZH-CN0274463143_UHD.jpg) 
