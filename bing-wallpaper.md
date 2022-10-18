@@ -38,3 +38,4 @@
 2022-10-15 | [纳克什鲁斯塔姆遗址，伊朗波斯波利斯](https://s.cn.bing.net/th?id=OHR.NaqsheRustam_ZH-CN9695151436_UHD.jpg) 
 2022-10-16 | [克里斯蒂安王子之声，格陵兰岛](https://s.cn.bing.net/th?id=OHR.PrinceChristianSound_ZH-CN0274463143_UHD.jpg) 
 2022-10-17 | [捷克共和国波希米亚-摩拉维亚高地的长耳鸮](https://s.cn.bing.net/th?id=OHR.SwedenOwl_ZH-CN6960032096_UHD.jpg) 
+2022-10-18 | [新娘面纱瀑布，优胜美地国家公园，美国加利福尼亚州](https://s.cn.bing.net/th?id=OHR.BridalVeilFalls_ZH-CN0684766889_UHD.jpg) 
