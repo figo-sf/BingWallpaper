@@ -43,3 +43,4 @@
 2022-10-20 | [塔拉曼卡旧港的霍氏树懒母子，哥斯达黎加](https://s.cn.bing.net/th?id=OHR.SlothDay_ZH-CN4945330735_UHD.jpg) 
 2022-10-21 | [秋季的落羽杉，美国佐治亚州](https://s.cn.bing.net/th?id=OHR.GeorgiaCypress_ZH-CN3705257154_UHD.jpg) 
 2022-10-22 | [中国桂林漓江国家公园的喀斯特山脉](https://s.cn.bing.net/th?id=OHR.KarstMountains_ZH-CN4719178982_UHD.jpg) 
+2022-10-23 | [疣鼻天鹅，荷兰瓦尔肯霍斯特自然保护区](https://s.cn.bing.net/th?id=OHR.Knobbelzwaan_ZH-CN4850245302_UHD.jpg) 
