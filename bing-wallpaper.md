@@ -47,3 +47,4 @@
 2022-10-24 | [玛利恩堡，德国莱茵兰-普法尔茨州采尔县附近](https://s.cn.bing.net/th?id=OHR.MarienburgZell_ZH-CN4562312386_UHD.jpg) 
 2022-10-25 | [怪物公园里的奥库斯雕像, 意大利博马尔佐花园](https://s.cn.bing.net/th?id=OHR.OrcusMouth_ZH-CN7303142999_UHD.jpg) 
 2022-10-26 | [巴尔干中央国家公园的布罗肯现象，保加利亚](https://s.cn.bing.net/th?id=OHR.BrockenSpecter_ZH-CN5278743909_UHD.jpg) 
+2022-10-27 | [意大利威尼斯的叹息桥](https://s.cn.bing.net/th?id=OHR.BridgeofSighs_ZH-CN5414607871_UHD.jpg) 
