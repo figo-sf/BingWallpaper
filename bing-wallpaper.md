@@ -50,3 +50,4 @@
 2022-10-27 | [意大利威尼斯的叹息桥](https://s.cn.bing.net/th?id=OHR.BridgeofSighs_ZH-CN5414607871_UHD.jpg) 
 2022-10-28 | [洛桑日内瓦湖上空的暴风雨，瑞典](https://s.cn.bing.net/th?id=OHR.FrankensteinFriday_ZH-CN5814917673_UHD.jpg) 
 2022-10-29 | [海洋天使](https://s.cn.bing.net/th?id=OHR.SeaAngel_ZH-CN6176844066_UHD.jpg) 
+2022-10-31 | [牛津郡韦奇伍德森林的树，英国](https://s.cn.bing.net/th?id=OHR.WychwoodForest_ZH-CN6560180288_UHD.jpg) 
