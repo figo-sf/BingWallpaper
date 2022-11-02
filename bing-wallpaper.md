@@ -52,3 +52,4 @@
 2022-10-29 | [海洋天使](https://s.cn.bing.net/th?id=OHR.SeaAngel_ZH-CN6176844066_UHD.jpg) 
 2022-10-31 | [牛津郡韦奇伍德森林的树，英国](https://s.cn.bing.net/th?id=OHR.WychwoodForest_ZH-CN6560180288_UHD.jpg) 
 2022-11-01 | [神秘森林里木桌上的两个微笑的万圣节南瓜](https://s.cn.bing.net/th?id=OHR.SmilingPunpkins2022_ZH-CN6763384812_UHD.jpg) 
+2022-11-02 | [慕纳尔的茶园，印度喀拉拉邦](https://s.cn.bing.net/th?id=OHR.TeaPlantationsMunnar_ZH-CN7007323849_UHD.jpg) 
