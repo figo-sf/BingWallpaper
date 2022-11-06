@@ -56,3 +56,4 @@
 2022-11-03 | [乞力马扎罗山和非洲水牛，肯尼亚](https://s.cn.bing.net/th?id=OHR.AmboseliBioshere_ZH-CN7220940943_UHD.jpg) 
 2022-11-04 | [班夫国家公园的沛托湖，加拿大艾伯塔省](https://s.cn.bing.net/th?id=OHR.PeytoIce_ZH-CN7517633327_UHD.jpg) 
 2022-11-05 | [阿赫雷湖畔的泰莫特罗萨克斯城堡酒店，苏格兰](https://s.cn.bing.net/th?id=OHR.Trossachs_ZH-CN9299955040_UHD.jpg) 
+2022-11-06 | [1990年纽约市马拉松比赛，参赛者穿过韦拉扎诺海峡大桥](https://s.cn.bing.net/th?id=OHR.MarathonSunday_ZH-CN9833453732_UHD.jpg) 
