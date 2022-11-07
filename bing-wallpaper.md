@@ -57,3 +57,4 @@
 2022-11-04 | [班夫国家公园的沛托湖，加拿大艾伯塔省](https://s.cn.bing.net/th?id=OHR.PeytoIce_ZH-CN7517633327_UHD.jpg) 
 2022-11-05 | [阿赫雷湖畔的泰莫特罗萨克斯城堡酒店，苏格兰](https://s.cn.bing.net/th?id=OHR.Trossachs_ZH-CN9299955040_UHD.jpg) 
 2022-11-06 | [1990年纽约市马拉松比赛，参赛者穿过韦拉扎诺海峡大桥](https://s.cn.bing.net/th?id=OHR.MarathonSunday_ZH-CN9833453732_UHD.jpg) 
+2022-11-07 | [庐山冬季美景，中国江西省](https://s.cn.bing.net/th?id=OHR.LiDong2022_ZH-CN9929478283_UHD.jpg) 
