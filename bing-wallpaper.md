@@ -60,3 +60,4 @@
 2022-11-07 | [庐山冬季美景，中国江西省](https://s.cn.bing.net/th?id=OHR.LiDong2022_ZH-CN9929478283_UHD.jpg) 
 2022-11-08 | [清迈易鹏节升起的天灯，泰国](https://s.cn.bing.net/th?id=OHR.YiPeng_ZH-CN0652265903_UHD.jpg) 
 2022-11-09 | [萨塞克斯郡的西欧刺猬，英国](https://s.cn.bing.net/th?id=OHR.HedgehogNest_ZH-CN0781850458_UHD.jpg) 
+2022-11-10 | [雷暴中恶地国家公园的岩层，美国南达科他州](https://s.cn.bing.net/th?id=OHR.BadLightning_ZH-CN1049646409_UHD.jpg) 
