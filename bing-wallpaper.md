@@ -64,3 +64,4 @@
 2022-11-11 | [阿拉瓦利山脉的阿布山，印度拉贾斯坦邦](https://s.cn.bing.net/th?id=OHR.MountAbu_ZH-CN1348295593_UHD.jpg) 
 2022-11-12 | [阿拉斯加州海恩斯附近的秃鹰群，美国](https://s.cn.bing.net/th?id=OHR.HainesEagle_ZH-CN1542376030_UHD.jpg) 
 2022-11-13 | [伊萨尔河鸟瞰图，德国伦格里斯](https://s.cn.bing.net/th?id=OHR.IsarwinkelSylvenstein_ZH-CN2963187862_UHD.jpg) 
+2022-11-14 | [哈尔基岛的圣约翰骑士中世纪城堡遗址，希腊](https://s.cn.bing.net/th?id=OHR.SanGiovanni_ZH-CN3184593519_UHD.jpg) 
