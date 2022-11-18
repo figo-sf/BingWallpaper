@@ -67,3 +67,4 @@
 2022-11-14 | [哈尔基岛的圣约翰骑士中世纪城堡遗址，希腊](https://s.cn.bing.net/th?id=OHR.SanGiovanni_ZH-CN3184593519_UHD.jpg) 
 2022-11-16 | [梅萨维德国家公园的悬崖宫，美国](https://s.cn.bing.net/th?id=OHR.Unesco50_ZH-CN3652927413_UHD.jpg) 
 2022-11-17 | [威拉米特国家森林麦肯齐河步道上的桥，美国](https://s.cn.bing.net/th?id=OHR.McKenzieRiverTrail_ZH-CN3786429850_UHD.jpg) 
+2022-11-18 | [菲斯皇宫的大门，摩洛哥](https://s.cn.bing.net/th?id=OHR.IslamicArt_ZH-CN9972614185_UHD.jpg) 
