@@ -69,3 +69,4 @@
 2022-11-17 | [威拉米特国家森林麦肯齐河步道上的桥，美国](https://s.cn.bing.net/th?id=OHR.McKenzieRiverTrail_ZH-CN3786429850_UHD.jpg) 
 2022-11-18 | [菲斯皇宫的大门，摩洛哥](https://s.cn.bing.net/th?id=OHR.IslamicArt_ZH-CN9972614185_UHD.jpg) 
 2022-11-19 | [犹他州锡安国家公园的维尔京河，美国](https://s.cn.bing.net/th?id=OHR.ZNPVR_ZH-CN0123954914_UHD.jpg) 
+2022-11-20 | [船底星云中的宇宙悬崖](https://s.cn.bing.net/th?id=OHR.CosmicCliffs_ZH-CN9555199651_UHD.jpg) 
