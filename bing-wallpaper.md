@@ -70,3 +70,4 @@
 2022-11-18 | [菲斯皇宫的大门，摩洛哥](https://s.cn.bing.net/th?id=OHR.IslamicArt_ZH-CN9972614185_UHD.jpg) 
 2022-11-19 | [犹他州锡安国家公园的维尔京河，美国](https://s.cn.bing.net/th?id=OHR.ZNPVR_ZH-CN0123954914_UHD.jpg) 
 2022-11-20 | [船底星云中的宇宙悬崖](https://s.cn.bing.net/th?id=OHR.CosmicCliffs_ZH-CN9555199651_UHD.jpg) 
+2022-11-21 | [伊索拉贝拉岛，意大利马焦雷湖](https://s.cn.bing.net/th?id=OHR.BorromeanIslands_ZH-CN0480730115_UHD.jpg) 
