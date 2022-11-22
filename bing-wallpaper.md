@@ -71,3 +71,4 @@
 2022-11-19 | [犹他州锡安国家公园的维尔京河，美国](https://s.cn.bing.net/th?id=OHR.ZNPVR_ZH-CN0123954914_UHD.jpg) 
 2022-11-20 | [船底星云中的宇宙悬崖](https://s.cn.bing.net/th?id=OHR.CosmicCliffs_ZH-CN9555199651_UHD.jpg) 
 2022-11-21 | [伊索拉贝拉岛，意大利马焦雷湖](https://s.cn.bing.net/th?id=OHR.BorromeanIslands_ZH-CN0480730115_UHD.jpg) 
+2022-11-22 | [阿姆斯特丹供水沙丘自然保护区的赤狐，荷兰](https://s.cn.bing.net/th?id=OHR.Waterleidingduinen_ZH-CN1430683267_UHD.jpg) 
