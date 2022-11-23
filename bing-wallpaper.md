@@ -72,3 +72,4 @@
 2022-11-20 | [船底星云中的宇宙悬崖](https://s.cn.bing.net/th?id=OHR.CosmicCliffs_ZH-CN9555199651_UHD.jpg) 
 2022-11-21 | [伊索拉贝拉岛，意大利马焦雷湖](https://s.cn.bing.net/th?id=OHR.BorromeanIslands_ZH-CN0480730115_UHD.jpg) 
 2022-11-22 | [阿姆斯特丹供水沙丘自然保护区的赤狐，荷兰](https://s.cn.bing.net/th?id=OHR.Waterleidingduinen_ZH-CN1430683267_UHD.jpg) 
+2022-11-23 | [向日葵](https://s.cn.bing.net/th?id=OHR.HelianthusAnnuus_ZH-CN1675762555_UHD.jpg) 
