@@ -73,3 +73,4 @@
 2022-11-21 | [伊索拉贝拉岛，意大利马焦雷湖](https://s.cn.bing.net/th?id=OHR.BorromeanIslands_ZH-CN0480730115_UHD.jpg) 
 2022-11-22 | [阿姆斯特丹供水沙丘自然保护区的赤狐，荷兰](https://s.cn.bing.net/th?id=OHR.Waterleidingduinen_ZH-CN1430683267_UHD.jpg) 
 2022-11-23 | [向日葵](https://s.cn.bing.net/th?id=OHR.HelianthusAnnuus_ZH-CN1675762555_UHD.jpg) 
+2022-11-24 | [坎彭万德山，基姆高地区阿绍，德国巴伐利亚州](https://s.cn.bing.net/th?id=OHR.AschauChiemgau_ZH-CN1929016406_UHD.jpg) 
