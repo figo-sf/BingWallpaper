@@ -76,3 +76,4 @@
 2022-11-24 | [坎彭万德山，基姆高地区阿绍，德国巴伐利亚州](https://s.cn.bing.net/th?id=OHR.AschauChiemgau_ZH-CN1929016406_UHD.jpg) 
 
 2022-12-05 | [古瓦哈提的竹子，印度阿萨姆邦](https://s.cn.bing.net/th?id=OHR.BambooTreesIndia_ZH-CN3943852151_UHD.jpg) 
+2022-12-05 | [古瓦哈提的竹子，印度阿萨姆邦](https://s.cn.bing.net/th?id=OHR.BambooTreesIndia_ZH-CN3943852151_UHD.jpg) 
