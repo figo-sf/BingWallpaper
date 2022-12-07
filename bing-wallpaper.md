@@ -78,3 +78,4 @@
 2022-12-05 | [古瓦哈提的竹子，印度阿萨姆邦](https://s.cn.bing.net/th?id=OHR.BambooTreesIndia_ZH-CN3943852151_UHD.jpg) 
 2022-12-05 | [古瓦哈提的竹子，印度阿萨姆邦](https://s.cn.bing.net/th?id=OHR.BambooTreesIndia_ZH-CN3943852151_UHD.jpg) 
 2022-12-06 | [大沼泽国家公园里的一只大白鹭，美国佛罗里达州](https://s.cn.bing.net/th?id=OHR.GreatEgret_ZH-CN4088261519_UHD.jpg) 
+2022-12-07 | [贾斯珀国家公园纠结溪瀑布，阿尔伯塔省，加拿大](https://s.cn.bing.net/th?id=OHR.TangleCreekFalls_ZH-CN4281148652_UHD.jpg) 
