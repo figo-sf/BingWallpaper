@@ -80,3 +80,4 @@
 2022-12-06 | [大沼泽国家公园里的一只大白鹭，美国佛罗里达州](https://s.cn.bing.net/th?id=OHR.GreatEgret_ZH-CN4088261519_UHD.jpg) 
 2022-12-07 | [贾斯珀国家公园纠结溪瀑布，阿尔伯塔省，加拿大](https://s.cn.bing.net/th?id=OHR.TangleCreekFalls_ZH-CN4281148652_UHD.jpg) 
 2022-12-08 | [威斯特曼森林，达特穆尔国家公园，英格兰德文郡](https://s.cn.bing.net/th?id=OHR.WistmansWood_ZH-CN4453301808_UHD.jpg) 
+2022-12-09 | [多弗勒山-松达尔国家公园的麝牛与她的宝宝，挪威](https://s.cn.bing.net/th?id=OHR.NorwayMuskox_ZH-CN6137934745_UHD.jpg) 
