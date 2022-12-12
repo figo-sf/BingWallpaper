@@ -83,3 +83,4 @@
 2022-12-09 | [多弗勒山-松达尔国家公园的麝牛与她的宝宝，挪威](https://s.cn.bing.net/th?id=OHR.NorwayMuskox_ZH-CN6137934745_UHD.jpg) 
 2022-12-10 | [玻利维亚的乌尤尼盐沼](https://s.cn.bing.net/th?id=OHR.SaltDesert_ZH-CN4728398785_UHD.jpg) 
 2022-12-11 | [泰根塞山脉Roßstein山顶的景色，德国巴伐利亚州](https://s.cn.bing.net/th?id=OHR.BuchsteinRossstein_ZH-CN4924477552_UHD.jpg) 
+2022-12-12 | [一品红](https://s.cn.bing.net/th?id=OHR.PoinsettiaDay_ZH-CN5115071992_UHD.jpg) 
