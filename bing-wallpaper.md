@@ -85,3 +85,4 @@
 2022-12-11 | [泰根塞山脉Roßstein山顶的景色，德国巴伐利亚州](https://s.cn.bing.net/th?id=OHR.BuchsteinRossstein_ZH-CN4924477552_UHD.jpg) 
 2022-12-12 | [一品红](https://s.cn.bing.net/th?id=OHR.PoinsettiaDay_ZH-CN5115071992_UHD.jpg) 
 2022-12-13 | [哈尔施塔特，奥地利](https://s.cn.bing.net/th?id=OHR.InstagramHallstatt_ZH-CN5309282641_UHD.jpg) 
+2022-12-14 | [大帕拉迪索国家公园，意大利](https://s.cn.bing.net/th?id=OHR.GranParadiso100th_ZH-CN5744961532_UHD.jpg) 
