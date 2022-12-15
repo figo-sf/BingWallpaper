@@ -86,3 +86,4 @@
 2022-12-12 | [一品红](https://s.cn.bing.net/th?id=OHR.PoinsettiaDay_ZH-CN5115071992_UHD.jpg) 
 2022-12-13 | [哈尔施塔特，奥地利](https://s.cn.bing.net/th?id=OHR.InstagramHallstatt_ZH-CN5309282641_UHD.jpg) 
 2022-12-14 | [大帕拉迪索国家公园，意大利](https://s.cn.bing.net/th?id=OHR.GranParadiso100th_ZH-CN5744961532_UHD.jpg) 
+2022-12-15 | [博罗韦茨，保加利亚](https://s.cn.bing.net/th?id=OHR.Borovets_ZH-CN5914681811_UHD.jpg) 
