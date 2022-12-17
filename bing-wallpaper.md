@@ -88,3 +88,4 @@
 2022-12-14 | [大帕拉迪索国家公园，意大利](https://s.cn.bing.net/th?id=OHR.GranParadiso100th_ZH-CN5744961532_UHD.jpg) 
 2022-12-15 | [博罗韦茨，保加利亚](https://s.cn.bing.net/th?id=OHR.Borovets_ZH-CN5914681811_UHD.jpg) 
 2022-12-16 | [杜德萨加尔瀑布，印度果阿](https://s.cn.bing.net/th?id=OHR.DudhsagarFallsGoa_ZH-CN0466471017_UHD.jpg) 
+2022-12-17 | [冰川国家公园的山羊，美国蒙大拿州](https://s.cn.bing.net/th?id=OHR.GlacierGoats_ZH-CN0764810245_UHD.jpg) 
