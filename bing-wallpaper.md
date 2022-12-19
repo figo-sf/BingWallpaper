@@ -90,3 +90,4 @@
 2022-12-16 | [杜德萨加尔瀑布，印度果阿](https://s.cn.bing.net/th?id=OHR.DudhsagarFallsGoa_ZH-CN0466471017_UHD.jpg) 
 2022-12-17 | [冰川国家公园的山羊，美国蒙大拿州](https://s.cn.bing.net/th?id=OHR.GlacierGoats_ZH-CN0764810245_UHD.jpg) 
 2022-12-18 | [迈阿密南海滩，美国佛罗里达州](https://s.cn.bing.net/th?id=OHR.SouthBeach_ZH-CN0989287734_UHD.jpg) 
+2022-12-19 | [栖息在北美冬青上的北美红雀，美国伊利诺伊州](https://s.cn.bing.net/th?id=OHR.WinterberryBush_ZH-CN1414026440_UHD.jpg) 
