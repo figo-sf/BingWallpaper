@@ -93,3 +93,4 @@
 2022-12-19 | [栖息在北美冬青上的北美红雀，美国伊利诺伊州](https://s.cn.bing.net/th?id=OHR.WinterberryBush_ZH-CN1414026440_UHD.jpg) 
 2022-12-20 | [维也纳美景宫的圣诞市场，奥地利](https://s.cn.bing.net/th?id=OHR.PalaceBelvedere_ZH-CN1818163173_UHD.jpg) 
 2022-12-21 | [多洛米蒂山脉安特莫亚湖上的日晕，意大利](https://s.cn.bing.net/th?id=OHR.SolarHalo_ZH-CN2320274967_UHD.jpg) 
+2022-12-22 | [安纳西，法国上瓦萨省](https://s.cn.bing.net/th?id=OHR.AnnecyXmas_ZH-CN2540694929_UHD.jpg) 
