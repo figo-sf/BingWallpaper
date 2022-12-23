@@ -94,3 +94,4 @@
 2022-12-20 | [维也纳美景宫的圣诞市场，奥地利](https://s.cn.bing.net/th?id=OHR.PalaceBelvedere_ZH-CN1818163173_UHD.jpg) 
 2022-12-21 | [多洛米蒂山脉安特莫亚湖上的日晕，意大利](https://s.cn.bing.net/th?id=OHR.SolarHalo_ZH-CN2320274967_UHD.jpg) 
 2022-12-22 | [安纳西，法国上瓦萨省](https://s.cn.bing.net/th?id=OHR.AnnecyXmas_ZH-CN2540694929_UHD.jpg) 
+2022-12-23 | [南极洲的巴布亚企鹅](https://s.cn.bing.net/th?id=OHR.GentooGrievances_ZH-CN2875292726_UHD.jpg) 
