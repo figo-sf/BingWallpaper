@@ -100,3 +100,4 @@
 2022-12-26 | [贝弗利·韦斯特伍德，东约克郡，英格兰](https://s.cn.bing.net/th?id=OHR.BeverleyWestwood_ZH-CN3729041588_UHD.jpg) 
 2022-12-27 | [格林达维克的蓝湖，冰岛](https://s.cn.bing.net/th?id=OHR.BlueLagoon_ZH-CN3874240119_UHD.jpg) 
 2022-12-28 | [马洛亚，瑞士](https://s.cn.bing.net/th?id=OHR.ChiesaBianca_ZH-CN4208333975_UHD.jpg) 
+2022-12-29 | [斯托尔石山，天空之岛，苏格兰](https://s.cn.bing.net/th?id=OHR.StorrRocks_ZH-CN4956679462_UHD.jpg) 
