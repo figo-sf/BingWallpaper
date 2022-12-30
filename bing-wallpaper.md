@@ -101,3 +101,4 @@
 2022-12-27 | [格林达维克的蓝湖，冰岛](https://s.cn.bing.net/th?id=OHR.BlueLagoon_ZH-CN3874240119_UHD.jpg) 
 2022-12-28 | [马洛亚，瑞士](https://s.cn.bing.net/th?id=OHR.ChiesaBianca_ZH-CN4208333975_UHD.jpg) 
 2022-12-29 | [斯托尔石山，天空之岛，苏格兰](https://s.cn.bing.net/th?id=OHR.StorrRocks_ZH-CN4956679462_UHD.jpg) 
+2022-12-30 | [白沙漠中的岩石，埃及](https://s.cn.bing.net/th?id=OHR.ChalkRock_ZH-CN2893565655_UHD.jpg) 
