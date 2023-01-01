@@ -103,3 +103,4 @@
 2022-12-29 | [斯托尔石山，天空之岛，苏格兰](https://s.cn.bing.net/th?id=OHR.StorrRocks_ZH-CN4956679462_UHD.jpg) 
 2022-12-30 | [白沙漠中的岩石，埃及](https://s.cn.bing.net/th?id=OHR.ChalkRock_ZH-CN2893565655_UHD.jpg) 
 2022-12-31 | [一起迎接2023年](https://s.cn.bing.net/th?id=OHR.TheNationaDay_ZH-CN7631842209_UHD.jpg) 
+2023-01-01 | [北极熊斯瓦尔巴群岛，挪威](https://s.cn.bing.net/th?id=OHR.NorwayNYD_ZH-CN7856439066_UHD.jpg) 
