@@ -105,3 +105,4 @@
 2022-12-31 | [一起迎接2023年](https://s.cn.bing.net/th?id=OHR.TheNationaDay_ZH-CN7631842209_UHD.jpg) 
 2023-01-01 | [北极熊斯瓦尔巴群岛，挪威](https://s.cn.bing.net/th?id=OHR.NorwayNYD_ZH-CN7856439066_UHD.jpg) 
 2023-01-02 | [霍亨索伦城堡，德国](https://s.cn.bing.net/th?id=OHR.HohenzollernBurg_ZH-CN8109082566_UHD.jpg) 
+2023-01-03 | [博斯克·德尔·阿帕奇国家野生动物保护区的沙丘鹤，美国新墨西哥州](https://s.cn.bing.net/th?id=OHR.SandhillSleeping_ZH-CN8483997851_UHD.jpg) 
