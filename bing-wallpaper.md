@@ -110,3 +110,4 @@
 2023-01-05 | [白鼬 (Mustela erminea), 上巴伐利亚，德国](https://s.cn.bing.net/th?id=OHR.HermelinSchnee_ZH-CN8839783506_UHD.jpg) 
 2023-01-06 | [英格兰湖区的Black Fell](https://s.cn.bing.net/th?id=OHR.BlackFell_ZH-CN9224189688_UHD.jpg) 
 2023-01-07 | [羊毛和马海毛纱线](https://s.cn.bing.net/th?id=OHR.Mohair_ZH-CN9435762268_UHD.jpg) 
+2023-01-08 | [科罗拉多州布雷肯里奇](https://s.cn.bing.net/th?id=OHR.Breckenridge_ZH-CN9598860382_UHD.jpg) 
