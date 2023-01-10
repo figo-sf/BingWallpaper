@@ -112,3 +112,4 @@
 2023-01-07 | [羊毛和马海毛纱线](https://s.cn.bing.net/th?id=OHR.Mohair_ZH-CN9435762268_UHD.jpg) 
 2023-01-08 | [科罗拉多州布雷肯里奇](https://s.cn.bing.net/th?id=OHR.Breckenridge_ZH-CN9598860382_UHD.jpg) 
 2023-01-09 | [南达科他州风洞国家公园的水牛](https://s.cn.bing.net/th?id=OHR.BisonWindCave_ZH-CN9778045938_UHD.jpg) 
+2023-01-10 | [爱沙尼亚佩普斯湖上的小冰丘](https://s.cn.bing.net/th?id=OHR.HummockIce_ZH-CN9917832145_UHD.jpg) 
