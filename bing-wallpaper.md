@@ -114,3 +114,4 @@
 2023-01-09 | [南达科他州风洞国家公园的水牛](https://s.cn.bing.net/th?id=OHR.BisonWindCave_ZH-CN9778045938_UHD.jpg) 
 2023-01-10 | [爱沙尼亚佩普斯湖上的小冰丘](https://s.cn.bing.net/th?id=OHR.HummockIce_ZH-CN9917832145_UHD.jpg) 
 2023-01-11 | [戈德雷维灯塔，英国康沃尔郡](https://s.cn.bing.net/th?id=OHR.GodrevyRocks_ZH-CN0051118926_UHD.jpg) 
+2023-01-12 | [博斯普鲁斯海峡的如梅利堡垒，土耳其伊斯坦布尔](https://s.cn.bing.net/th?id=OHR.RumeliHisari_ZH-CN0185820275_UHD.jpg) 
