@@ -115,3 +115,4 @@
 2023-01-10 | [爱沙尼亚佩普斯湖上的小冰丘](https://s.cn.bing.net/th?id=OHR.HummockIce_ZH-CN9917832145_UHD.jpg) 
 2023-01-11 | [戈德雷维灯塔，英国康沃尔郡](https://s.cn.bing.net/th?id=OHR.GodrevyRocks_ZH-CN0051118926_UHD.jpg) 
 2023-01-12 | [博斯普鲁斯海峡的如梅利堡垒，土耳其伊斯坦布尔](https://s.cn.bing.net/th?id=OHR.RumeliHisari_ZH-CN0185820275_UHD.jpg) 
+2023-01-13 | [海峡群岛国家公园的巨藻，美国加利福尼亚州](https://s.cn.bing.net/th?id=OHR.Pneumatocysts_ZH-CN5721988566_UHD.jpg) 
