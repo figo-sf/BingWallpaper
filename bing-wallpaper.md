@@ -118,3 +118,4 @@
 2023-01-13 | [海峡群岛国家公园的巨藻，美国加利福尼亚州](https://s.cn.bing.net/th?id=OHR.Pneumatocysts_ZH-CN5721988566_UHD.jpg) 
 2023-01-14 | [吃樱桃树枝的毛驴](https://s.cn.bing.net/th?id=OHR.DonkeyFeast_ZH-CN5880627132_UHD.jpg) 
 2023-01-15 | [横贯图尔库的奥拉河, 芬兰](https://s.cn.bing.net/th?id=OHR.Turku_ZH-CN6008877545_UHD.jpg) 
+2023-01-16 | [麦切纳山和结冰的亚伯拉罕湖，加拿大艾伯塔省](https://s.cn.bing.net/th?id=OHR.FrozenBubblesAlberta_ZH-CN6154214678_UHD.jpg) 
