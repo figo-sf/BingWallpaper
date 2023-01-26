@@ -127,3 +127,4 @@
 2023-01-22 | [春节的桃花和红灯笼](https://s.cn.bing.net/th?id=OHR.ChineseSpringFestival2023_ZH-CN7281854882_UHD.jpg) 
 2023-01-23 | [复活节岛上的摩艾石像，智利](https://s.cn.bing.net/th?id=OHR.SunriseMoai_ZH-CN7413178404_UHD.jpg) 
 2023-01-24 | [多洛米蒂山谷中的科莱圣卢恰小镇，意大利](https://s.cn.bing.net/th?id=OHR.ColleSantaLucia_ZH-CN7638164714_UHD.jpg) 
+2023-01-26 | [天门洞，湖南天门山国家森林公园，中国](https://s.cn.bing.net/th?id=OHR.HighArchChina_ZH-CN8170154553_UHD.jpg) 
