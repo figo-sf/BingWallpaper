@@ -131,3 +131,4 @@
 2023-01-27 | [瓜纳阿卡维韦斯半岛国家公园的红树林，古巴](https://s.cn.bing.net/th?id=OHR.RedMangrove_ZH-CN4083989028_UHD.jpg) 
 2023-01-28 | [从国际空间站看到的巴哈马周围的蓝绿色水域](https://s.cn.bing.net/th?id=OHR.BlueBahamas_ZH-CN2083290847_UHD.jpg) 
 2023-01-29 | [埃塞克斯的乌鸫，英国](https://s.cn.bing.net/th?id=OHR.BlackbirdDay_ZH-CN2291101162_UHD.jpg) 
+2023-01-30 | [卡纳塔克邦的纳加尔霍雷国家公园，印度](https://s.cn.bing.net/th?id=OHR.NagarholeNationalPark_ZH-CN2550578922_UHD.jpg) 
