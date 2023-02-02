@@ -134,3 +134,4 @@
 2023-01-30 | [卡纳塔克邦的纳加尔霍雷国家公园，印度](https://s.cn.bing.net/th?id=OHR.NagarholeNationalPark_ZH-CN2550578922_UHD.jpg) 
 2023-01-31 | [南非自然保护区的斑马](https://s.cn.bing.net/th?id=OHR.ZebraTrio_ZH-CN5902552401_UHD.jpg) 
 2023-02-01 | [皮埃尔丰城堡，皮卡第大区，法国](https://s.cn.bing.net/th?id=OHR.SunriseCastle_ZH-CN6235928386_UHD.jpg) 
+2023-02-02 | [高地陶恩国家公园内的高山土拨鼠，奥地利](https://s.cn.bing.net/th?id=OHR.GroundhogThree_ZH-CN6720558481_UHD.jpg) 
