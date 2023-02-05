@@ -136,3 +136,4 @@
 2023-02-01 | [皮埃尔丰城堡，皮卡第大区，法国](https://s.cn.bing.net/th?id=OHR.SunriseCastle_ZH-CN6235928386_UHD.jpg) 
 2023-02-02 | [高地陶恩国家公园内的高山土拨鼠，奥地利](https://s.cn.bing.net/th?id=OHR.GroundhogThree_ZH-CN6720558481_UHD.jpg) 
 2023-02-04 | [永福樱花园，福建省龙岩市, 中国](https://s.cn.bing.nethttps://th.bing.com/th?id=OHR.Lichun2023_ZH-CN7842399047_UHD.jpg) 
+2023-02-05 | [毛茸茸又可爱的山兔](https://s.cn.bing.net/th?id=OHR.YearRabbit_ZH-CN2751166096_UHD.jpg) 
