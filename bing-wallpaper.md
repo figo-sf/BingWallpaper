@@ -139,3 +139,4 @@
 2023-02-05 | [毛茸茸又可爱的山兔](https://s.cn.bing.net/th?id=OHR.YearRabbit_ZH-CN2751166096_UHD.jpg) 
 2023-02-07 | [拉布罗小镇，列蒂省，意大利](https://s.cn.bing.net/th?id=OHR.MedievalLabro_ZH-CN0015356188_UHD.jpg) 
 2023-02-08 | [艾琳多南堡，苏格兰高地](https://s.cn.bing.net/th?id=OHR.EileanDonanDawn_ZH-CN0383017858_UHD.jpg) 
+2023-02-09 | [下羚羊峡谷，亚利桑那州，美国](https://s.cn.bing.net/th?id=OHR.LowerAntelopeAZ_ZH-CN4758496750_UHD.jpg) 
