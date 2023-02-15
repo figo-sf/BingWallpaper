@@ -145,3 +145,4 @@
 2023-02-12 | [一对蓝脚鲣鸟，加拉帕戈斯群岛，厄瓜多尔](https://s.cn.bing.net/th?id=OHR.BoobyDarwinDay_ZH-CN9917306809_UHD.jpg) 
 2023-02-13 | [阿卡切斯瞭望台，月亮谷，智利](https://s.cn.bing.net/th?id=OHR.MoonValley_ZH-CN1906470869_UHD.jpg) 
 2023-02-14 | [日本北海道小樽雪灯之路的冰屋](https://s.cn.bing.net/th?id=OHR.OtaruIgloo_ZH-CN2078929256_UHD.jpg) 
+2023-02-15 | [河马妈妈和宝宝，乔贝国家公园，博茨瓦纳](https://s.cn.bing.net/th?id=OHR.HippoDayChobe_ZH-CN2883647954_UHD.jpg) 
