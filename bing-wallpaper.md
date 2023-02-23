@@ -153,3 +153,4 @@
 2023-02-20 | [Itaimbezinho峡谷，巴西](https://s.cn.bing.net/th?id=OHR.Itaimbezinho_ZH-CN5641449623_UHD.jpg) 
 2023-02-21 | [新奥尔良法语区，路易斯安那州](https://s.cn.bing.net/th?id=OHR.MardiGrasNOLA_ZH-CN9628788934_UHD.jpg) 
 2023-02-22 | [菲希特尔山脉上的和平钟，萨克森州，德国](https://s.cn.bing.net/th?id=OHR.FriedensglockeFichtelberg_ZH-CN5510489151_UHD.jpg) 
+2023-02-23 | [克罗索尔山谷，斯诺多尼亚国家公园，英国威尔士](https://s.cn.bing.net/th?id=OHR.BabblingBrook_ZH-CN9371346787_UHD.jpg) 
