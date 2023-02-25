@@ -155,3 +155,4 @@
 2023-02-22 | [菲希特尔山脉上的和平钟，萨克森州，德国](https://s.cn.bing.net/th?id=OHR.FriedensglockeFichtelberg_ZH-CN5510489151_UHD.jpg) 
 2023-02-23 | [克罗索尔山谷，斯诺多尼亚国家公园，英国威尔士](https://s.cn.bing.net/th?id=OHR.BabblingBrook_ZH-CN9371346787_UHD.jpg) 
 2023-02-24 | [里士满公园的鸳鸯，伦敦，英国](https://s.cn.bing.net/th?id=OHR.RichmondParkDuck_ZH-CN4956127005_UHD.jpg) 
+2023-02-25 | [布莱斯峡谷国家公园的石林，犹他州，美国](https://s.cn.bing.net/th?id=OHR.BryceAnniv_ZH-CN5305245786_UHD.jpg) 
