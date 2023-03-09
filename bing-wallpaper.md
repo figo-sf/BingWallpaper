@@ -167,3 +167,4 @@
 2023-03-06 | [站在自己领域的冰岛马，冰岛](https://s.cn.bing.net/th?id=OHR.IcelandHorses_ZH-CN7213041152_UHD.jpg) 
 2023-03-07 | [梯田鸟瞰图，元阳，中国](https://s.cn.bing.net/th?id=OHR.YuanyangChina_ZH-CN7360249295_UHD.jpg) 
 2023-03-08 | [极光展示，怀特霍斯，育空地区，加拿大](https://s.cn.bing.net/th?id=OHR.WhitehorseAurora_ZH-CN0978404088_UHD.jpg) 
+2023-03-09 | [威美亚峡谷和怀波奥瀑布上空的彩虹,考艾岛，夏威夷，美国](https://s.cn.bing.net/th?id=OHR.WaimeaRainbow_ZH-CN1127225170_UHD.jpg) 
