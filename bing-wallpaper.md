@@ -195,3 +195,4 @@
 2023-04-04 | [](https://s.cn.bing.net/th?id=OHR.RomanBridge_ZH-CN4699931052_UHD.jpg) 
 2023-04-05 | [](https://s.cn.bing.net/th?id=OHR.QingMing2023_ZH-CN6951199028_UHD.jpg) 
 2023-04-06 | [](https://s.cn.bing.net/th?id=OHR.ArizonaPinkMoon_ZH-CN5545607389_UHD.jpg) 
+2023-04-07 | [](https://s.cn.bing.net/th?id=OHR.KitsAspen_ZH-CN2160526845_UHD.jpg) 
