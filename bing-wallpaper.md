@@ -203,3 +203,4 @@
 2023-04-12 | [](https://s.cn.bing.net/th?id=OHR.EuropeFromISS_ZH-CN0722816540_UHD.jpg) 
 2023-04-14 | [](https://s.cn.bing.net/th?id=OHR.RedSeaStars_ZH-CN6243743747_UHD.jpg) 
 2023-04-15 | [](https://s.cn.bing.net/th?id=OHR.NahargarhFort_ZH-CN7681434372_UHD.jpg) 
+2023-04-16 | [](https://s.cn.bing.net/th?id=OHR.KiteDay_ZH-CN7813901578_UHD.jpg) 
