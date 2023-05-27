@@ -244,3 +244,4 @@
 2023-05-24 | [](https://s.cn.bing.net/th?id=OHR.OldFortress_ZH-CN6469523538_UHD.jpg) 
 2023-05-25 | [](https://s.cn.bing.net/th?id=OHR.SaksunFaroe_ZH-CN7150180006_UHD.jpg) 
 2023-05-26 | [](https://s.cn.bing.net/th?id=OHR.WatSriSawai_ZH-CN7688908090_UHD.jpg) 
+2023-05-27 | [](https://s.cn.bing.net/th?id=OHR.AloeDichotomum_ZH-CN7940121733_UHD.jpg) 
