@@ -249,3 +249,4 @@
 2023-05-29 | [](https://s.cn.bing.net/th?id=OHR.Antilles_ZH-CN8267285876_UHD.jpg) 
 2023-05-30 | [](https://s.cn.bing.net/th?id=OHR.HiddenBeach_ZH-CN8410568637_UHD.jpg) 
 2023-05-31 | [](https://s.cn.bing.net/th?id=OHR.WorldOtterDay_ZH-CN8607141093_UHD.jpg) 
+2023-06-01 | [](https://s.cn.bing.net/th?id=OHR.ReefAwareness_ZH-CN8840949729_UHD.jpg) 
