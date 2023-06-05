@@ -253,3 +253,4 @@
 2023-06-02 | [](https://s.cn.bing.net/th?id=OHR.GemsbokNamibia_ZH-CN0963988839_UHD.jpg) 
 2023-06-03 | [](https://s.cn.bing.net/th?id=OHR.SouthKaibabTrail_ZH-CN1186135534_UHD.jpg) 
 2023-06-04 | [](https://s.cn.bing.net/th?id=OHR.MauiBeach_ZH-CN1435658101_UHD.jpg) 
+2023-06-05 | [](https://s.cn.bing.net/th?id=OHR.WaterfallsSunwaptaValley_ZH-CN1804229850_UHD.jpg) 
