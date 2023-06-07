@@ -255,3 +255,4 @@
 2023-06-04 | [](https://s.cn.bing.net/th?id=OHR.MauiBeach_ZH-CN1435658101_UHD.jpg) 
 2023-06-05 | [](https://s.cn.bing.net/th?id=OHR.WaterfallsSunwaptaValley_ZH-CN1804229850_UHD.jpg) 
 2023-06-06 | [](https://s.cn.bing.net/th?id=OHR.CliffsEtretat_ZH-CN9911283373_UHD.jpg) 
+2023-06-07 | [](https://s.cn.bing.net/th?id=OHR.ChacoCulture_ZH-CN2098865361_UHD.jpg) 
