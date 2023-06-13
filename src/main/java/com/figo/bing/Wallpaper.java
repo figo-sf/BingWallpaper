@@ -19,7 +19,7 @@ public class Wallpaper {
         LocalDate localDate = LocalDate.now();
         url = url.substring(0, url.lastIndexOf("_")) + "_UHD.jpg";
 
-        String desc = document.select(".musCardCont h2 a").html();
+        String desc = document.select(".musCardCont h3 a").html();
         Image image = new Image(desc, localDate.toString(), url);
         QiniuUtils.uploadFile(image);
         /*Response response = UpYunRestManagerUtils.uploadFile(image);
