@@ -261,3 +261,4 @@
 2023-06-10 | [image](https://s.cn.bing.net/th?id=OHR.PortugalDay_ZH-CN2939429166_UHD.jpg) 
 2023-06-11 | [image](https://s.cn.bing.net/th?id=OHR.GoliathHeron_ZH-CN2413747227_UHD.jpg) 
 2023-06-12 | [image](https://s.cn.bing.net/th?id=OHR.BigBendAnniv_ZH-CN3445097868_UHD.jpg) 
+2023-06-13 | [奥克弗诺基沼泽木板路上的西班牙苔藓，佐治亚州，美国](https://s.cn.bing.net/th?id=OHR.OkefenokeeSwamp_ZH-CN3640203783_UHD.jpg) 
