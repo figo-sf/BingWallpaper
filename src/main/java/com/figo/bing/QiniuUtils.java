@@ -11,10 +11,9 @@ import java.net.URL;
 
 public class QiniuUtils {
 
-
-    private static String accessKey = "1TPfR4N55zjdJzQMc7Cy1hUJXOtYJ12hyCva27kn";
-    private static String secretKey = "ppywOFkKFZB2FmeveTKyCAKVwAMTvK-wSEd07d-r";
-    private static String bucketName = "figo";
+    private static String bucketName = System.getenv("BUCKET_NAME");
+    private static String accessKey = System.getenv("OPERATOR_NAME");
+    private static String secretKey = System.getenv("OPERATOR_PWD");
 
     public static void uploadFile(Image image) throws Exception {
 
