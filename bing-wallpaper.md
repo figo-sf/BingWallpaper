@@ -266,3 +266,4 @@
 2023-06-15 | [同步萤火虫，大烟山国家公园，田纳西州，美国](https://s.cn.bing.net/th?id=OHR.SmokyFireflies_ZH-CN3840923626_UHD.jpg) 
 2023-06-16 | [游泳的鹰嘴海龟， 冲绳，日本](https://s.cn.bing.net/th?id=OHR.HawksbillTurtle_ZH-CN0562063994_UHD.jpg) 
 2023-06-17 | [在加利福尼亚州圣地亚哥举行的“为团结划桨”活动](https://s.cn.bing.net/th?id=OHR.SurfSanDiego_ZH-CN1485510748_UHD.jpg) 
+2023-06-18 | [普通燕鸥父亲和宝宝，长岛，纽约州，美国](https://s.cn.bing.net/th?id=OHR.TernFather_ZH-CN1860589914_UHD.jpg) 
