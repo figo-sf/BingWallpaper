@@ -271,3 +271,4 @@
 2023-06-20 | [秃鹰，通加斯国家森林，阿拉斯加，美国](https://s.cn.bing.net/th?id=OHR.EagleTree_ZH-CN7775102951_UHD.jpg) 
 2023-06-21 | [夏日盛开的荷花](https://s.cn.bing.net/th?id=OHR.SummerSolstice2023_ZH-CN5038619036_UHD.jpg) 
 2023-06-22 | [中国传统节日端午节](https://s.cn.bing.net/th?id=OHR.DragonBoatFestival2023_ZH-CN5255671687_UHD.jpg) 
+2023-06-23 | [帝王蝶在野花中取食](https://s.cn.bing.net/th?id=OHR.PollinatorMonarch_ZH-CN5556988827_UHD.jpg) 
