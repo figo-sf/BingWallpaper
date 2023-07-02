@@ -280,3 +280,4 @@
 2023-06-29 | [巴尼亚群岛，苏门答腊，印度尼西亚](https://s.cn.bing.net/th?id=OHR.BanyakIslands_ZH-CN6620304821_UHD.jpg) 
 2023-06-30 | [棕熊妈妈和幼崽，克拉克湖国家公园和自然保护区，美国阿拉斯加州](https://s.cn.bing.net/th?id=OHR.ClamBears_ZH-CN5686721500_UHD.jpg) 
 2023-07-01 | [从意大利圣天使城堡俯瞰罗马](https://s.cn.bing.net/th?id=OHR.RomeView_ZH-CN5882212305_UHD.jpg) 
+2023-07-02 | [费吕沃湖水道桥，荷兰](https://s.cn.bing.net/th?id=OHR.HalfwayBoats_ZH-CN3563044251_UHD.jpg) 
