@@ -282,3 +282,4 @@
 2023-07-01 | [从意大利圣天使城堡俯瞰罗马](https://s.cn.bing.net/th?id=OHR.RomeView_ZH-CN5882212305_UHD.jpg) 
 2023-07-02 | [费吕沃湖水道桥，荷兰](https://s.cn.bing.net/th?id=OHR.HalfwayBoats_ZH-CN3563044251_UHD.jpg) 
 2023-07-03 | [班夫的土狼，加拿大](https://s.cn.bing.net/th?id=OHR.CoyoteBanff_ZH-CN7537137739_UHD.jpg) 
+2023-07-04 | [草原国家公园，萨斯喀彻温省，加拿大](https://s.cn.bing.net/th?id=OHR.GrasslandsNationalParkSaskachewan_ZH-CN6530285883_UHD.jpg) 
