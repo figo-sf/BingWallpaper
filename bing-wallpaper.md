@@ -285,3 +285,4 @@
 2023-07-04 | [草原国家公园，萨斯喀彻温省，加拿大](https://s.cn.bing.net/th?id=OHR.GrasslandsNationalParkSaskachewan_ZH-CN6530285883_UHD.jpg) 
 2023-07-05 | [蒂莫尼港海滩，科孚岛，希腊](https://s.cn.bing.net/th?id=OHR.CorfuBeach_ZH-CN8660068587_UHD.jpg) 
 2023-07-06 | [南跳岩企鹅，福克兰群岛](https://s.cn.bing.net/th?id=OHR.KissingPenguins_ZH-CN5449471262_UHD.jpg) 
+2023-07-07 | [安班加的可可豆荚，马达加斯加](https://s.cn.bing.net/th?id=OHR.CocoaPods_ZH-CN6192387360_UHD.jpg) 
