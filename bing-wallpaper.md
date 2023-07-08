@@ -286,3 +286,4 @@
 2023-07-05 | [蒂莫尼港海滩，科孚岛，希腊](https://s.cn.bing.net/th?id=OHR.CorfuBeach_ZH-CN8660068587_UHD.jpg) 
 2023-07-06 | [南跳岩企鹅，福克兰群岛](https://s.cn.bing.net/th?id=OHR.KissingPenguins_ZH-CN5449471262_UHD.jpg) 
 2023-07-07 | [安班加的可可豆荚，马达加斯加](https://s.cn.bing.net/th?id=OHR.CocoaPods_ZH-CN6192387360_UHD.jpg) 
+2023-07-08 | [米尔德里德-B-库珀纪念教堂，贝拉维斯塔，阿肯色州](https://s.cn.bing.net/th?id=OHR.CooperChapel_ZH-CN1150924688_UHD.jpg) 
