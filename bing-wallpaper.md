@@ -289,3 +289,4 @@
 2023-07-08 | [米尔德里德-B-库珀纪念教堂，贝拉维斯塔，阿肯色州](https://s.cn.bing.net/th?id=OHR.CooperChapel_ZH-CN1150924688_UHD.jpg) 
 2023-07-09 | [克罗夫附近的摩泽尔河，德国](https://s.cn.bing.net/th?id=OHR.MoselleRiver_ZH-CN1283415242_UHD.jpg) 
 2023-07-10 | [萨默塞特郡的薰衣草田，英国](https://s.cn.bing.net/th?id=OHR.SomersetLavender_ZH-CN5823464763_UHD.jpg) 
+2023-07-11 | [Hong Kong SAR](https://s.cn.bing.net/th?id=OHR.WorldPopDay_ZH-CN7074706912_UHD.jpg) 
