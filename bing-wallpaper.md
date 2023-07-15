@@ -293,3 +293,4 @@
 2023-07-12 | [“我爱你”海滩自然保护区的沙洲，桑给巴尔，坦桑尼亚](https://s.cn.bing.net/th?id=OHR.NakupendaBeach_ZH-CN7913805608_UHD.jpg) 
 2023-07-13 | [张掖国家地质公园，甘肃，中国](https://s.cn.bing.net/th?id=OHR.ZhangyeGeopark_ZH-CN1045536243_UHD.jpg) 
 2023-07-14 | [乌翅真鲨，马尔代夫](https://s.cn.bing.net/th?id=OHR.BlacktipSharks_ZH-CN6532659465_UHD.jpg) 
+2023-07-15 | [卡斯泰尔梅扎诺，意大利](https://s.cn.bing.net/th?id=OHR.CastelmazzanoSunrise_ZH-CN6733875019_UHD.jpg) 
