@@ -294,3 +294,4 @@
 2023-07-13 | [张掖国家地质公园，甘肃，中国](https://s.cn.bing.net/th?id=OHR.ZhangyeGeopark_ZH-CN1045536243_UHD.jpg) 
 2023-07-14 | [乌翅真鲨，马尔代夫](https://s.cn.bing.net/th?id=OHR.BlacktipSharks_ZH-CN6532659465_UHD.jpg) 
 2023-07-15 | [卡斯泰尔梅扎诺，意大利](https://s.cn.bing.net/th?id=OHR.CastelmazzanoSunrise_ZH-CN6733875019_UHD.jpg) 
+2023-07-16 | [熊洞溪，卡茨基尔山脉，纽约，美国](https://s.cn.bing.net/th?id=OHR.BearHoleBrook_ZH-CN6855885557_UHD.jpg) 
