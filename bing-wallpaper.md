@@ -297,3 +297,4 @@
 2023-07-16 | [熊洞溪，卡茨基尔山脉，纽约，美国](https://s.cn.bing.net/th?id=OHR.BearHoleBrook_ZH-CN6855885557_UHD.jpg) 
 2023-07-17 | [乌特湖的克拉夫特城堡，卡文郡，爱尔兰](https://s.cn.bing.net/th?id=OHR.CavanCastle_ZH-CN7109317900_UHD.jpg) 
 2023-07-18 | [双角犀鸟，考艾国家公园，泰国](https://s.cn.bing.net/th?id=OHR.BucerosBicornis_ZH-CN7795050230_UHD.jpg) 
+2023-07-19 | [敦煌月牙泉，甘肃省，中国](https://s.cn.bing.net/th?id=OHR.CrescentLake_ZH-CN8294493832_UHD.jpg) 
