@@ -301,3 +301,4 @@
 2023-07-20 | [从美国宇航局猎户座飞船上看到的月球](https://s.cn.bing.net/th?id=OHR.MoonDayArtemis_ZH-CN8743374853_UHD.jpg) 
 2023-07-21 | [斯托尔桑德特大桥，挪威](https://s.cn.bing.net/th?id=OHR.BridgeNorway_ZH-CN9063814637_UHD.jpg) 
 2023-07-22 | [在一棵秃柏树上吊床露营，佛罗里达州，美国](https://s.cn.bing.net/th?id=OHR.HammockDay_ZH-CN9368760971_UHD.jpg) 
+2023-07-23 | [爱丁堡茶园, 努沃勒埃利耶, 斯里兰卡](https://s.cn.bing.net/th?id=OHR.TeaEstate_ZH-CN9645412630_UHD.jpg) 
