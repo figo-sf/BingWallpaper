@@ -302,3 +302,4 @@
 2023-07-21 | [斯托尔桑德特大桥，挪威](https://s.cn.bing.net/th?id=OHR.BridgeNorway_ZH-CN9063814637_UHD.jpg) 
 2023-07-22 | [在一棵秃柏树上吊床露营，佛罗里达州，美国](https://s.cn.bing.net/th?id=OHR.HammockDay_ZH-CN9368760971_UHD.jpg) 
 2023-07-23 | [爱丁堡茶园, 努沃勒埃利耶, 斯里兰卡](https://s.cn.bing.net/th?id=OHR.TeaEstate_ZH-CN9645412630_UHD.jpg) 
+2023-07-24 | [斑马，塔兰吉雷国家公园，坦桑尼亚](https://s.cn.bing.net/th?id=OHR.ZebraCousins_ZH-CN8159888859_UHD.jpg) 
