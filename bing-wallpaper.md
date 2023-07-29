@@ -307,3 +307,4 @@
 2023-07-26 | [朱拜勒红树林公园，阿布扎比，阿拉伯联合酋长国](https://s.cn.bing.net/th?id=OHR.MangrovePark_ZH-CN0208518370_UHD.jpg) 
 2023-07-27 | [卡鲁塞尔凯旋门和卢浮宫金字塔，巴黎，法国](https://s.cn.bing.net/th?id=OHR.ParisLouvre_ZH-CN0341884841_UHD.jpg) 
 2023-07-28 | [圣布拉斯群岛，巴拿马](https://s.cn.bing.net/th?id=OHR.SanBlasIslands_ZH-CN6320572106_UHD.jpg) 
+2023-07-29 | [孟加拉虎，兰坦波尔国家公园，印度](https://s.cn.bing.net/th?id=OHR.TigerIndia_ZH-CN6657629375_UHD.jpg) 
