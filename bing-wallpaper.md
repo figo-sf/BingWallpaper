@@ -309,3 +309,4 @@
 2023-07-28 | [圣布拉斯群岛，巴拿马](https://s.cn.bing.net/th?id=OHR.SanBlasIslands_ZH-CN6320572106_UHD.jpg) 
 2023-07-29 | [孟加拉虎，兰坦波尔国家公园，印度](https://s.cn.bing.net/th?id=OHR.TigerIndia_ZH-CN6657629375_UHD.jpg) 
 2023-07-30 | [帕卢斯的农田，华盛顿州，美国](https://s.cn.bing.net/th?id=OHR.PalouseHills_ZH-CN6864015897_UHD.jpg) 
+2023-07-31 | [霍金山州立公园的岩石屋，俄亥俄州，美国](https://s.cn.bing.net/th?id=OHR.RockHouse_ZH-CN7318310409_UHD.jpg) 
