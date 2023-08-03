@@ -312,3 +312,4 @@
 2023-07-31 | [霍金山州立公园的岩石屋，俄亥俄州，美国](https://s.cn.bing.net/th?id=OHR.RockHouse_ZH-CN7318310409_UHD.jpg) 
 2023-08-01 | [从德纳里山看福克拉山，德纳里国家公园，美国阿拉斯加州](https://s.cn.bing.net/th?id=OHR.DenaliClimber_ZH-CN7548168932_UHD.jpg) 
 2023-08-02 | [圆顶礁国家公园的砂岩山丘，犹他州，美国](https://s.cn.bing.net/th?id=OHR.CapitolButte_ZH-CN7707972988_UHD.jpg) 
+2023-08-03 | [泽伦西自然保护区，斯洛文尼亚](https://s.cn.bing.net/th?id=OHR.ZelenciSprings_ZH-CN8022746409_UHD.jpg) 
