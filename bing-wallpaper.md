@@ -315,3 +315,4 @@
 2023-08-03 | [泽伦西自然保护区，斯洛文尼亚](https://s.cn.bing.net/th?id=OHR.ZelenciSprings_ZH-CN8022746409_UHD.jpg) 
 2023-08-04 | [廷特恩修道院，威尔士](https://s.cn.bing.net/th?id=OHR.GothicRuins_ZH-CN8317467997_UHD.jpg) 
 2023-08-05 | [大西洋海鹦，冰岛](https://s.cn.bing.net/th?id=OHR.AtlanticPuffin_ZH-CN8523220989_UHD.jpg) 
+2023-08-06 | [镜池，长野，日本](https://s.cn.bing.net/th?id=OHR.NaganoPond_ZH-CN8794832798_UHD.jpg) 
