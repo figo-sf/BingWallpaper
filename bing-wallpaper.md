@@ -317,3 +317,4 @@
 2023-08-05 | [大西洋海鹦，冰岛](https://s.cn.bing.net/th?id=OHR.AtlanticPuffin_ZH-CN8523220989_UHD.jpg) 
 2023-08-06 | [镜池，长野，日本](https://s.cn.bing.net/th?id=OHR.NaganoPond_ZH-CN8794832798_UHD.jpg) 
 2023-08-07 | [博迪岛灯塔，马头城，北卡罗来纳州，美国](https://s.cn.bing.net/th?id=OHR.BodieNC_ZH-CN9027999004_UHD.jpg) 
+2023-08-08 | [五花海，阿坝九寨沟旅游景区，四川省，中国](https://s.cn.bing.net/th?id=OHR.LiQiu2023_ZH-CN9197909278_UHD.jpg) 
