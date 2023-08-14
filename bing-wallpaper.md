@@ -323,3 +323,4 @@
 2023-08-11 | ['朱庇特艺术园的“入口”水池，爱丁堡，苏格兰](https://s.cn.bing.net/th?id=OHR.JupiterArtland_ZH-CN7955790073_UHD.jpg) 
 2023-08-12 | [大象家族，安波塞利国家公园，肯尼亚](https://s.cn.bing.net/th?id=OHR.ThreeElephants_ZH-CN8708711085_UHD.jpg) 
 2023-08-13 | [英仙座流星雨，白杨木峡谷州立公园，俄勒冈州，美国](https://s.cn.bing.net/th?id=OHR.PerseidsOregon_ZH-CN9427980491_UHD.jpg) 
+2023-08-14 | [叶片上的小壁虎](https://s.cn.bing.net/th?id=OHR.GeckoLeaf_ZH-CN9908456174_UHD.jpg) 
