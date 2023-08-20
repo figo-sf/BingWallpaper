@@ -328,3 +328,4 @@
 2023-08-16 | [基韦斯特的七英里大桥，佛罗里达州，美国](https://s.cn.bing.net/th?id=OHR.KeyWestBridge_ZH-CN2540450067_UHD.jpg) 
 2023-08-18 | [哈利路亚山，张家界国家森林公园，中国](https://s.cn.bing.net/th?id=OHR.AvatarMountain_ZH-CN3268610045_UHD.jpg) 
 2023-08-19 | [看着相机镜头的松鼠](https://s.cn.bing.net/th?id=OHR.CameraSquirrel_ZH-CN3580119980_UHD.jpg) 
+2023-08-20 | [起点灯塔，德文郡，英国](https://s.cn.bing.net/th?id=OHR.StartPointLight_ZH-CN4021540566_UHD.jpg) 
