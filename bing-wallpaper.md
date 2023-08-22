@@ -330,3 +330,4 @@
 2023-08-19 | [看着相机镜头的松鼠](https://s.cn.bing.net/th?id=OHR.CameraSquirrel_ZH-CN3580119980_UHD.jpg) 
 2023-08-20 | [起点灯塔，德文郡，英国](https://s.cn.bing.net/th?id=OHR.StartPointLight_ZH-CN4021540566_UHD.jpg) 
 2023-08-21 | [翡翠湖，加拿大育空地区](https://s.cn.bing.net/th?id=OHR.EmeraldLakeYukon_ZH-CN4281156537_UHD.jpg) 
+2023-08-22 | [埃尔杰姆露天剧场，突尼斯](https://s.cn.bing.net/th?id=OHR.TunisiaAmphitheatre_ZH-CN4431856872_UHD.jpg) 
