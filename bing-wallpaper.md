@@ -335,3 +335,4 @@
 2023-08-24 | [鲨鱼鳍湾，达文波特，加利福尼亚州，美国](https://s.cn.bing.net/th?id=OHR.SharkFinCove_ZH-CN4952934195_UHD.jpg) 
 2023-08-25 | [黄石下瀑布，黄石国家公园，怀俄明州，美国](https://s.cn.bing.net/th?id=OHR.YellowstoneFalls_ZH-CN8050562150_UHD.jpg) 
 2023-08-26 | [柏林大教堂和博物馆岛，柏林，德国](https://s.cn.bing.net/th?id=OHR.MuseumIsland_ZH-CN8277258964_UHD.jpg) 
+2023-08-27 | [城山日出峰，济州岛上的凝灰岩锥，韩国](https://s.cn.bing.net/th?id=OHR.JejuIsland_ZH-CN8434910851_UHD.jpg) 
