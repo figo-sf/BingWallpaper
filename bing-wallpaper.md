@@ -338,3 +338,4 @@
 2023-08-27 | [城山日出峰，济州岛上的凝灰岩锥，韩国](https://s.cn.bing.net/th?id=OHR.JejuIsland_ZH-CN8434910851_UHD.jpg) 
 2023-08-28 | [洛夫里耶纳克堡，西港，杜布罗夫尼克，克罗地亚](https://s.cn.bing.net/th?id=OHR.DubrovnikHarbor_ZH-CN8590217905_UHD.jpg) 
 2023-08-29 | [美洲野牛，大提顿国家公园，怀俄明州](https://s.cn.bing.net/th?id=OHR.TetonBison_ZH-CN9384306649_UHD.jpg) 
+2023-08-30 | [鲸鲨，宁加洛珊瑚礁，西澳大利亚](https://s.cn.bing.net/th?id=OHR.NingalooShark_ZH-CN9014712175_UHD.jpg) 
