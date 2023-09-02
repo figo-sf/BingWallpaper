@@ -341,3 +341,4 @@
 2023-08-30 | [鲸鲨，宁加洛珊瑚礁，西澳大利亚](https://s.cn.bing.net/th?id=OHR.NingalooShark_ZH-CN9014712175_UHD.jpg) 
 2023-08-31 | [巨人柱，铁木森林国家纪念地，亚利桑那州，美国](https://s.cn.bing.net/th?id=OHR.IronwoodCactus_ZH-CN9290037977_UHD.jpg) 
 2023-09-01 | [火鸡尾蘑菇，布里瓦德，北卡罗来纳州，美国](https://s.cn.bing.net/th?id=OHR.TurkeyTailMush_ZH-CN9683744281_UHD.jpg) 
+2023-09-02 | [艾氏煌蜂鸟，圣克鲁斯，加利福尼亚州，美国](https://s.cn.bing.net/th?id=OHR.TinyHummer_ZH-CN9853929957_UHD.jpg) 
