@@ -342,3 +342,4 @@
 2023-08-31 | [巨人柱，铁木森林国家纪念地，亚利桑那州，美国](https://s.cn.bing.net/th?id=OHR.IronwoodCactus_ZH-CN9290037977_UHD.jpg) 
 2023-09-01 | [火鸡尾蘑菇，布里瓦德，北卡罗来纳州，美国](https://s.cn.bing.net/th?id=OHR.TurkeyTailMush_ZH-CN9683744281_UHD.jpg) 
 2023-09-02 | [艾氏煌蜂鸟，圣克鲁斯，加利福尼亚州，美国](https://s.cn.bing.net/th?id=OHR.TinyHummer_ZH-CN9853929957_UHD.jpg) 
+2023-09-03 | [曼哈顿鸟瞰图，纽约市，美国](https://s.cn.bing.net/th?id=OHR.ManhattanAerial_ZH-CN0036686873_UHD.jpg) 
