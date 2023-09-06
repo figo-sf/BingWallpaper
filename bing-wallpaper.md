@@ -345,3 +345,4 @@
 2023-09-03 | [曼哈顿鸟瞰图，纽约市，美国](https://s.cn.bing.net/th?id=OHR.ManhattanAerial_ZH-CN0036686873_UHD.jpg) 
 2023-09-04 | [布尔日的沼泽，法国](https://s.cn.bing.net/th?id=OHR.BourgesMarsh_ZH-CN0505354655_UHD.jpg) 
 2023-09-05 | [塞格拉山，塞尼亚岛，挪威](https://s.cn.bing.net/th?id=OHR.MountSegla_ZH-CN0758615745_UHD.jpg) 
+2023-09-06 | [威尼斯旧港，克里特岛，希腊](https://s.cn.bing.net/th?id=OHR.CreteHarbor_ZH-CN0937533372_UHD.jpg) 
