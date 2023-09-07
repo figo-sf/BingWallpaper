@@ -346,3 +346,4 @@
 2023-09-04 | [布尔日的沼泽，法国](https://s.cn.bing.net/th?id=OHR.BourgesMarsh_ZH-CN0505354655_UHD.jpg) 
 2023-09-05 | [塞格拉山，塞尼亚岛，挪威](https://s.cn.bing.net/th?id=OHR.MountSegla_ZH-CN0758615745_UHD.jpg) 
 2023-09-06 | [威尼斯旧港，克里特岛，希腊](https://s.cn.bing.net/th?id=OHR.CreteHarbor_ZH-CN0937533372_UHD.jpg) 
+2023-09-07 | [沙漠中的骆驼，阿拉伯联合酋长国](https://s.cn.bing.net/th?id=OHR.CamelsAbove_ZH-CN1389810021_UHD.jpg) 
