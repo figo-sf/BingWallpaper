@@ -347,3 +347,4 @@
 2023-09-05 | [塞格拉山，塞尼亚岛，挪威](https://s.cn.bing.net/th?id=OHR.MountSegla_ZH-CN0758615745_UHD.jpg) 
 2023-09-06 | [威尼斯旧港，克里特岛，希腊](https://s.cn.bing.net/th?id=OHR.CreteHarbor_ZH-CN0937533372_UHD.jpg) 
 2023-09-07 | [沙漠中的骆驼，阿拉伯联合酋长国](https://s.cn.bing.net/th?id=OHR.CamelsAbove_ZH-CN1389810021_UHD.jpg) 
+2023-09-08 | [巴斯圆形广场，萨默塞特 ，英国](https://s.cn.bing.net/th?id=OHR.BathCircus_ZH-CN5796600786_UHD.jpg) 
