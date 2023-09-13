@@ -350,3 +350,4 @@
 2023-09-08 | [巴斯圆形广场，萨默塞特 ，英国](https://s.cn.bing.net/th?id=OHR.BathCircus_ZH-CN5796600786_UHD.jpg) 
 2023-09-11 | [波尔多葡萄园的日出，法国](https://s.cn.bing.net/th?id=OHR.MarathonMedoc_ZH-CN6649798028_UHD.jpg) 
 2023-09-12 | [北海日落，诺德多夫，德国](https://s.cn.bing.net/th?id=OHR.NorthSeaStairs_ZH-CN7044471948_UHD.jpg) 
+2023-09-13 | [赫马库塔山上的神庙，汉皮，卡纳塔克邦，印度](https://s.cn.bing.net/th?id=OHR.HemakutaHill_ZH-CN7438439036_UHD.jpg) 
