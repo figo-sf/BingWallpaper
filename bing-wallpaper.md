@@ -353,3 +353,4 @@
 2023-09-13 | [赫马库塔山上的神庙，汉皮，卡纳塔克邦，印度](https://s.cn.bing.net/th?id=OHR.HemakutaHill_ZH-CN7438439036_UHD.jpg) 
 2023-09-15 | [格莱纳里夫森林公园的日落，安特里姆郡，爱尔兰](https://s.cn.bing.net/th?id=OHR.GlenariffForest_ZH-CN7874768337_UHD.jpg) 
 2023-09-16 | [施布吕根山口，格劳宾登州，瑞士](https://s.cn.bing.net/th?id=OHR.SplugenPass_ZH-CN8347591461_UHD.jpg) 
+2023-09-17 | [杂色短尾鴗，阿里杰罗德胡波尔德国家公园，古巴](https://s.cn.bing.net/th?id=OHR.CubanTody_ZH-CN8656368705_UHD.jpg) 
