@@ -356,3 +356,4 @@
 2023-09-17 | [杂色短尾鴗，阿里杰罗德胡波尔德国家公园，古巴](https://s.cn.bing.net/th?id=OHR.CubanTody_ZH-CN8656368705_UHD.jpg) 
 2023-09-19 | [哈德良长城，诺森伯兰郡国家公园，英国](https://s.cn.bing.net/th?id=OHR.HadriansWallUK_ZH-CN9203571422_UHD.jpg) 
 2023-09-20 | [罗马风格的渡槽，阿卡迪亚公园，波兰](https://s.cn.bing.net/th?id=OHR.ArkadiaPark_ZH-CN9501056317_UHD.jpg) 
+2023-09-21 | [诺贝尔和平中心内部，奥斯陆，挪威](https://s.cn.bing.net/th?id=OHR.NobelNorway_ZH-CN9824054026_UHD.jpg) 
