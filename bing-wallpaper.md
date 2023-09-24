@@ -359,3 +359,4 @@
 2023-09-21 | [诺贝尔和平中心内部，奥斯陆，挪威](https://s.cn.bing.net/th?id=OHR.NobelNorway_ZH-CN9824054026_UHD.jpg) 
 2023-09-22 | [马尔萨拉盐田，意大利](https://s.cn.bing.net/th?id=OHR.MarsalaSalt_ZH-CN4943158328_UHD.jpg) 
 2023-09-23 | [郊狼谷的棉白杨和红砂岩，格兰峡谷国家保护区，犹他州](https://s.cn.bing.net/th?id=OHR.CottonwoodCanyon_ZH-CN5293620973_UHD.jpg) 
+2023-09-24 | [罗布森山附近的弗雷泽河，大不列颠哥伦比亚省，加拿大](https://s.cn.bing.net/th?id=OHR.FraserRiverBC_ZH-CN5743867197_UHD.jpg) 
