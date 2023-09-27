@@ -361,3 +361,4 @@
 2023-09-23 | [郊狼谷的棉白杨和红砂岩，格兰峡谷国家保护区，犹他州](https://s.cn.bing.net/th?id=OHR.CottonwoodCanyon_ZH-CN5293620973_UHD.jpg) 
 2023-09-24 | [罗布森山附近的弗雷泽河，大不列颠哥伦比亚省，加拿大](https://s.cn.bing.net/th?id=OHR.FraserRiverBC_ZH-CN5743867197_UHD.jpg) 
 2023-09-26 | [日落时的威尼斯海滩滑板公园，洛杉矶，加利福尼亚州](https://s.cn.bing.net/th?id=OHR.VeniceSkatePark_ZH-CN6295228801_UHD.jpg) 
+2023-09-27 | [克虏伯路，卡普里岛，意大利](https://s.cn.bing.net/th?id=OHR.CapriKrupp_ZH-CN6893334288_UHD.jpg) 
