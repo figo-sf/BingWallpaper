@@ -363,3 +363,4 @@
 2023-09-26 | [日落时的威尼斯海滩滑板公园，洛杉矶，加利福尼亚州](https://s.cn.bing.net/th?id=OHR.VeniceSkatePark_ZH-CN6295228801_UHD.jpg) 
 2023-09-27 | [克虏伯路，卡普里岛，意大利](https://s.cn.bing.net/th?id=OHR.CapriKrupp_ZH-CN6893334288_UHD.jpg) 
 2023-09-28 | [泰国商业港口附近的集装箱船](https://s.cn.bing.net/th?id=OHR.MaritimeDay_ZH-CN7073219075_UHD.jpg) 
+2023-09-29 | [满月下的甲秀楼，中国贵州省贵阳市](https://s.cn.bing.net/th?id=OHR.GuiyangMoon_ZH-CN7497119092_UHD.jpg) 
