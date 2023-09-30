@@ -364,3 +364,4 @@
 2023-09-27 | [克虏伯路，卡普里岛，意大利](https://s.cn.bing.net/th?id=OHR.CapriKrupp_ZH-CN6893334288_UHD.jpg) 
 2023-09-28 | [泰国商业港口附近的集装箱船](https://s.cn.bing.net/th?id=OHR.MaritimeDay_ZH-CN7073219075_UHD.jpg) 
 2023-09-29 | [满月下的甲秀楼，中国贵州省贵阳市](https://s.cn.bing.net/th?id=OHR.GuiyangMoon_ZH-CN7497119092_UHD.jpg) 
+2023-09-30 | [仙纳度国家公园的秋色，弗吉尼亚州](https://s.cn.bing.net/th?id=OHR.ShenandoahFoliage_ZH-CN9885452713_UHD.jpg) 
