@@ -366,3 +366,4 @@
 2023-09-29 | [满月下的甲秀楼，中国贵州省贵阳市](https://s.cn.bing.net/th?id=OHR.GuiyangMoon_ZH-CN7497119092_UHD.jpg) 
 2023-09-30 | [仙纳度国家公园的秋色，弗吉尼亚州](https://s.cn.bing.net/th?id=OHR.ShenandoahFoliage_ZH-CN9885452713_UHD.jpg) 
 2023-10-01 | [雄伟壮丽的中国长城](https://s.cn.bing.net/th?id=OHR.NationalDay2023_ZH-CN8608297006_UHD.jpg) 
+2023-10-02 | [韦尔东峡谷，普罗旺斯-阿尔卑斯-蓝色海岸，法国](https://s.cn.bing.net/th?id=OHR.VerdonCanyon_ZH-CN8872507857_UHD.jpg) 
