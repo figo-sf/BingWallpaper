@@ -370,3 +370,4 @@
 2023-10-03 | [白天堂海滩，圣灵群岛，昆士兰州，澳大利亚](https://s.cn.bing.net/th?id=OHR.WhitsundaySwirl_ZH-CN9085371328_UHD.jpg) 
 2023-10-04 | [狼蛛星云中形成的年轻恒星，詹姆斯·韦布空间望远镜](https://s.cn.bing.net/th?id=OHR.TarantulaNebula_ZH-CN9340300473_UHD.jpg) 
 2023-10-06 | [杜鲁门斯堡的州立托格汉诺克瀑布公园，纽约州，美国](https://s.cn.bing.net/th?id=OHR.TaughannockFalls_ZH-CN4580750386_UHD.jpg) 
+2023-10-07 | [灰熊在卡特迈国家公园布鲁克斯瀑布捕捞鲑鱼，阿拉斯加州，美国](https://s.cn.bing.net/th?id=OHR.GrizzlyFalls_ZH-CN5152476563_UHD.jpg) 
