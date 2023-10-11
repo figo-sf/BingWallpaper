@@ -374,3 +374,4 @@
 2023-10-08 | [巨型蛤壳中的条纹蛸，苏拉威西海，印度尼西亚](https://s.cn.bing.net/th?id=OHR.OctoClam_ZH-CN5427646548_UHD.jpg) 
 2023-10-09 | [弗里蒙特岩画，恐龙国家纪念碑，詹森，犹他州，美国](https://s.cn.bing.net/th?id=OHR.FremontPetroglyph_ZH-CN5736573545_UHD.jpg) 
 2023-10-10 | [索普里斯山，科罗拉多州，美国](https://s.cn.bing.net/th?id=OHR.SoprisSunrise_ZH-CN5935701155_UHD.jpg) 
+2023-10-11 | [约翰迪化石床国家纪念地中的彩绘山，俄勒冈州，美国](https://s.cn.bing.net/th?id=OHR.JohnDayFossil_ZH-CN6265838332_UHD.jpg) 
