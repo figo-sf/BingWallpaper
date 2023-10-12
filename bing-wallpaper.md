@@ -375,3 +375,4 @@
 2023-10-09 | [弗里蒙特岩画，恐龙国家纪念碑，詹森，犹他州，美国](https://s.cn.bing.net/th?id=OHR.FremontPetroglyph_ZH-CN5736573545_UHD.jpg) 
 2023-10-10 | [索普里斯山，科罗拉多州，美国](https://s.cn.bing.net/th?id=OHR.SoprisSunrise_ZH-CN5935701155_UHD.jpg) 
 2023-10-11 | [约翰迪化石床国家纪念地中的彩绘山，俄勒冈州，美国](https://s.cn.bing.net/th?id=OHR.JohnDayFossil_ZH-CN6265838332_UHD.jpg) 
+2023-10-12 | [帕卢斯地区的老谷仓和油菜田，爱达荷州，美国](https://s.cn.bing.net/th?id=OHR.IdahoBarn_ZH-CN6472682534_UHD.jpg) 
