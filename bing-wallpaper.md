@@ -379,3 +379,4 @@
 2023-10-13 | [加尔加诺半岛上的维埃斯特，阿普利亚，意大利](https://s.cn.bing.net/th?id=OHR.ViesteItaly_ZH-CN6693499674_UHD.jpg) 
 2023-10-14 | ["火环”日环食，多哈，卡特尔](https://s.cn.bing.net/th?id=OHR.RingEclipse_ZH-CN7063841581_UHD.jpg) 
 2023-10-15 | [躲在树皮中欧洲刺猬，苏塞克斯，英国](https://s.cn.bing.net/th?id=OHR.AutumnHedgehog_ZH-CN7309314630_UHD.jpg) 
+2023-10-16 | [金色落叶松和普鲁西克峰，魔力地带，华盛顿州，美国](https://s.cn.bing.net/th?id=OHR.GoldenEnchantments_ZH-CN9686531344_UHD.jpg) 
