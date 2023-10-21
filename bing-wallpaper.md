@@ -383,3 +383,4 @@
 2023-10-17 | [帕拉塔塔,阿雅克肖,科西嘉岛,法国](https://s.cn.bing.net/th?id=OHR.GenoeseTower_ZH-CN0086623003_UHD.jpg) 
 2023-10-18 | [科迪亚克国家野生动物保护区，科迪亚克岛，阿拉斯加州，美国](https://s.cn.bing.net/th?id=OHR.KodiakAlaska_ZH-CN0627619150_UHD.jpg) 
 2023-10-19 | [Castell y Gwynt，格莱德法赫山，雪墩山国家公园，英国北威尔士](https://s.cn.bing.net/th?id=OHR.CastellyGwyntUK_ZH-CN1219668479_UHD.jpg) 
+2023-10-21 | [波斯古城波斯波利斯的浮雕，伊朗](https://s.cn.bing.net/th?id=OHR.PersepolisRelief_ZH-CN4910990690_UHD.jpg) 
