@@ -387,3 +387,4 @@
 2023-10-22 | [哥伦比亚河上的阿斯托里亚-梅格勒大桥，阿斯托里亚区，俄勒冈州，美国](https://s.cn.bing.net/th?id=OHR.AstoriaBridge_ZH-CN5052905610_UHD.jpg) 
 2023-10-23 | [塞勒斯堡的玉米迷宫，宾夕法尼亚州，美国](https://s.cn.bing.net/th?id=OHR.PoconosMaze_ZH-CN4696904367_UHD.jpg) 
 2023-10-25 | [大阶梯埃斯卡兰特国家纪念区中的棉白杨树，犹他州，美国](https://s.cn.bing.net/th?id=OHR.GrandStaircase_ZH-CN5928937512_UHD.jpg) 
+2023-10-26 | [美泉宫公园的秋叶，维也纳，奥地利](https://s.cn.bing.net/th?id=OHR.ViennaAutumn_ZH-CN7011999199_UHD.jpg) 
