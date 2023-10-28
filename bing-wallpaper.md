@@ -389,3 +389,4 @@
 2023-10-25 | [大阶梯埃斯卡兰特国家纪念区中的棉白杨树，犹他州，美国](https://s.cn.bing.net/th?id=OHR.GrandStaircase_ZH-CN5928937512_UHD.jpg) 
 2023-10-26 | [美泉宫公园的秋叶，维也纳，奥地利](https://s.cn.bing.net/th?id=OHR.ViennaAutumn_ZH-CN7011999199_UHD.jpg) 
 2023-10-27 | [斯利加坎老桥，苏格兰斯凯岛](https://s.cn.bing.net/th?id=OHR.OldBridgeSkye_ZH-CN7228411986_UHD.jpg) 
+2023-10-28 | [卡斯蒂利亚-拉曼恰的风车，西班牙](https://s.cn.bing.net/th?id=OHR.FiveWinds_ZH-CN7503464049_UHD.jpg) 
