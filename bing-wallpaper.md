@@ -392,3 +392,4 @@
 2023-10-28 | [卡斯蒂利亚-拉曼恰的风车，西班牙](https://s.cn.bing.net/th?id=OHR.FiveWinds_ZH-CN7503464049_UHD.jpg) 
 2023-10-29 | [博纳温彻墓地，萨凡纳，佐治亚州，美国](https://s.cn.bing.net/th?id=OHR.SavannahSculpture_ZH-CN7663694208_UHD.jpg) 
 2023-10-30 | [普通乌鸦坐在树枝上](https://s.cn.bing.net/th?id=OHR.AutumnRaven_ZH-CN7897841947_UHD.jpg) 
+2023-10-31 | [万圣节南瓜灯](https://s.cn.bing.net/th?id=OHR.HalloweenCuteAI_ZH-CN1079713117_UHD.jpg) 
