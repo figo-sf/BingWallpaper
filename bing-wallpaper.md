@@ -396,3 +396,4 @@
 2023-11-01 | [上巴尔城堡，阿尔萨斯，法国](https://s.cn.bing.net/th?id=OHR.HautBarr_ZH-CN8274813404_UHD.jpg) 
 2023-11-03 | [卡梅尔海岸的太平洋海荨麻水母，加利福尼亚，美国](https://s.cn.bing.net/th?id=OHR.SeaNettles_ZH-CN1735729435_UHD.jpg) 
 2023-11-04 | [美洲野牛，黄石国家公园，怀俄明州，美国](https://s.cn.bing.net/th?id=OHR.BisonSnow_ZH-CN2483472629_UHD.jpg) 
+2023-11-05 | [石英岩地层，普拉亚德尔锡伦西奥，西班牙](https://s.cn.bing.net/th?id=OHR.SilencioSpain_ZH-CN2955614478_UHD.jpg) 
