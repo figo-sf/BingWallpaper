@@ -398,3 +398,4 @@
 2023-11-04 | [美洲野牛，黄石国家公园，怀俄明州，美国](https://s.cn.bing.net/th?id=OHR.BisonSnow_ZH-CN2483472629_UHD.jpg) 
 2023-11-05 | [石英岩地层，普拉亚德尔锡伦西奥，西班牙](https://s.cn.bing.net/th?id=OHR.SilencioSpain_ZH-CN2955614478_UHD.jpg) 
 2023-11-06 | [佩霍湖，百内国家公园，智利南部](https://s.cn.bing.net/th?id=OHR.LagoPehoe_ZH-CN3367356273_UHD.jpg) 
+2023-11-07 | [Kirkilai湖泊和瞭望塔，比尔扎伊地区公园，立陶宛](https://s.cn.bing.net/th?id=OHR.KirkilaiTower_ZH-CN4058404632_UHD.jpg) 
