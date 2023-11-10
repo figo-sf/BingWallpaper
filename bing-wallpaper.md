@@ -400,3 +400,4 @@
 2023-11-06 | [佩霍湖，百内国家公园，智利南部](https://s.cn.bing.net/th?id=OHR.LagoPehoe_ZH-CN3367356273_UHD.jpg) 
 2023-11-07 | [Kirkilai湖泊和瞭望塔，比尔扎伊地区公园，立陶宛](https://s.cn.bing.net/th?id=OHR.KirkilaiTower_ZH-CN4058404632_UHD.jpg) 
 2023-11-08 | [黄山的日落，安徽省，中国](https://s.cn.bing.net/th?id=OHR.LiDong2023_ZH-CN7689731997_UHD.jpg) 
+2023-11-10 | [恶地国家公园，南达科他州，美国](https://s.cn.bing.net/th?id=OHR.BadlandsSunrise_ZH-CN5906162228_UHD.jpg) 
