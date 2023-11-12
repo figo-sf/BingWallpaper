@@ -402,3 +402,4 @@
 2023-11-08 | [黄山的日落，安徽省，中国](https://s.cn.bing.net/th?id=OHR.LiDong2023_ZH-CN7689731997_UHD.jpg) 
 2023-11-10 | [恶地国家公园，南达科他州，美国](https://s.cn.bing.net/th?id=OHR.BadlandsSunrise_ZH-CN5906162228_UHD.jpg) 
 2023-11-11 | [富内斯山谷，背景是多洛米蒂山，南蒂罗尔，意大利](https://s.cn.bing.net/th?id=OHR.ValDiFunes_ZH-CN2080915930_UHD.jpg) 
+2023-11-12 | [秋天池塘里的两只绿头鸭](https://s.cn.bing.net/th?id=OHR.MallarDucks_ZH-CN7422818269_UHD.jpg) 
