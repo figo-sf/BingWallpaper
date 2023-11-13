@@ -403,3 +403,4 @@
 2023-11-10 | [恶地国家公园，南达科他州，美国](https://s.cn.bing.net/th?id=OHR.BadlandsSunrise_ZH-CN5906162228_UHD.jpg) 
 2023-11-11 | [富内斯山谷，背景是多洛米蒂山，南蒂罗尔，意大利](https://s.cn.bing.net/th?id=OHR.ValDiFunes_ZH-CN2080915930_UHD.jpg) 
 2023-11-12 | [秋天池塘里的两只绿头鸭](https://s.cn.bing.net/th?id=OHR.MallarDucks_ZH-CN7422818269_UHD.jpg) 
+2023-11-13 | [特拉蒙塔纳山中的老橄榄园，马略卡岛，西班牙](https://s.cn.bing.net/th?id=OHR.OliveOrchard_ZH-CN8198989130_UHD.jpg) 
