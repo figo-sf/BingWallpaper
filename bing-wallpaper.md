@@ -410,3 +410,4 @@
 2023-11-17 | [铜瀑布州立公园的巴德河，威斯康星州，美国](https://s.cn.bing.net/th?id=OHR.BadRiver_ZH-CN0416550169_UHD.jpg) 
 2023-11-19 | [Alam-Pedja自然保护区，爱沙尼亚](https://s.cn.bing.net/th?id=OHR.FrozenBog_ZH-CN0712859386_UHD.jpg) 
 2023-11-20 | [科奇城堡，Tongwynlais，卡迪夫，威尔士，英国，欧洲](https://s.cn.bing.net/th?id=OHR.CastleCoch_ZH-CN0917284602_UHD.jpg) 
+2023-11-21 | [英国诺福克海滩上的灰海豹幼崽](https://s.cn.bing.net/th?id=OHR.HelloSeal_ZH-CN1064568368_UHD.jpg) 
