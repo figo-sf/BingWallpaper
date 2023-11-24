@@ -413,3 +413,4 @@
 2023-11-21 | [英国诺福克海滩上的灰海豹幼崽](https://s.cn.bing.net/th?id=OHR.HelloSeal_ZH-CN1064568368_UHD.jpg) 
 2023-11-22 | [大提顿国家公园，怀俄明州，美国](https://s.cn.bing.net/th?id=OHR.SnakeRiverTeton_ZH-CN1213535303_UHD.jpg) 
 2023-11-23 | [泰德国家公园的日落，特内里费岛，加那利群岛, 西班牙](https://s.cn.bing.net/th?id=OHR.TeideNational_ZH-CN1367200520_UHD.jpg) 
+2023-11-24 | [奥林匹克国家公园霍河雨林中的苔藓大厅 ，华盛顿州，美国](https://s.cn.bing.net/th?id=OHR.HallofMosses_ZH-CN1565129809_UHD.jpg) 
