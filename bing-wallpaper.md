@@ -416,3 +416,4 @@
 2023-11-24 | [奥林匹克国家公园霍河雨林中的苔藓大厅 ，华盛顿州，美国](https://s.cn.bing.net/th?id=OHR.HallofMosses_ZH-CN1565129809_UHD.jpg) 
 2023-11-26 | [布拉德盖特公园的小鹿，莱斯特郡，英国](https://s.cn.bing.net/th?id=OHR.BradgateFallow_ZH-CN1852334581_UHD.jpg) 
 2023-11-28 | [阿西尼博因山省级公园，加拿大](https://s.cn.bing.net/th?id=OHR.AssiniboineProvincialPark_ZH-CN2270275151_UHD.jpg) 
+2023-11-29 | [什未林湖上的什未林城堡，梅克伦堡-前波美拉尼亚州，德国](https://s.cn.bing.net/th?id=OHR.SchwerinerSchloss_ZH-CN2390476345_UHD.jpg) 
