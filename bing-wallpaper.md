@@ -420,3 +420,4 @@
 2023-11-30 | [斯托尔，斯凯岛上展露的岩石尖峰，苏格兰，英国](https://s.cn.bing.net/th?id=OHR.TrotternishStorr_ZH-CN2508882441_UHD.jpg) 
 2023-12-01 | [罗斯海的冰山，南极洲](https://s.cn.bing.net/th?id=OHR.IcebergAntarctica_ZH-CN2053356825_UHD.jpg) 
 2023-12-02 | [瓜廖尔堡，中央邦，印度](https://s.cn.bing.net/th?id=OHR.GwaliorFortMP_ZH-CN3300432281_UHD.jpg) 
+2023-12-03 | [砂岩岩层，红悬崖国家保护区，亚利桑那州，美国](https://s.cn.bing.net/th?id=OHR.VermilionCliffs_ZH-CN3945784250_UHD.jpg) 
