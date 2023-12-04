@@ -421,3 +421,4 @@
 2023-12-01 | [罗斯海的冰山，南极洲](https://s.cn.bing.net/th?id=OHR.IcebergAntarctica_ZH-CN2053356825_UHD.jpg) 
 2023-12-02 | [瓜廖尔堡，中央邦，印度](https://s.cn.bing.net/th?id=OHR.GwaliorFortMP_ZH-CN3300432281_UHD.jpg) 
 2023-12-03 | [砂岩岩层，红悬崖国家保护区，亚利桑那州，美国](https://s.cn.bing.net/th?id=OHR.VermilionCliffs_ZH-CN3945784250_UHD.jpg) 
+2023-12-04 | [一只猎豹妈妈和她的幼崽，马赛马拉国家保护区，肯尼亚](https://s.cn.bing.net/th?id=OHR.CheetahDay_ZH-CN5114530695_UHD.jpg) 
