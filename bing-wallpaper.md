@@ -423,3 +423,4 @@
 2023-12-03 | [砂岩岩层，红悬崖国家保护区，亚利桑那州，美国](https://s.cn.bing.net/th?id=OHR.VermilionCliffs_ZH-CN3945784250_UHD.jpg) 
 2023-12-04 | [一只猎豹妈妈和她的幼崽，马赛马拉国家保护区，肯尼亚](https://s.cn.bing.net/th?id=OHR.CheetahDay_ZH-CN5114530695_UHD.jpg) 
 2023-12-05 | [天鹅堡和旧天鹅堡，巴伐利亚阿尔卑斯山，德国](https://s.cn.bing.net/th?id=OHR.AlpsCastles_ZH-CN5078013932_UHD.jpg) 
+2023-12-07 | [韦尔东峡谷的雾蒙蒙的早晨，普罗旺斯-阿尔卑斯-蓝色海岸大区，法国](https://s.cn.bing.net/th?id=OHR.GrandCanyonVerdon_ZH-CN6025902720_UHD.jpg) 
