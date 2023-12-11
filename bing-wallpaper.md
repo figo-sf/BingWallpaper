@@ -426,3 +426,4 @@
 2023-12-07 | [韦尔东峡谷的雾蒙蒙的早晨，普罗旺斯-阿尔卑斯-蓝色海岸大区，法国](https://s.cn.bing.net/th?id=OHR.GrandCanyonVerdon_ZH-CN6025902720_UHD.jpg) 
 2023-12-09 | [原驼，冰川国家公园，阿根廷](https://s.cn.bing.net/th?id=OHR.PatagoniaGuanaco_ZH-CN6438038982_UHD.jpg) 
 2023-12-10 | [林帕达恩湖，斯诺登尼亚国家公园， 威尔士](https://s.cn.bing.net/th?id=OHR.LlanberisSnowdoniaSunset_ZH-CN6682238671_UHD.jpg) 
+2023-12-11 | [黄山的冬天，中国](https://s.cn.bing.net/th?id=OHR.MountainDayChina_ZH-CN6894169616_UHD.jpg) 
