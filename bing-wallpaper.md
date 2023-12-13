@@ -428,3 +428,4 @@
 2023-12-10 | [林帕达恩湖，斯诺登尼亚国家公园， 威尔士](https://s.cn.bing.net/th?id=OHR.LlanberisSnowdoniaSunset_ZH-CN6682238671_UHD.jpg) 
 2023-12-11 | [黄山的冬天，中国](https://s.cn.bing.net/th?id=OHR.MountainDayChina_ZH-CN6894169616_UHD.jpg) 
 2023-12-12 | [一品红](https://s.cn.bing.net/th?id=OHR.Poinsettia_ZH-CN7255902344_UHD.jpg) 
+2023-12-13 | [传统钓鱼小屋，斯沃尔韦尔，罗弗敦群岛，挪威](https://s.cn.bing.net/th?id=OHR.LofotenRorbu_ZH-CN7790383976_UHD.jpg) 
