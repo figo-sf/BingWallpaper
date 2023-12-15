@@ -430,3 +430,4 @@
 2023-12-12 | [一品红](https://s.cn.bing.net/th?id=OHR.Poinsettia_ZH-CN7255902344_UHD.jpg) 
 2023-12-13 | [传统钓鱼小屋，斯沃尔韦尔，罗弗敦群岛，挪威](https://s.cn.bing.net/th?id=OHR.LofotenRorbu_ZH-CN7790383976_UHD.jpg) 
 2023-12-14 | [北方猫头鹰，萨斯喀彻温省，加拿大](https://s.cn.bing.net/th?id=OHR.BorealOwl_ZH-CN7957240111_UHD.jpg) 
+2023-12-15 | [罗瓦涅米的圣诞老人公园，拉普兰德，芬兰](https://s.cn.bing.net/th?id=OHR.SantaPark_ZH-CN7444715899_UHD.jpg) 
