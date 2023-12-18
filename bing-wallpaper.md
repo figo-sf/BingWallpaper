@@ -433,3 +433,4 @@
 2023-12-15 | [罗瓦涅米的圣诞老人公园，拉普兰德，芬兰](https://s.cn.bing.net/th?id=OHR.SantaPark_ZH-CN7444715899_UHD.jpg) 
 2023-12-16 | [大广场，布鲁塞尔，比利时](https://s.cn.bing.net/th?id=OHR.GrandPlaceXmas_ZH-CN8299342316_UHD.jpg) 
 2023-12-17 | [波西米亚太平鸟栖息在树枝上，加拿大](https://s.cn.bing.net/th?id=OHR.WinterWaxwings_ZH-CN9274297835_UHD.jpg) 
+2023-12-18 | [圆顶礁国家公园，犹他州，美国](https://s.cn.bing.net/th?id=OHR.CapitolReefSnow_ZH-CN0085775882_UHD.jpg) 
