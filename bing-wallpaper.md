@@ -435,3 +435,4 @@
 2023-12-17 | [波西米亚太平鸟栖息在树枝上，加拿大](https://s.cn.bing.net/th?id=OHR.WinterWaxwings_ZH-CN9274297835_UHD.jpg) 
 2023-12-18 | [圆顶礁国家公园，犹他州，美国](https://s.cn.bing.net/th?id=OHR.CapitolReefSnow_ZH-CN0085775882_UHD.jpg) 
 2023-12-19 | [城堡广场的圣诞树，华沙古城，波兰](https://s.cn.bing.net/th?id=OHR.WarsawChristmas_ZH-CN0949732911_UHD.jpg) 
+2023-12-21 | [卢布尔雅那，斯洛文尼亚共和国](https://s.cn.bing.net/th?id=OHR.LjubljanaLights_ZH-CN3179297953_UHD.jpg) 
