@@ -437,3 +437,4 @@
 2023-12-19 | [城堡广场的圣诞树，华沙古城，波兰](https://s.cn.bing.net/th?id=OHR.WarsawChristmas_ZH-CN0949732911_UHD.jpg) 
 2023-12-21 | [卢布尔雅那，斯洛文尼亚共和国](https://s.cn.bing.net/th?id=OHR.LjubljanaLights_ZH-CN3179297953_UHD.jpg) 
 2023-12-22 | [天鹅泉湿地公园，伊犁，新疆，中国](https://s.cn.bing.net/th?id=OHR.WinterSolstice2023_ZH-CN4450201916_UHD.jpg) 
+2023-12-23 | [帽带企鹅，南桑威奇群岛，南大西洋](https://s.cn.bing.net/th?id=OHR.FestivusPenguins_ZH-CN5191348531_UHD.jpg) 
