@@ -440,3 +440,4 @@
 2023-12-23 | [帽带企鹅，南桑威奇群岛，南大西洋](https://s.cn.bing.net/th?id=OHR.FestivusPenguins_ZH-CN5191348531_UHD.jpg) 
 2023-12-24 | [市政厅广场，塔尔图，爱沙尼亚](https://s.cn.bing.net/th?id=OHR.EstoniaXmasEve_ZH-CN5870799404_UHD.jpg) 
 2023-12-25 | [驯鹿在雪中奔跑，阿拉斯加，美国](https://s.cn.bing.net/th?id=OHR.CaribouChristmas_ZH-CN6264028572_UHD.jpg) 
+2023-12-26 | [冬季日出，戴德姆，科尔切斯特，英格兰](https://s.cn.bing.net/th?id=OHR.BoxingDaySunrise_ZH-CN7431512686_UHD.jpg) 
