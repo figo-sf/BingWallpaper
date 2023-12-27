@@ -441,3 +441,4 @@
 2023-12-24 | [市政厅广场，塔尔图，爱沙尼亚](https://s.cn.bing.net/th?id=OHR.EstoniaXmasEve_ZH-CN5870799404_UHD.jpg) 
 2023-12-25 | [驯鹿在雪中奔跑，阿拉斯加，美国](https://s.cn.bing.net/th?id=OHR.CaribouChristmas_ZH-CN6264028572_UHD.jpg) 
 2023-12-26 | [冬季日出，戴德姆，科尔切斯特，英格兰](https://s.cn.bing.net/th?id=OHR.BoxingDaySunrise_ZH-CN7431512686_UHD.jpg) 
+2023-12-27 | [教堂山，斯奈山半岛，冰岛](https://s.cn.bing.net/th?id=OHR.KirkjufellAurora_ZH-CN7878752057_UHD.jpg) 
