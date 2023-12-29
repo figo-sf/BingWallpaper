@@ -443,3 +443,4 @@
 2023-12-26 | [冬季日出，戴德姆，科尔切斯特，英格兰](https://s.cn.bing.net/th?id=OHR.BoxingDaySunrise_ZH-CN7431512686_UHD.jpg) 
 2023-12-27 | [教堂山，斯奈山半岛，冰岛](https://s.cn.bing.net/th?id=OHR.KirkjufellAurora_ZH-CN7878752057_UHD.jpg) 
 2023-12-28 | [座头鲸，迪斯科湾，格陵兰](https://s.cn.bing.net/th?id=OHR.GreenlandHumpback_ZH-CN8145852053_UHD.jpg) 
+2023-12-29 | [旧西街区，阿姆斯特丹 ，荷兰](https://s.cn.bing.net/th?id=OHR.BlueAmsterdam_ZH-CN0483591394_UHD.jpg) 
