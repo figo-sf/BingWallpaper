@@ -447,3 +447,4 @@
 2023-12-30 | [卡塞里格石圈，湖区国家公园 ，坎布里亚，英国](https://s.cn.bing.net/th?id=OHR.CastleriggStoneCircleUK_ZH-CN1174541384_UHD.jpg) 
 2023-12-31 | [帕那空奇里上空的烟花，碧武里府,泰国](https://s.cn.bing.net/th?id=OHR.ThailandNewYears_ZH-CN2058192262_UHD.jpg) 
 2024-01-01 | [睡在雪地里的赤狐，阿布鲁佐，意大利](https://s.cn.bing.net/th?id=OHR.SleepingFox_ZH-CN2622967726_UHD.jpg) 
+2024-01-02 | [贾斯旺萨达陵墓和梅兰加尔古堡，焦特布尔，拉贾斯坦邦，印度](https://s.cn.bing.net/th?id=OHR.MehrangarhJodhpur_ZH-CN2855490711_UHD.jpg) 
