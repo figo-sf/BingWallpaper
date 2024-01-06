@@ -450,3 +450,4 @@
 2024-01-02 | [贾斯旺萨达陵墓和梅兰加尔古堡，焦特布尔，拉贾斯坦邦，印度](https://s.cn.bing.net/th?id=OHR.MehrangarhJodhpur_ZH-CN2855490711_UHD.jpg) 
 2024-01-04 | [金门大桥，旧金山，加利福尼亚州，美国](https://s.cn.bing.net/th?id=OHR.GoldenGateLight_ZH-CN3874822904_UHD.jpg) 
 2024-01-05 | [巴伐利亚阿尔卑斯山脉，德国](https://s.cn.bing.net/th?id=OHR.AlpsReflecting_ZH-CN4036320440_UHD.jpg) 
+2024-01-06 | [冬天，雄性苍头燕雀栖息在海棠果树上](https://s.cn.bing.net/th?id=OHR.CrabappleChaffinch_ZH-CN4458529756_UHD.jpg) 
