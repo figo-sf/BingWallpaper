@@ -452,3 +452,4 @@
 2024-01-05 | [巴伐利亚阿尔卑斯山脉，德国](https://s.cn.bing.net/th?id=OHR.AlpsReflecting_ZH-CN4036320440_UHD.jpg) 
 2024-01-06 | [冬天，雄性苍头燕雀栖息在海棠果树上](https://s.cn.bing.net/th?id=OHR.CrabappleChaffinch_ZH-CN4458529756_UHD.jpg) 
 2024-01-07 | [魔鬼大理石保护区，澳大利亚](https://s.cn.bing.net/th?id=OHR.DevilsMarbles_ZH-CN4897809914_UHD.jpg) 
+2024-01-08 | [贝尔尼纳山口的滑雪场，格劳宾登州，瑞士](https://s.cn.bing.net/th?id=OHR.BerninaPass_ZH-CN5776010452_UHD.jpg) 
