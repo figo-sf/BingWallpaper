@@ -455,3 +455,4 @@
 2024-01-08 | [贝尔尼纳山口的滑雪场，格劳宾登州，瑞士](https://s.cn.bing.net/th?id=OHR.BerninaPass_ZH-CN5776010452_UHD.jpg) 
 2024-01-09 | [格兰德河上空的热气球，阿尔伯克基，新墨西哥州，美国](https://s.cn.bing.net/th?id=OHR.BalloonDay_ZH-CN7571792218_UHD.jpg) 
 2024-01-10 | [米罗伯塔莫斯海岸线上的楼梯，色萨利，希腊](https://s.cn.bing.net/th?id=OHR.MilopotamosStairs_ZH-CN8013521384_UHD.jpg) 
+2024-01-11 | [雪中的欧亚猞猁](https://s.cn.bing.net/th?id=OHR.LynxSnow_ZH-CN8908082275_UHD.jpg) 
