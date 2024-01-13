@@ -457,3 +457,4 @@
 2024-01-10 | [米罗伯塔莫斯海岸线上的楼梯，色萨利，希腊](https://s.cn.bing.net/th?id=OHR.MilopotamosStairs_ZH-CN8013521384_UHD.jpg) 
 2024-01-11 | [雪中的欧亚猞猁](https://s.cn.bing.net/th?id=OHR.LynxSnow_ZH-CN8908082275_UHD.jpg) 
 2024-01-12 | [北汉山国立公园，韩国](https://s.cn.bing.net/th?id=OHR.BukhansanSeoul_ZH-CN8002920750_UHD.jpg) 
+2024-01-13 | [哈纳之路，毛伊岛，夏威夷，美国](https://s.cn.bing.net/th?id=OHR.HanaHighway_ZH-CN8601588011_UHD.jpg) 
