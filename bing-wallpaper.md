@@ -458,3 +458,4 @@
 2024-01-11 | [雪中的欧亚猞猁](https://s.cn.bing.net/th?id=OHR.LynxSnow_ZH-CN8908082275_UHD.jpg) 
 2024-01-12 | [北汉山国立公园，韩国](https://s.cn.bing.net/th?id=OHR.BukhansanSeoul_ZH-CN8002920750_UHD.jpg) 
 2024-01-13 | [哈纳之路，毛伊岛，夏威夷，美国](https://s.cn.bing.net/th?id=OHR.HanaHighway_ZH-CN8601588011_UHD.jpg) 
+2024-01-14 | [屈斜路湖的天鹅，日本](https://s.cn.bing.net/th?id=OHR.HokkaidoSwans_ZH-CN8733312972_UHD.jpg) 
