@@ -460,3 +460,4 @@
 2024-01-13 | [哈纳之路，毛伊岛，夏威夷，美国](https://s.cn.bing.net/th?id=OHR.HanaHighway_ZH-CN8601588011_UHD.jpg) 
 2024-01-14 | [屈斜路湖的天鹅，日本](https://s.cn.bing.net/th?id=OHR.HokkaidoSwans_ZH-CN8733312972_UHD.jpg) 
 2024-01-15 | [瓦茨曼山脚下的冰教堂，巴伐利亚，德国](https://s.cn.bing.net/th?id=OHR.IceChapel_ZH-CN9189733666_UHD.jpg) 
+2024-01-16 | [路易斯湖，班夫国家公园，阿尔伯塔省，加拿大](https://s.cn.bing.net/th?id=OHR.LakeLouise_ZH-CN9592539152_UHD.jpg) 
