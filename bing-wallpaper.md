@@ -464,3 +464,4 @@
 2024-01-17 | [巴伐利亚森林国家公园里睡觉的狼，德国](https://s.cn.bing.net/th?id=OHR.SleepyWolf_ZH-CN9870873990_UHD.jpg) 
 2024-01-18 | [黄昏时分的亚历山大三世桥，巴黎，法国](https://s.cn.bing.net/th?id=OHR.ParisBridge_ZH-CN0173421630_UHD.jpg) 
 2024-01-20 | [马可罗尼企鹅，德雷克海峡，智利](https://s.cn.bing.net/th?id=OHR.MacaroniPenguins_ZH-CN0600867997_UHD.jpg) 
+2024-01-21 | [欧亚红松鼠，荷兰](https://s.cn.bing.net/th?id=OHR.SquirrelNetherlands_ZH-CN0757138587_UHD.jpg) 
