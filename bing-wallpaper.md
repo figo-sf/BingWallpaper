@@ -467,3 +467,4 @@
 2024-01-21 | [欧亚红松鼠，荷兰](https://s.cn.bing.net/th?id=OHR.SquirrelNetherlands_ZH-CN0757138587_UHD.jpg) 
 2024-01-22 | [冬季日出，沃尔顿灯塔，圣克鲁斯, 加利福尼亚州, 美国](https://s.cn.bing.net/th?id=OHR.SantaCruzSunrise_ZH-CN3074203377_UHD.jpg) 
 2024-01-24 | [钻石冰沙滩，冰岛](https://s.cn.bing.net/th?id=OHR.IcelandBeach_ZH-CN1632329693_UHD.jpg) 
+2024-01-25 | [圣德温教堂的废墟，莫纳岛，威尔士，英国](https://s.cn.bing.net/th?id=OHR.DwynwensDay_ZH-CN1768649253_UHD.jpg) 
