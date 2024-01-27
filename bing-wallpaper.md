@@ -469,3 +469,4 @@
 2024-01-24 | [钻石冰沙滩，冰岛](https://s.cn.bing.net/th?id=OHR.IcelandBeach_ZH-CN1632329693_UHD.jpg) 
 2024-01-25 | [圣德温教堂的废墟，莫纳岛，威尔士，英国](https://s.cn.bing.net/th?id=OHR.DwynwensDay_ZH-CN1768649253_UHD.jpg) 
 2024-01-26 | [北鹰鸮](https://s.cn.bing.net/th?id=OHR.HawkOwl_ZH-CN3401920167_UHD.jpg) 
+2024-01-27 | [点嘴小巨嘴鸟，大西洋森林，巴西](https://s.cn.bing.net/th?id=OHR.ToucanetEmpoleirado_ZH-CN8520861326_UHD.jpg) 
