@@ -472,3 +472,4 @@
 2024-01-27 | [点嘴小巨嘴鸟，大西洋森林，巴西](https://s.cn.bing.net/th?id=OHR.ToucanetEmpoleirado_ZH-CN8520861326_UHD.jpg) 
 2024-01-28 | [昆士兰州内陆海峡地区，澳大利亚](https://s.cn.bing.net/th?id=OHR.ChannelOutback_ZH-CN0579687777_UHD.jpg) 
 2024-01-29 | [戈林格瀑布，泰嫩高，萨尔茨堡，奥地利](https://s.cn.bing.net/th?id=OHR.GollingerFalls_ZH-CN1137680822_UHD.jpg) 
+2024-01-30 | [艾纳, 塞古拉山脉, 阿尔瓦塞特, 西班牙](https://s.cn.bing.net/th?id=OHR.AlbaceteSpain_ZH-CN1597281896_UHD.jpg) 
