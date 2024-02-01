@@ -474,3 +474,4 @@
 2024-01-29 | [戈林格瀑布，泰嫩高，萨尔茨堡，奥地利](https://s.cn.bing.net/th?id=OHR.GollingerFalls_ZH-CN1137680822_UHD.jpg) 
 2024-01-30 | [艾纳, 塞古拉山脉, 阿尔瓦塞特, 西班牙](https://s.cn.bing.net/th?id=OHR.AlbaceteSpain_ZH-CN1597281896_UHD.jpg) 
 2024-01-31 | [布氏斑马妈妈和小马驹，里特弗雷自然保护区，南非](https://s.cn.bing.net/th?id=OHR.ZebraMother_ZH-CN1947314869_UHD.jpg) 
+2024-02-01 | [吕根岛的萨斯尼茨灯塔，德国](https://s.cn.bing.net/th?id=OHR.HalbinselJasmund_ZH-CN2110869056_UHD.jpg) 
