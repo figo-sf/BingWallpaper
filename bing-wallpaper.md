@@ -476,3 +476,4 @@
 2024-01-31 | [布氏斑马妈妈和小马驹，里特弗雷自然保护区，南非](https://s.cn.bing.net/th?id=OHR.ZebraMother_ZH-CN1947314869_UHD.jpg) 
 2024-02-01 | [吕根岛的萨斯尼茨灯塔，德国](https://s.cn.bing.net/th?id=OHR.HalbinselJasmund_ZH-CN2110869056_UHD.jpg) 
 2024-02-02 | [从洞穴中探出头的土拨鼠](https://s.cn.bing.net/th?id=OHR.AlpineMarmot_ZH-CN3818584615_UHD.jpg) 
+2024-02-03 | [大运河与安康圣母大教堂，威尼斯，意大利](https://s.cn.bing.net/th?id=OHR.VeniceCarnival_ZH-CN4965898587_UHD.jpg) 
