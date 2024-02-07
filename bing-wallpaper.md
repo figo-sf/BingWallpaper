@@ -480,3 +480,4 @@
 2024-02-04 | [德弗塔什卡洞, Devetaki村庄，保加利亚](https://s.cn.bing.net/th?id=OHR.DevetashkaCave_ZH-CN5186222166_UHD.jpg) 
 2024-02-05 | [从奥索伊尼察观景点看日出时的布莱德湖，斯洛文尼亚](https://s.cn.bing.net/th?id=OHR.LakeBledSunrise_ZH-CN5580697031_UHD.jpg) 
 2024-02-06 | [盆景岩，太浩湖，内华达州，美国](https://s.cn.bing.net/th?id=OHR.LakeTahoeRock_ZH-CN5770740919_UHD.jpg) 
+2024-02-07 | [圣詹姆斯潮汐池，开普敦，南非](https://s.cn.bing.net/th?id=OHR.StJamesPool_ZH-CN5930624359_UHD.jpg) 
