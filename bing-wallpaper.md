@@ -483,3 +483,4 @@
 2024-02-07 | [圣詹姆斯潮汐池，开普敦，南非](https://s.cn.bing.net/th?id=OHR.StJamesPool_ZH-CN5930624359_UHD.jpg) 
 2024-02-08 | [胡德山，俄勒冈州，美国](https://s.cn.bing.net/th?id=OHR.MtHoodOregon_ZH-CN6068357532_UHD.jpg) 
 2024-02-09 | [灯光秀点亮夜幕中的西安城墙，中国春节](https://s.cn.bing.net/th?id=OHR.ChineseNewYearEve2024_ZH-CN7153418405_UHD.jpg) 
+2024-02-10 | [中国舞狮，大年初一](https://s.cn.bing.net/th?id=OHR.SpringFestival2024_ZH-CN7514007541_UHD.jpg) 
