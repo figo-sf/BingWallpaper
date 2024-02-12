@@ -485,3 +485,4 @@
 2024-02-09 | [灯光秀点亮夜幕中的西安城墙，中国春节](https://s.cn.bing.net/th?id=OHR.ChineseNewYearEve2024_ZH-CN7153418405_UHD.jpg) 
 2024-02-10 | [中国舞狮，大年初一](https://s.cn.bing.net/th?id=OHR.SpringFestival2024_ZH-CN7514007541_UHD.jpg) 
 2024-02-11 | [乔拉岛，福莱甘兹罗斯岛，基克拉泽斯群岛, 希腊](https://s.cn.bing.net/th?id=OHR.FolegandrosGreece_ZH-CN7803666477_UHD.jpg) 
+2024-02-12 | [阿尔塞多火山象龟, 伊莎贝拉岛, 加拉帕戈斯群岛，厄瓜多尔](https://s.cn.bing.net/th?id=OHR.GiantTortoise_ZH-CN9220903689_UHD.jpg) 
