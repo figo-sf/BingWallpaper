@@ -487,3 +487,4 @@
 2024-02-11 | [乔拉岛，福莱甘兹罗斯岛，基克拉泽斯群岛, 希腊](https://s.cn.bing.net/th?id=OHR.FolegandrosGreece_ZH-CN7803666477_UHD.jpg) 
 2024-02-12 | [阿尔塞多火山象龟, 伊莎贝拉岛, 加拉帕戈斯群岛，厄瓜多尔](https://s.cn.bing.net/th?id=OHR.GiantTortoise_ZH-CN9220903689_UHD.jpg) 
 2024-02-13 | [马里尼的狂欢节彩珠，新奥尔良，美国](https://s.cn.bing.net/th?id=OHR.MarignyBeads_ZH-CN9346804869_UHD.jpg) 
+2024-02-14 | [丹顶鹤向伴侣鞠躬，北海道，日本](https://s.cn.bing.net/th?id=OHR.BowingCrane_ZH-CN0143761293_UHD.jpg) 
