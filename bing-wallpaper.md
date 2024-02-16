@@ -489,3 +489,4 @@
 2024-02-13 | [马里尼的狂欢节彩珠，新奥尔良，美国](https://s.cn.bing.net/th?id=OHR.MarignyBeads_ZH-CN9346804869_UHD.jpg) 
 2024-02-14 | [丹顶鹤向伴侣鞠躬，北海道，日本](https://s.cn.bing.net/th?id=OHR.BowingCrane_ZH-CN0143761293_UHD.jpg) 
 2024-02-15 | [河马妈妈和小河马，南卢安瓜国家公园，赞比亚](https://s.cn.bing.net/th?id=OHR.HippopotamusDay_ZH-CN0518367336_UHD.jpg) 
+2024-02-16 | [一只雌性灰额主红雀栖息在德克萨斯州一株多刺仙人掌上，美国](https://s.cn.bing.net/th?id=OHR.BackyardBird_ZH-CN0522695977_UHD.jpg) 
