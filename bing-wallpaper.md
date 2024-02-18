@@ -491,3 +491,4 @@
 2024-02-15 | [河马妈妈和小河马，南卢安瓜国家公园，赞比亚](https://s.cn.bing.net/th?id=OHR.HippopotamusDay_ZH-CN0518367336_UHD.jpg) 
 2024-02-16 | [一只雌性灰额主红雀栖息在德克萨斯州一株多刺仙人掌上，美国](https://s.cn.bing.net/th?id=OHR.BackyardBird_ZH-CN0522695977_UHD.jpg) 
 2024-02-17 | [多洛米蒂山的布莱耶斯湖，南蒂罗尔，意大利](https://s.cn.bing.net/th?id=OHR.LakeDolomites_ZH-CN2317113886_UHD.jpg) 
+2024-02-18 | [抹香鲸浮出水面，多米尼克](https://s.cn.bing.net/th?id=OHR.DominicaWhales_ZH-CN1293650397_UHD.jpg) 
