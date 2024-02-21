@@ -494,3 +494,4 @@
 2024-02-18 | [抹香鲸浮出水面，多米尼克](https://s.cn.bing.net/th?id=OHR.DominicaWhales_ZH-CN1293650397_UHD.jpg) 
 2024-02-19 | [鸟瞰克鲁斯港色彩斑斓的房屋，特内里费岛，西班牙](https://s.cn.bing.net/th?id=OHR.CarnavalTenerife_ZH-CN1559136778_UHD.jpg) 
 2024-02-20 | [Kinder Scout，峰区国家公园，英国](https://s.cn.bing.net/th?id=OHR.PeakDistrictNP_ZH-CN1987784653_UHD.jpg) 
+2024-02-21 | [火瀑布，优胜美地国家公园，加利福尼亚州，美国](https://s.cn.bing.net/th?id=OHR.YosemiteFirefall_ZH-CN2236242565_UHD.jpg) 
