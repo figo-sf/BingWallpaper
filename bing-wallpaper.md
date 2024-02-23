@@ -496,3 +496,4 @@
 2024-02-20 | [Kinder Scout，峰区国家公园，英国](https://s.cn.bing.net/th?id=OHR.PeakDistrictNP_ZH-CN1987784653_UHD.jpg) 
 2024-02-21 | [火瀑布，优胜美地国家公园，加利福尼亚州，美国](https://s.cn.bing.net/th?id=OHR.YosemiteFirefall_ZH-CN2236242565_UHD.jpg) 
 2024-02-22 | [布莱顿海滩的彩虹小屋，墨尔本，维多利亚州，澳大利亚](https://s.cn.bing.net/th?id=OHR.BrightonBoxes_ZH-CN0947219018_UHD.jpg) 
+2024-02-23 | [Haghartsin修道院，迪利扬国家公园，亚美尼亚](https://s.cn.bing.net/th?id=OHR.HaghartsinMonastery_ZH-CN1705226096_UHD.jpg) 
