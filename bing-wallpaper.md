@@ -498,3 +498,4 @@
 2024-02-22 | [布莱顿海滩的彩虹小屋，墨尔本，维多利亚州，澳大利亚](https://s.cn.bing.net/th?id=OHR.BrightonBoxes_ZH-CN0947219018_UHD.jpg) 
 2024-02-23 | [Haghartsin修道院，迪利扬国家公园，亚美尼亚](https://s.cn.bing.net/th?id=OHR.HaghartsinMonastery_ZH-CN1705226096_UHD.jpg) 
 2024-02-24 | [锦里街上悬挂的红色中国灯笼，成都，中国四川省](https://s.cn.bing.net/th?id=OHR.LaternFestival2024_ZH-CN8050981828_UHD.jpg) 
+2024-02-25 | [考伊琴山谷的薄雾，温哥华岛，加拿大不列颠哥伦比亚省](https://s.cn.bing.net/th?id=OHR.MtPrevostDuncan_ZH-CN2333619635_UHD.jpg) 
