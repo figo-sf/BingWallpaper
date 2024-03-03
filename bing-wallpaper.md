@@ -505,3 +505,4 @@
 2024-02-29 | [欧亚红松鼠](https://s.cn.bing.net/th?id=OHR.LeapingSquirrel_ZH-CN9112090462_UHD.jpg) 
 2024-03-01 | [德国草地上的蝴蝶](https://s.cn.bing.net/th?id=OHR.Schmetterlingswiese_ZH-CN3740804088_UHD.jpg) 
 2024-03-02 | [莫迪卡，西西里岛，意大利](https://s.cn.bing.net/th?id=OHR.ModicaItaly_ZH-CN3893147952_UHD.jpg) 
+2024-03-03 | [树上的豹子，克鲁格国家公园，南非](https://s.cn.bing.net/th?id=OHR.KrugerLeopard_ZH-CN4125884091_UHD.jpg) 
