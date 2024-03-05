@@ -507,3 +507,4 @@
 2024-03-02 | [莫迪卡，西西里岛，意大利](https://s.cn.bing.net/th?id=OHR.ModicaItaly_ZH-CN3893147952_UHD.jpg) 
 2024-03-03 | [树上的豹子，克鲁格国家公园，南非](https://s.cn.bing.net/th?id=OHR.KrugerLeopard_ZH-CN4125884091_UHD.jpg) 
 2024-03-04 | [从蒙特维多看到的阿雷纳尔火山,哥斯达黎加](https://s.cn.bing.net/th?id=OHR.ArenalCostaRica_ZH-CN4466297855_UHD.jpg) 
+2024-03-05 | [曼谷的交通圈和高速公路，泰国](https://s.cn.bing.net/th?id=OHR.BangkokCircle_ZH-CN4702412806_UHD.jpg) 
