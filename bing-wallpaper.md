@@ -511,3 +511,4 @@
 2024-03-06 | [Wahclella Falls，哥伦比亚河峡谷，俄勒冈州，美国](https://s.cn.bing.net/th?id=OHR.WahclellaFalls_ZH-CN4932852217_UHD.jpg) 
 2024-03-07 | [Roques de Benet，埃尔斯港自然公园，加泰罗尼亚，西班牙](https://s.cn.bing.net/th?id=OHR.TarragonaSpain_ZH-CN5488361711_UHD.jpg) 
 2024-03-08 | [伊瓜苏大瀑布鸟瞰图，巴西](https://s.cn.bing.net/th?id=OHR.IguazuFalls_ZH-CN4749837052_UHD.jpg) 
+2024-03-09 | [比斯第恶土，新墨西哥州，美国](https://s.cn.bing.net/th?id=OHR.BistiBlue_ZH-CN4991705833_UHD.jpg) 
