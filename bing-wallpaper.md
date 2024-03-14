@@ -516,3 +516,4 @@
 2024-03-11 | [Prosecco山丘，科内利亚诺和瓦尔多比亚德内，威内托大区，意大利](https://s.cn.bing.net/th?id=OHR.ProseccoItaly_ZH-CN6802010344_UHD.jpg) 
 2024-03-12 | [布莱斯峡谷国家公园，犹他州，美国](https://s.cn.bing.net/th?id=OHR.BryceSnow_ZH-CN7489999663_UHD.jpg) 
 2024-03-13 | [小红鹳飞越马加迪湖,肯尼亚](https://s.cn.bing.net/th?id=OHR.MagadiFlamingos_ZH-CN7888437841_UHD.jpg) 
+2024-03-14 | [Wat Phra Ngam，大城府历史公园，泰国](https://s.cn.bing.net/th?id=OHR.AyutthayaTree_ZH-CN8075870220_UHD.jpg) 
