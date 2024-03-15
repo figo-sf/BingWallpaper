@@ -517,3 +517,4 @@
 2024-03-12 | [布莱斯峡谷国家公园，犹他州，美国](https://s.cn.bing.net/th?id=OHR.BryceSnow_ZH-CN7489999663_UHD.jpg) 
 2024-03-13 | [小红鹳飞越马加迪湖,肯尼亚](https://s.cn.bing.net/th?id=OHR.MagadiFlamingos_ZH-CN7888437841_UHD.jpg) 
 2024-03-14 | [Wat Phra Ngam，大城府历史公园，泰国](https://s.cn.bing.net/th?id=OHR.AyutthayaTree_ZH-CN8075870220_UHD.jpg) 
+2024-03-15 | [安沙波利哥沙漠州立公园，美国加利福尼亚州](https://s.cn.bing.net/th?id=OHR.AnzaBorregoBloom_ZH-CN8284458835_UHD.jpg) 
