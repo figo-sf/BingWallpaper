@@ -518,3 +518,4 @@
 2024-03-13 | [小红鹳飞越马加迪湖,肯尼亚](https://s.cn.bing.net/th?id=OHR.MagadiFlamingos_ZH-CN7888437841_UHD.jpg) 
 2024-03-14 | [Wat Phra Ngam，大城府历史公园，泰国](https://s.cn.bing.net/th?id=OHR.AyutthayaTree_ZH-CN8075870220_UHD.jpg) 
 2024-03-15 | [安沙波利哥沙漠州立公园，美国加利福尼亚州](https://s.cn.bing.net/th?id=OHR.AnzaBorregoBloom_ZH-CN8284458835_UHD.jpg) 
+2024-03-16 | [正在吃竹子的大熊猫，中国成都](https://s.cn.bing.net/th?id=OHR.BambooPanda_ZH-CN8455481760_UHD.jpg) 
