@@ -524,3 +524,4 @@
 2024-03-19 | [盛开的扁桃树, 加利福尼亚州，美国](https://s.cn.bing.net/th?id=OHR.AlmondBloom_ZH-CN9441550492_UHD.jpg) 
 2024-03-20 | [鸟瞰春日盛开的樱花，中国](https://s.cn.bing.net/th?id=OHR.Springequinox2024_ZH-CN5647214924_UHD.jpg) 
 2024-03-21 | [布恩迪国家公园，乌干达](https://s.cn.bing.net/th?id=OHR.BwindiNationalForest_ZH-CN0436137473_UHD.jpg) 
+2024-03-22 | [蓝泉，蒂怀霍步道，新西兰](https://s.cn.bing.net/th?id=OHR.WaikatoWater_ZH-CN0417438809_UHD.jpg) 
