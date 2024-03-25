@@ -527,3 +527,4 @@
 2024-03-22 | [蓝泉，蒂怀霍步道，新西兰](https://s.cn.bing.net/th?id=OHR.WaikatoWater_ZH-CN0417438809_UHD.jpg) 
 2024-03-23 | [巴西亚马逊上空巨大的砧状云](https://s.cn.bing.net/th?id=OHR.AmazonClouds_ZH-CN0578911147_UHD.jpg) 
 2024-03-24 | [樱花树枝上的灰胸绣眼鸟，韩国](https://s.cn.bing.net/th?id=OHR.WhiteEyes_ZH-CN1130380430_UHD.jpg) 
+2024-03-25 | [弗雷泽河谷的郁金香田，阿伯兹福德，不列颠哥伦比亚省，加拿大](https://s.cn.bing.net/th?id=OHR.TulipAbbotsford_ZH-CN1401627293_UHD.jpg) 
