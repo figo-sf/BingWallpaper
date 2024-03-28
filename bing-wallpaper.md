@@ -530,3 +530,4 @@
 2024-03-25 | [弗雷泽河谷的郁金香田，阿伯兹福德，不列颠哥伦比亚省，加拿大](https://s.cn.bing.net/th?id=OHR.TulipAbbotsford_ZH-CN1401627293_UHD.jpg) 
 2024-03-26 | [海水从古老的珊瑚礁上倾泻而下，杭莱，越南](https://s.cn.bing.net/th?id=OHR.HangRaiVietnam_ZH-CN1601428109_UHD.jpg) 
 2024-03-27 | [布宜诺斯艾利斯哥伦布剧院，阿根廷](https://s.cn.bing.net/th?id=OHR.TeatroColon_ZH-CN5378730986_UHD.jpg) 
+2024-03-28 | [上海的樱花，中国](https://s.cn.bing.net/th?id=OHR.ShanghaiBlossoms_ZH-CN5594677517_UHD.jpg) 
