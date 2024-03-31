@@ -533,3 +533,4 @@
 2024-03-28 | [上海的樱花，中国](https://s.cn.bing.net/th?id=OHR.ShanghaiBlossoms_ZH-CN5594677517_UHD.jpg) 
 2024-03-29 | [日落时的南斯塔克灯塔，霍利希德，威尔士，英国](https://s.cn.bing.net/th?id=OHR.SouthStackLight_ZH-CN5932471774_UHD.jpg) 
 2024-03-30 | [睡在号角树上的褐喉树懒，哥斯达黎加](https://s.cn.bing.net/th?id=OHR.SleepySloth_ZH-CN6084460583_UHD.jpg) 
+2024-03-31 | [潘塔纳尔湿地的大白鹭，巴西](https://s.cn.bing.net/th?id=OHR.ArdeAlba_ZH-CN6807697569_UHD.jpg) 
