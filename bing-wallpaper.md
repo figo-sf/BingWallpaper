@@ -539,3 +539,4 @@
 2024-04-03 | [At-Bashy地区的彩虹，Kakshaal Too山脉，纳伦省，吉尔吉斯斯坦](https://s.cn.bing.net/th?id=OHR.KyrgyzstanRainbow_ZH-CN8027219590_UHD.jpg) 
 2024-04-04 | [红驴羚群穿越奥卡万戈三角洲的沼泽平原，博茨瓦纳](https://s.cn.bing.net/th?id=OHR.AntelopeBotswana_ZH-CN8253323519_UHD.jpg) 
 2024-04-05 | [从国际空间站拍摄的巴哈马群岛](https://s.cn.bing.net/th?id=OHR.BahamasSpace_ZH-CN8053657656_UHD.jpg) 
+2024-04-06 | [姬路城，姫路，兵库县，日本](https://s.cn.bing.net/th?id=OHR.JapanHimeji_ZH-CN8344654166_UHD.jpg) 
