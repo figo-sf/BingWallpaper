@@ -547,3 +547,4 @@
 2024-04-11 | [丘伦梅鲁瀑布鸟瞰图，委内瑞拉](https://s.cn.bing.net/th?id=OHR.DragonWaterfall_ZH-CN9580105565_UHD.jpg) 
 2024-04-12 | [拱门国家公园，犹他州，美国](https://s.cn.bing.net/th?id=OHR.SunsetArchesNP_ZH-CN9875945974_UHD.jpg) 
 2024-04-13 | [春天的苹果树，德国](https://s.cn.bing.net/th?id=OHR.SpringApple_ZH-CN0101917345_UHD.jpg) 
+2024-04-14 | [保龄球海滩的日落，门多西诺县，加利福尼亚，美国](https://s.cn.bing.net/th?id=OHR.BowlingBallCali_ZH-CN0434558966_UHD.jpg) 
