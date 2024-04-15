@@ -548,3 +548,4 @@
 2024-04-12 | [拱门国家公园，犹他州，美国](https://s.cn.bing.net/th?id=OHR.SunsetArchesNP_ZH-CN9875945974_UHD.jpg) 
 2024-04-13 | [春天的苹果树，德国](https://s.cn.bing.net/th?id=OHR.SpringApple_ZH-CN0101917345_UHD.jpg) 
 2024-04-14 | [保龄球海滩的日落，门多西诺县，加利福尼亚，美国](https://s.cn.bing.net/th?id=OHR.BowlingBallCali_ZH-CN0434558966_UHD.jpg) 
+2024-04-15 | [香波城堡，中央-卢瓦尔河谷大区，法国](https://s.cn.bing.net/th?id=OHR.ChambordCastle_ZH-CN0930093515_UHD.jpg) 
