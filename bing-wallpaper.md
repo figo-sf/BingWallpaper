@@ -552,3 +552,4 @@
 2024-04-16 | [暮色中的曼哈顿下城联合广场，纽约，美国](https://s.cn.bing.net/th?id=OHR.UnionSquareNYC_ZH-CN1533018653_UHD.jpg) 
 2024-04-17 | [春天的美洲黑熊幼崽，仙纳度国家公园，弗吉尼亚州，美国](https://s.cn.bing.net/th?id=OHR.SpringCub_ZH-CN1643833378_UHD.jpg) 
 2024-04-18 | [中世纪城墙，阿维拉，西班牙](https://s.cn.bing.net/th?id=OHR.AvilaSpain_ZH-CN1792280503_UHD.jpg) 
+2024-04-19 | [布罗德加环，奥克尼岛，苏格兰](https://s.cn.bing.net/th?id=OHR.OrkneyStones_ZH-CN2287350110_UHD.jpg) 
