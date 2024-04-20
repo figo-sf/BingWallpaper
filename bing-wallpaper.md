@@ -553,3 +553,4 @@
 2024-04-17 | [春天的美洲黑熊幼崽，仙纳度国家公园，弗吉尼亚州，美国](https://s.cn.bing.net/th?id=OHR.SpringCub_ZH-CN1643833378_UHD.jpg) 
 2024-04-18 | [中世纪城墙，阿维拉，西班牙](https://s.cn.bing.net/th?id=OHR.AvilaSpain_ZH-CN1792280503_UHD.jpg) 
 2024-04-19 | [布罗德加环，奥克尼岛，苏格兰](https://s.cn.bing.net/th?id=OHR.OrkneyStones_ZH-CN2287350110_UHD.jpg) 
+2024-04-20 | [日出时分的大棱镜泉，美国怀俄明州黄石国家公园](https://s.cn.bing.net/th?id=OHR.YellowstoneGeyser_ZH-CN3441008468_UHD.jpg) 
