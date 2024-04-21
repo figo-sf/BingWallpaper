@@ -554,3 +554,4 @@
 2024-04-18 | [中世纪城墙，阿维拉，西班牙](https://s.cn.bing.net/th?id=OHR.AvilaSpain_ZH-CN1792280503_UHD.jpg) 
 2024-04-19 | [布罗德加环，奥克尼岛，苏格兰](https://s.cn.bing.net/th?id=OHR.OrkneyStones_ZH-CN2287350110_UHD.jpg) 
 2024-04-20 | [日出时分的大棱镜泉，美国怀俄明州黄石国家公园](https://s.cn.bing.net/th?id=OHR.YellowstoneGeyser_ZH-CN3441008468_UHD.jpg) 
+2024-04-21 | [Cades Cove ，大雾山国家公园，田纳西州，美国](https://s.cn.bing.net/th?id=OHR.CadesCove_ZH-CN3950297181_UHD.jpg) 
