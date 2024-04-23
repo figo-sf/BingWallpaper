@@ -556,3 +556,4 @@
 2024-04-20 | [日出时分的大棱镜泉，美国怀俄明州黄石国家公园](https://s.cn.bing.net/th?id=OHR.YellowstoneGeyser_ZH-CN3441008468_UHD.jpg) 
 2024-04-21 | [Cades Cove ，大雾山国家公园，田纳西州，美国](https://s.cn.bing.net/th?id=OHR.CadesCove_ZH-CN3950297181_UHD.jpg) 
 2024-04-22 | [绿海龟，圣地亚哥，加利福尼亚，美国](https://s.cn.bing.net/th?id=OHR.EarthDayTurtle_ZH-CN4642042701_UHD.jpg) 
+2024-04-23 | [三一学院图书馆，都柏林，爱尔兰](https://s.cn.bing.net/th?id=OHR.TrinityDublin_ZH-CN7902993255_UHD.jpg) 
