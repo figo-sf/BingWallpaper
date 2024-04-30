@@ -562,3 +562,4 @@
 2024-04-26 | [卡拉洛奇树，又名生命之树，卡拉洛奇海滩，奥林匹克国家公园，华盛顿州，美国](https://s.cn.bing.net/th?id=OHR.KalalochTree_ZH-CN9427839259_UHD.jpg) 
 2024-04-27 | [澳大利亚花园里的白种安氏蜂鸟，加州大学圣克鲁兹分校植物园，加利福尼亚州，美国](https://s.cn.bing.net/th?id=OHR.LeucisticHummingbird_ZH-CN2921653789_UHD.jpg) 
 2024-04-29 | [福建土楼，福建省历史文化遗产建筑，中国](https://s.cn.bing.net/th?id=OHR.TulouFujian_ZH-CN4287018074_UHD.jpg) 
+2024-04-30 | [清晨雨中的猎豹，恩杜图平原，恩戈罗恩戈罗保护区，坦桑尼亚](https://s.cn.bing.net/th?id=OHR.CheetahRain_ZH-CN6722375507_UHD.jpg) 
