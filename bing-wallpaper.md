@@ -566,3 +566,4 @@
 2024-05-01 | [夏威夷花环](https://s.cn.bing.net/th?id=OHR.HawaiianLei_ZH-CN7857272499_UHD.jpg) 
 2024-05-02 | [蓝龙熔岩流，月球陨石坑国家纪念碑和保护区，爱达荷州，美国](https://s.cn.bing.net/th?id=OHR.CratersOfTheMoon_ZH-CN8971565042_UHD.jpg) 
 2024-05-03 | [春天盛开的沙漠毒菊，索诺拉沙漠，亚利桑那州](https://s.cn.bing.net/th?id=OHR.SonoranSpring_ZH-CN9246678734_UHD.jpg) 
+2024-05-04 | [斯凯利格·迈克尔岛上一座古老修道院的废墟，爱尔兰](https://s.cn.bing.net/th?id=OHR.JediMonastery_ZH-CN0091557941_UHD.jpg) 
