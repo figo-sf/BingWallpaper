@@ -568,3 +568,4 @@
 2024-05-03 | [春天盛开的沙漠毒菊，索诺拉沙漠，亚利桑那州](https://s.cn.bing.net/th?id=OHR.SonoranSpring_ZH-CN9246678734_UHD.jpg) 
 2024-05-04 | [斯凯利格·迈克尔岛上一座古老修道院的废墟，爱尔兰](https://s.cn.bing.net/th?id=OHR.JediMonastery_ZH-CN0091557941_UHD.jpg) 
 2024-05-05 | [圣米格尔德阿连德的柱廊，瓜那华托州，墨西哥](https://s.cn.bing.net/th?id=OHR.SanMiguelAllende_ZH-CN1840507091_UHD.jpg) 
+2024-05-06 | [罗奇斯山脊，英格兰峰区](https://s.cn.bing.net/th?id=OHR.TheRoachesPeakDistrict_ZH-CN2657532467_UHD.jpg) 
