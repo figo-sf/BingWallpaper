@@ -572,3 +572,4 @@
 2024-05-07 | [一只小鸭子在水草地上游泳，萨福克郡，英国](https://s.cn.bing.net/th?id=OHR.LittleDuckling_ZH-CN2922471258_UHD.jpg) 
 2024-05-08 | [伊夫堡，马赛，法国](https://s.cn.bing.net/th?id=OHR.PortMarseille_ZH-CN3194394496_UHD.jpg) 
 2024-05-09 | [埃米尔甘公园的郁金香，伊斯坦布尔，土耳其](https://s.cn.bing.net/th?id=OHR.EmirganPark_ZH-CN3394557999_UHD.jpg) 
+2024-05-10 | [米苏尔岛，拉贾安帕群岛，印度尼西亚](https://s.cn.bing.net/th?id=OHR.MisoolRajaAmpat_ZH-CN3557473032_UHD.jpg) 
