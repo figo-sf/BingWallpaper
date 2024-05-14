@@ -576,3 +576,4 @@
 2024-05-11 | [树枝上栖息的靛蓝彩鹀，德克萨斯州](https://s.cn.bing.net/th?id=OHR.TexasIndigoBunting_ZH-CN3699392300_UHD.jpg) 
 2024-05-12 | [潘帕省草原上的雌性原驼和它新出生的宝宝，阿根廷](https://s.cn.bing.net/th?id=OHR.GuanacoMother_ZH-CN3856540256_UHD.jpg) 
 2024-05-13 | [鱼河大峡谷，纳米比亚](https://s.cn.bing.net/th?id=OHR.NamibiaCanyon_ZH-CN3973338246_UHD.jpg) 
+2024-05-14 | [通往大房间的走道，卡尔斯巴德洞穴国家公园，新墨西哥州](https://s.cn.bing.net/th?id=OHR.CarlsbadNP_ZH-CN4136753542_UHD.jpg) 
