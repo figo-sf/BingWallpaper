@@ -584,3 +584,4 @@
 2024-05-19 | [韦尔纳扎村，五渔村，利古里亚，意大利](https://s.cn.bing.net/th?id=OHR.VernazzaItaly_ZH-CN6245826569_UHD.jpg) 
 2024-05-20 | [蜜蜂照料蜂巢](https://s.cn.bing.net/th?id=OHR.HoneycombBee_ZH-CN6572760814_UHD.jpg) 
 2024-05-21 | [卡梅隆高地茶园，马来西亚](https://s.cn.bing.net/th?id=OHR.MalaysiaTea_ZH-CN6758939415_UHD.jpg) 
+2024-05-22 | [塔斯马尼亚高山黄桉（假少花桉），费尔德山国家公园，塔斯马尼亚州，澳大利亚](https://s.cn.bing.net/th?id=OHR.SnowGumTasmania_ZH-CN6975160884_UHD.jpg) 
