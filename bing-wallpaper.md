@@ -587,3 +587,4 @@
 2024-05-22 | [塔斯马尼亚高山黄桉（假少花桉），费尔德山国家公园，塔斯马尼亚州，澳大利亚](https://s.cn.bing.net/th?id=OHR.SnowGumTasmania_ZH-CN6975160884_UHD.jpg) 
 2024-05-23 | [印度星龟，斯里兰卡](https://s.cn.bing.net/th?id=OHR.IndianStarTortoise_ZH-CN7177478610_UHD.jpg) 
 2024-05-24 | [阿尼斯克洛峡谷，奥德萨和佩尔迪多山国家公园，韦斯卡，西班牙](https://s.cn.bing.net/th?id=OHR.OrdesaNationalPark_ZH-CN8545620273_UHD.jpg) 
+2024-05-25 | [阿伊特本哈杜，摩洛哥](https://s.cn.bing.net/th?id=OHR.MoroccoBenhaddou_ZH-CN8742267428_UHD.jpg) 
