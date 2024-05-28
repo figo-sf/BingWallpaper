@@ -590,3 +590,4 @@
 2024-05-25 | [阿伊特本哈杜，摩洛哥](https://s.cn.bing.net/th?id=OHR.MoroccoBenhaddou_ZH-CN8742267428_UHD.jpg) 
 2024-05-26 | [香根和羽扇豆，梅索谷，北喀斯喀特，华盛顿州，美国](https://s.cn.bing.net/th?id=OHR.MethowWildflowers_ZH-CN8926661958_UHD.jpg) 
 2024-05-27 | [塞斯特里莱万特的沉默湾，利古里亚大区，意大利](https://s.cn.bing.net/th?id=OHR.SestriLevante_ZH-CN9286254645_UHD.jpg) 
+2024-05-28 | [罗萨诺修道院，迈泰奥拉，色萨利 ，希腊](https://s.cn.bing.net/th?id=OHR.MeteoraMonastery_ZH-CN9551991708_UHD.jpg) 
