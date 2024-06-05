@@ -597,3 +597,4 @@
 2024-06-02 | [普卢马纳克的灯塔，阿摩尔滨海省，法国](https://s.cn.bing.net/th?id=OHR.MenRuz_ZH-CN2021725181_UHD.jpg) 
 2024-06-03 | [哥本哈根的自行车，丹麦](https://s.cn.bing.net/th?id=OHR.CopenhagenBicycles_ZH-CN3047958346_UHD.jpg) 
 2024-06-04 | [黑胸蜂虎，巴迪亚国家公园，尼泊尔](https://s.cn.bing.net/th?id=OHR.ChestnutBeeEater_ZH-CN3514753872_UHD.jpg) 
+2024-06-05 | [马达加斯加的马苏阿拉国家公园](https://s.cn.bing.net/th?id=OHR.MadagascarRiver_ZH-CN3842472014_UHD.jpg) 
