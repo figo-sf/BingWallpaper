@@ -602,3 +602,4 @@
 2024-06-07 | [座头鲸家族，荷兰港，阿拉斯加州](https://s.cn.bing.net/th?id=OHR.HumpbackFamily_ZH-CN4336100531_UHD.jpg) 
 2024-06-08 | [复活节溪和基利克河的交汇处，北极之门国家公园，阿拉斯加州，美国](https://s.cn.bing.net/th?id=OHR.KillikRiverAlaska_ZH-CN5736211272_UHD.jpg) 
 2024-06-09 | [巴尔德纳斯雷亚尔斯自然公园，巴德纳斯，纳瓦拉，西班牙](https://s.cn.bing.net/th?id=OHR.BardenasBiosphere_ZH-CN6198033700_UHD.jpg) 
+2024-06-10 | [龙舟池日出，集美区，厦门，中国](https://s.cn.bing.net/th?id=OHR.DragonBoatFestival2024_ZH-CN6619827853_UHD.jpg) 
