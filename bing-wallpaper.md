@@ -606,3 +606,4 @@
 2024-06-11 | [热带稀树草原上的南非剑羚，博茨瓦纳大草原](https://s.cn.bing.net/th?id=OHR.GemsbokBotswana_ZH-CN7507199339_UHD.jpg) 
 2024-06-12 | [大弯国家公园上空的银河，得克萨斯州，美国](https://s.cn.bing.net/th?id=OHR.BigBendMilkyWay_ZH-CN7709015605_UHD.jpg) 
 2024-06-13 | [雷吉斯坦广场的外立面马赛克，撒马尔罕，乌兹别克斯坦撒](https://s.cn.bing.net/th?id=OHR.RegistanUzbekistan_ZH-CN7850329702_UHD.jpg) 
+2024-06-14 | [佩姬湾灯塔，新斯科舍省，加拿大](https://s.cn.bing.net/th?id=OHR.PeggysCove_ZH-CN4221190894_UHD.jpg) 
