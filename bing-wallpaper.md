@@ -609,3 +609,4 @@
 2024-06-14 | [佩姬湾灯塔，新斯科舍省，加拿大](https://s.cn.bing.net/th?id=OHR.PeggysCove_ZH-CN4221190894_UHD.jpg) 
 2024-06-15 | [在纳扎雷冲浪的冲浪者，葡萄牙](https://s.cn.bing.net/th?id=OHR.NazareWave_ZH-CN4575182192_UHD.jpg) 
 2024-06-16 | [赤狐父子，华盛顿，美国](https://s.cn.bing.net/th?id=OHR.RedFoxDad_ZH-CN4894022141_UHD.jpg) 
+2024-06-17 | [绿顶辉蜂鸟与巨型蓟，穆埃尔特山，哥斯达黎加](https://s.cn.bing.net/th?id=OHR.HummingThistle_ZH-CN5057539905_UHD.jpg) 
