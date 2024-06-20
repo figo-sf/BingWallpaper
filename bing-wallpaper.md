@@ -612,3 +612,4 @@
 2024-06-17 | [绿顶辉蜂鸟与巨型蓟，穆埃尔特山，哥斯达黎加](https://s.cn.bing.net/th?id=OHR.HummingThistle_ZH-CN5057539905_UHD.jpg) 
 2024-06-18 | [日出时的羽扇豆田和教堂，斯奈山半岛，冰岛](https://s.cn.bing.net/th?id=OHR.LupinIceland_ZH-CN5329147708_UHD.jpg) 
 2024-06-19 | [库克斯港的水塔，德国](https://s.cn.bing.net/th?id=OHR.CuxhavenTower_ZH-CN5580118944_UHD.jpg) 
+2024-06-20 | [科基诺，古代巨石观测站，北马其顿](https://s.cn.bing.net/th?id=OHR.KokinoMacedonia_ZH-CN6029529601_UHD.jpg) 
