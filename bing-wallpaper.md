@@ -614,3 +614,4 @@
 2024-06-19 | [库克斯港的水塔，德国](https://s.cn.bing.net/th?id=OHR.CuxhavenTower_ZH-CN5580118944_UHD.jpg) 
 2024-06-20 | [科基诺，古代巨石观测站，北马其顿](https://s.cn.bing.net/th?id=OHR.KokinoMacedonia_ZH-CN6029529601_UHD.jpg) 
 2024-06-21 | [蓝色水面上的渔船航拍图，郴州市，湖南省，中国](https://s.cn.bing.net/th?id=OHR.SummerSolstice2024_ZH-CN6141918663_UHD.jpg) 
+2024-06-22 | [亚马逊雨林，巴西](https://s.cn.bing.net/th?id=OHR.BrazilRainforest_ZH-CN6432366530_UHD.jpg) 
