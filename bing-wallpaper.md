@@ -616,3 +616,4 @@
 2024-06-21 | [蓝色水面上的渔船航拍图，郴州市，湖南省，中国](https://s.cn.bing.net/th?id=OHR.SummerSolstice2024_ZH-CN6141918663_UHD.jpg) 
 2024-06-22 | [亚马逊雨林，巴西](https://s.cn.bing.net/th?id=OHR.BrazilRainforest_ZH-CN6432366530_UHD.jpg) 
 2024-06-23 | [达卡环形交叉路口的鸟瞰图，孟加拉国](https://s.cn.bing.net/th?id=OHR.DhakaBangladesh_ZH-CN6777866162_UHD.jpg) 
+2024-06-24 | [克里穆图的火山口湖，弗洛勒斯岛，印度尼西亚](https://s.cn.bing.net/th?id=OHR.FloresIsland_ZH-CN6930246149_UHD.jpg) 
