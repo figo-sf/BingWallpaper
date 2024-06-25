@@ -617,3 +617,4 @@
 2024-06-22 | [亚马逊雨林，巴西](https://s.cn.bing.net/th?id=OHR.BrazilRainforest_ZH-CN6432366530_UHD.jpg) 
 2024-06-23 | [达卡环形交叉路口的鸟瞰图，孟加拉国](https://s.cn.bing.net/th?id=OHR.DhakaBangladesh_ZH-CN6777866162_UHD.jpg) 
 2024-06-24 | [克里穆图的火山口湖，弗洛勒斯岛，印度尼西亚](https://s.cn.bing.net/th?id=OHR.FloresIsland_ZH-CN6930246149_UHD.jpg) 
+2024-06-25 | [火浪岩层，火焰谷州立公园，内华达州，美国](https://s.cn.bing.net/th?id=OHR.FireWave_ZH-CN7110736577_UHD.jpg) 
