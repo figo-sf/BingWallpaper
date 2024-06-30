@@ -620,3 +620,4 @@
 2024-06-25 | [火浪岩层，火焰谷州立公园，内华达州，美国](https://s.cn.bing.net/th?id=OHR.FireWave_ZH-CN7110736577_UHD.jpg) 
 2024-06-26 | [考氏鳍竺鲷与海葵，蓝碧海峡，北苏拉威西，印度尼西亚](https://s.cn.bing.net/th?id=OHR.CardinalfishAnemone_ZH-CN7249037417_UHD.jpg) 
 2024-06-27 | [黄昏时分的圣母百花大教堂，佛罗伦萨，意大利](https://s.cn.bing.net/th?id=OHR.FlorenceDuomo_ZH-CN7379412586_UHD.jpg) 
+2024-06-30 | [乌布寺庙的石雕,巴厘岛,印度尼西亚](https://s.cn.bing.net/th?id=OHR.UbudBali_ZH-CN4891348277_UHD.jpg) 
