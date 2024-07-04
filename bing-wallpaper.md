@@ -624,3 +624,4 @@
 2024-07-01 | [菲斯加德灯塔，埃斯奎莫尔特港，科尔伍德，不列颠哥伦比亚省，加拿大](https://s.cn.bing.net/th?id=OHR.FisgardLighthouse_ZH-CN5474064913_UHD.jpg) 
 2024-07-02 | [意大利卡，桑蒂蓬塞的一座古罗马城市，塞维利亚，安达卢西亚，西班牙](https://s.cn.bing.net/th?id=OHR.ItalicaRuins_ZH-CN5932138207_UHD.jpg) 
 2024-07-03 | [猫鼬家族](https://s.cn.bing.net/th?id=OHR.MeerkatManor_ZH-CN2486051161_UHD.jpg) 
+2024-07-04 | [扎哈拉德拉谢拉，安达卢西亚，西班牙](https://s.cn.bing.net/th?id=OHR.ZaharaDeLaSierra_ZH-CN6500182265_UHD.jpg) 
