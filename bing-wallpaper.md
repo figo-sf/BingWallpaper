@@ -627,3 +627,4 @@
 2024-07-04 | [扎哈拉德拉谢拉，安达卢西亚，西班牙](https://s.cn.bing.net/th?id=OHR.ZaharaDeLaSierra_ZH-CN6500182265_UHD.jpg) 
 2024-07-05 | [丹翠雨林的诺亚海滩，昆士兰州，澳大利亚](https://s.cn.bing.net/th?id=OHR.NoahBeach_ZH-CN6676061324_UHD.jpg) 
 2024-07-06 | [从康威河眺望康威城堡，威尔士](https://s.cn.bing.net/th?id=OHR.ConwyRiver_ZH-CN6871799250_UHD.jpg) 
+2024-07-07 | [越南安沛省木仓寨的水稻梯田](https://s.cn.bing.net/th?id=OHR.YenBaiTerraces_ZH-CN7224453501_UHD.jpg) 
