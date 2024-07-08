@@ -14,7 +14,11 @@ public class Wallpaper {
 
         Document document = Jsoup.connect(BING_URL).get();
         String url = document.head().select("#preloadBg").attr("href");
-        url = url.substring(0, url.indexOf("&"));
+        try{
+            url = url.substring(0, url.indexOf("&"));
+        }catch (Exception e) {
+            System.out.println(url);
+        }
 
         LocalDate localDate = LocalDate.now();
         url = url.substring(0, url.lastIndexOf("_")) + "_UHD.jpg";
