@@ -632,3 +632,4 @@
 2024-07-09 | [阿根廷拉里奥哈省塔兰帕亚国家公园](https://s.cn.bing.net/th?id=OHR.TalampayaNP_ZH-CN7905859626_UHD.jpg) 
 2024-07-10 | [领簇舌巨嘴鸟，哥斯达黎加](https://s.cn.bing.net/th?id=OHR.CollaredAracari_ZH-CN8787234462_UHD.jpg) 
 2024-07-11 | [甘吉，西西里岛，意大利](https://s.cn.bing.net/th?id=OHR.GangiSicily_ZH-CN9086944081_UHD.jpg) 
+2024-07-12 | [雷尼尔山国家公园的野花，华盛顿州，美国](https://s.cn.bing.net/th?id=OHR.RainierWildflowers_ZH-CN7392242353_UHD.jpg) 
