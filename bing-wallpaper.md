@@ -633,3 +633,4 @@
 2024-07-10 | [领簇舌巨嘴鸟，哥斯达黎加](https://s.cn.bing.net/th?id=OHR.CollaredAracari_ZH-CN8787234462_UHD.jpg) 
 2024-07-11 | [甘吉，西西里岛，意大利](https://s.cn.bing.net/th?id=OHR.GangiSicily_ZH-CN9086944081_UHD.jpg) 
 2024-07-12 | [雷尼尔山国家公园的野花，华盛顿州，美国](https://s.cn.bing.net/th?id=OHR.RainierWildflowers_ZH-CN7392242353_UHD.jpg) 
+2024-07-13 | [卡帕多西亚的童话烟囱和窑洞，土耳其](https://s.cn.bing.net/th?id=OHR.CappadociaRocks_ZH-CN9283633861_UHD.jpg) 
