@@ -637,3 +637,4 @@
 2024-07-14 | [女王花园群岛的镰形真鲨，古巴](https://s.cn.bing.net/th?id=OHR.SilkyShark_ZH-CN9523915460_UHD.jpg) 
 2024-07-15 | [立石公园，神奈川县，日本](https://s.cn.bing.net/th?id=OHR.TateishiPark_ZH-CN9903501398_UHD.jpg) 
 2024-07-16 | [斯卡拉布雷的新石器时代遗迹,奥克尼群岛,苏格兰](https://s.cn.bing.net/th?id=OHR.AncientOrkney_ZH-CN1110318653_UHD.jpg) 
+2024-07-17 | [德国中世纪城市罗滕堡](https://s.cn.bing.net/th?id=OHR.MedievalRothenburg_ZH-CN1522774136_UHD.jpg) 
