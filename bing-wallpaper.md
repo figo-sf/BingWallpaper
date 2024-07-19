@@ -639,3 +639,4 @@
 2024-07-16 | [斯卡拉布雷的新石器时代遗迹,奥克尼群岛,苏格兰](https://s.cn.bing.net/th?id=OHR.AncientOrkney_ZH-CN1110318653_UHD.jpg) 
 2024-07-17 | [德国中世纪城市罗滕堡](https://s.cn.bing.net/th?id=OHR.MedievalRothenburg_ZH-CN1522774136_UHD.jpg) 
 2024-07-18 | [印度洋的珊瑚礁，马约特岛，法国](https://s.cn.bing.net/th?id=OHR.MayotteCoral_ZH-CN8106288026_UHD.jpg) 
+2024-07-19 | [河岸上的一只年轻美洲虎，潘塔纳尔，巴西](https://s.cn.bing.net/th?id=OHR.YoungJaguar_ZH-CN2249923627_UHD.jpg) 
