@@ -641,3 +641,4 @@
 2024-07-18 | [印度洋的珊瑚礁，马约特岛，法国](https://s.cn.bing.net/th?id=OHR.MayotteCoral_ZH-CN8106288026_UHD.jpg) 
 2024-07-19 | [河岸上的一只年轻美洲虎，潘塔纳尔，巴西](https://s.cn.bing.net/th?id=OHR.YoungJaguar_ZH-CN2249923627_UHD.jpg) 
 2024-07-20 | [月球](https://s.cn.bing.net/th?id=OHR.MineralMoon_ZH-CN2555749456_UHD.jpg) 
+2024-07-21 | [肯杜瓦村的木制渔船，桑给巴尔，坦桑尼亚](https://s.cn.bing.net/th?id=OHR.ZanzibarBoats_ZH-CN2915388379_UHD.jpg) 
