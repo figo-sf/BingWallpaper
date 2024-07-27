@@ -647,3 +647,4 @@
 2024-07-24 | [北约克郡的黑面羊羊群，英格兰](https://s.cn.bing.net/th?id=OHR.SheepCousins_ZH-CN4262132476_UHD.jpg) 
 2024-07-25 | [大烟山国家公园的森林小道，田纳西州，美国](https://s.cn.bing.net/th?id=OHR.SmokyMountainTrail_ZH-CN4691667074_UHD.jpg) 
 2024-07-26 | [塞纳河上的新桥，巴黎，法国](https://s.cn.bing.net/th?id=OHR.PontNeuf_ZH-CN3158359446_UHD.jpg) 
+2024-07-27 | [摩泽尔河谷的葡萄园，莱茵兰-法尔茨，德国](https://s.cn.bing.net/th?id=OHR.RhinelandVineyards_ZH-CN3332101688_UHD.jpg) 
