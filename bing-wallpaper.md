@@ -649,3 +649,4 @@
 2024-07-26 | [塞纳河上的新桥，巴黎，法国](https://s.cn.bing.net/th?id=OHR.PontNeuf_ZH-CN3158359446_UHD.jpg) 
 2024-07-27 | [摩泽尔河谷的葡萄园，莱茵兰-法尔茨，德国](https://s.cn.bing.net/th?id=OHR.RhinelandVineyards_ZH-CN3332101688_UHD.jpg) 
 2024-07-28 | [斯科讷省海滩上的浴场小屋，瑞典](https://s.cn.bing.net/th?id=OHR.BeachHutsSweden_ZH-CN4193150313_UHD.jpg) 
+2024-07-30 | [圣吉米尼亚诺，锡耶纳，托斯卡纳大区，意大利亚](https://s.cn.bing.net/th?id=OHR.GimignanoTuscany_ZH-CN8059318824_UHD.jpg) 
