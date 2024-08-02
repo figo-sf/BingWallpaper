@@ -652,3 +652,4 @@
 2024-07-30 | [圣吉米尼亚诺，锡耶纳，托斯卡纳大区，意大利亚](https://s.cn.bing.net/th?id=OHR.GimignanoTuscany_ZH-CN8059318824_UHD.jpg) 
 2024-07-31 | [石林，日落点，布莱斯峡谷国家公园，犹他州，美国](https://s.cn.bing.net/th?id=OHR.HoodoosBryce_ZH-CN8398575172_UHD.jpg) 
 2024-08-01 | [卡普泰湖水上市场，兰加马蒂，孟加拉](https://s.cn.bing.net/th?id=OHR.KaptaiLake_ZH-CN9085738832_UHD.jpg) 
+2024-08-02 | [象鼻湾，维尔京群岛国家公园，圣约翰岛](https://s.cn.bing.net/th?id=OHR.TrunkBay_ZH-CN9268190655_UHD.jpg) 
