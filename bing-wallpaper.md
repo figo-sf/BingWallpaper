@@ -667,3 +667,4 @@
 2024-08-14 | [澳洲魔蜥，瓦塔卡国家公园，澳大利亚](https://s.cn.bing.net/th?id=OHR.WatarrkaLizard_ZH-CN7974623468_UHD.jpg) 
 2024-08-15 | [韩松洞，风牙者榜国家公园，越南](https://s.cn.bing.net/th?id=OHR.HangCave_ZH-CN9217507365_UHD.jpg) 
 2024-08-16 | [长岛温泉乐园的过山车，三重县，日本](https://s.cn.bing.net/th?id=OHR.JapanRollerCoaster_ZH-CN7954058301_UHD.jpg) 
+2024-08-18 | [日落时的亨廷顿海滩码头，加利福尼亚州，美国](https://s.cn.bing.net/th?id=OHR.HuntingtonBeach_ZH-CN0368691951_UHD.jpg) 
