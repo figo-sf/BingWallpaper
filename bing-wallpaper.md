@@ -669,3 +669,4 @@
 2024-08-16 | [长岛温泉乐园的过山车，三重县，日本](https://s.cn.bing.net/th?id=OHR.JapanRollerCoaster_ZH-CN7954058301_UHD.jpg) 
 2024-08-18 | [日落时的亨廷顿海滩码头，加利福尼亚州，美国](https://s.cn.bing.net/th?id=OHR.HuntingtonBeach_ZH-CN0368691951_UHD.jpg) 
 2024-08-19 | [Bufadero de la Garita，大加那利岛，西班牙](https://s.cn.bing.net/th?id=OHR.RegataSanGines_ZH-CN0807566522_UHD.jpg) 
+2024-08-21 | [纳斯卡鲣鸟，沃尔夫岛，加拉帕戈斯群岛，厄瓜多尔](https://s.cn.bing.net/th?id=OHR.NazcaBooby_ZH-CN1534931799_UHD.jpg) 
