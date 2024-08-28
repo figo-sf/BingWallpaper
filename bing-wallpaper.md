@@ -675,3 +675,4 @@
 2024-08-24 | [卡塔丁森林和水域国家纪念碑，佩诺布斯科特县，缅因州，美国](https://s.cn.bing.net/th?id=OHR.KatahdinWoods_ZH-CN0748954905_UHD.jpg) 
 2024-08-25 | [急流湖的日出，冰川国家公园，蒙大拿州，美国](https://s.cn.bing.net/th?id=OHR.SwiftcurrentLake_ZH-CN1513761894_UHD.jpg) 
 2024-08-26 | [巴尔米拉环礁国家野生动物保护区，中太平洋](https://s.cn.bing.net/th?id=OHR.PalmyraAtoll_ZH-CN1814325540_UHD.jpg) 
+2024-08-28 | [蒙马特和圣心大教堂，巴黎，法国](https://s.cn.bing.net/th?id=OHR.ParalympicsParis_ZH-CN9773135851_UHD.jpg) 
