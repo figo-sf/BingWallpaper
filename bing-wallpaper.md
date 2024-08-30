@@ -677,3 +677,4 @@
 2024-08-26 | [巴尔米拉环礁国家野生动物保护区，中太平洋](https://s.cn.bing.net/th?id=OHR.PalmyraAtoll_ZH-CN1814325540_UHD.jpg) 
 2024-08-28 | [蒙马特和圣心大教堂，巴黎，法国](https://s.cn.bing.net/th?id=OHR.ParalympicsParis_ZH-CN9773135851_UHD.jpg) 
 2024-08-29 | [富利特堡-德拉罗卡，加泰罗尼亚，西班牙](https://s.cn.bing.net/th?id=OHR.CastellfollitSpain_ZH-CN2990517626_UHD.jpg) 
+2024-08-30 | [鸟头湾的鲸鲨，西巴布亚，印度尼西亚](https://s.cn.bing.net/th?id=OHR.WhaleSharkDay_ZH-CN3334940631_UHD.jpg) 
