@@ -679,3 +679,4 @@
 2024-08-29 | [富利特堡-德拉罗卡，加泰罗尼亚，西班牙](https://s.cn.bing.net/th?id=OHR.CastellfollitSpain_ZH-CN2990517626_UHD.jpg) 
 2024-08-30 | [鸟头湾的鲸鲨，西巴布亚，印度尼西亚](https://s.cn.bing.net/th?id=OHR.WhaleSharkDay_ZH-CN3334940631_UHD.jpg) 
 2024-08-31 | [撒哈拉沙漠的岩层和沙丘，贾奈特，阿尔及利亚](https://s.cn.bing.net/th?id=OHR.DjanetAlgeria_ZH-CN3458706695_UHD.jpg) 
+2024-09-01 | [泰晤士河，伦敦，英国](https://s.cn.bing.net/th?id=OHR.ThamesLondon_ZH-CN3629717426_UHD.jpg) 
