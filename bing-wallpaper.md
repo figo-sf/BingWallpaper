@@ -681,3 +681,4 @@
 2024-08-31 | [撒哈拉沙漠的岩层和沙丘，贾奈特，阿尔及利亚](https://s.cn.bing.net/th?id=OHR.DjanetAlgeria_ZH-CN3458706695_UHD.jpg) 
 2024-09-01 | [泰晤士河，伦敦，英国](https://s.cn.bing.net/th?id=OHR.ThamesLondon_ZH-CN3629717426_UHD.jpg) 
 2024-09-02 | [红绿金刚鹦鹉，南马托格罗索州，巴西](https://s.cn.bing.net/th?id=OHR.BuracodasAraras_ZH-CN3881985508_UHD.jpg) 
+2024-09-03 | [迷人的水晶湖，高山湖泊，华盛顿州，美国](https://s.cn.bing.net/th?id=OHR.AlpineLakes_ZH-CN4537389724_UHD.jpg) 
