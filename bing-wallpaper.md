@@ -682,3 +682,4 @@
 2024-09-01 | [泰晤士河，伦敦，英国](https://s.cn.bing.net/th?id=OHR.ThamesLondon_ZH-CN3629717426_UHD.jpg) 
 2024-09-02 | [红绿金刚鹦鹉，南马托格罗索州，巴西](https://s.cn.bing.net/th?id=OHR.BuracodasAraras_ZH-CN3881985508_UHD.jpg) 
 2024-09-03 | [迷人的水晶湖，高山湖泊，华盛顿州，美国](https://s.cn.bing.net/th?id=OHR.AlpineLakes_ZH-CN4537389724_UHD.jpg) 
+2024-09-04 | [乌雕鸮，巴基斯坦](https://s.cn.bing.net/th?id=OHR.DuskyOwls_ZH-CN4729762831_UHD.jpg) 
