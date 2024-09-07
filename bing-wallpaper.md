@@ -684,3 +684,4 @@
 2024-09-03 | [迷人的水晶湖，高山湖泊，华盛顿州，美国](https://s.cn.bing.net/th?id=OHR.AlpineLakes_ZH-CN4537389724_UHD.jpg) 
 2024-09-04 | [乌雕鸮，巴基斯坦](https://s.cn.bing.net/th?id=OHR.DuskyOwls_ZH-CN4729762831_UHD.jpg) 
 2024-09-05 | [多伦多城市天际线,加拿大](https://s.cn.bing.net/th?id=OHR.TIFF2024_ZH-CN4896695918_UHD.jpg) 
+2024-09-07 | [朱红蜂鸟，圣克鲁斯，加利福尼亚州，美国](https://s.cn.bing.net/th?id=OHR.SantaCruzHummer_ZH-CN5448262039_UHD.jpg) 
