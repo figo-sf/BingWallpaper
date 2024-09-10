@@ -687,3 +687,4 @@
 2024-09-07 | [朱红蜂鸟，圣克鲁斯，加利福尼亚州，美国](https://s.cn.bing.net/th?id=OHR.SantaCruzHummer_ZH-CN5448262039_UHD.jpg) 
 2024-09-08 | [加泰罗尼亚北部的圣马丁杜卡尼古修道院 ，法国](https://s.cn.bing.net/th?id=OHR.Canigou_ZH-CN6145410455_UHD.jpg) 
 2024-09-09 | [阿根廷和巴西边境的伊瓜苏瀑布](https://s.cn.bing.net/th?id=OHR.IguazuRainbow_ZH-CN6524347982_UHD.jpg) 
+2024-09-10 | [瓦斯科·达·伽马大桥，里斯本，葡萄牙](https://s.cn.bing.net/th?id=OHR.BridgeLisbon_ZH-CN6877671644_UHD.jpg) 
