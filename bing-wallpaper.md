@@ -691,3 +691,4 @@
 2024-09-11 | [埃尔茨城堡，德国](https://s.cn.bing.net/th?id=OHR.EltzCastle_ZH-CN7586749377_UHD.jpg) 
 2024-09-12 | [留尼汪岛附近的海豚群，印度洋，法国海外省](https://s.cn.bing.net/th?id=OHR.DolphinReunion_ZH-CN7681290861_UHD.jpg) 
 2024-09-13 | [雷耶斯角国家海岸灯塔，加利福尼亚州，美国](https://s.cn.bing.net/th?id=OHR.PointReyes_ZH-CN7781514086_UHD.jpg) 
+2024-09-14 | [阿胡汤加里基的日出，拉帕·努伊国家公园，复活节岛，智利](https://s.cn.bing.net/th?id=OHR.RapaNuiSunrise_ZH-CN1220508877_UHD.jpg) 
