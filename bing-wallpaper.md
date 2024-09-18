@@ -694,3 +694,4 @@
 2024-09-14 | [阿胡汤加里基的日出，拉帕·努伊国家公园，复活节岛，智利](https://s.cn.bing.net/th?id=OHR.RapaNuiSunrise_ZH-CN1220508877_UHD.jpg) 
 2024-09-16 | [日出时的小袋鼠，阿德莱德河，北领地，澳大利亚](https://s.cn.bing.net/th?id=OHR.SunriseWallabies_ZH-CN8725891401_UHD.jpg) 
 2024-09-17 | [月圆之夜的豫园，上海，中国](https://s.cn.bing.net/th?id=OHR.MidAutumnFestival2024_ZH-CN9096556094_UHD.jpg) 
+2024-09-18 | [郡上八幡城，岐阜县，日本](https://s.cn.bing.net/th?id=OHR.GujoHachiman_ZH-CN9192289658_UHD.jpg) 
