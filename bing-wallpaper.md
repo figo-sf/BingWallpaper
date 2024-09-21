@@ -696,3 +696,4 @@
 2024-09-17 | [月圆之夜的豫园，上海，中国](https://s.cn.bing.net/th?id=OHR.MidAutumnFestival2024_ZH-CN9096556094_UHD.jpg) 
 2024-09-18 | [郡上八幡城，岐阜县，日本](https://s.cn.bing.net/th?id=OHR.GujoHachiman_ZH-CN9192289658_UHD.jpg) 
 2024-09-19 | [埃尔博河上空的银河，阿尔伯塔省，加拿大](https://s.cn.bing.net/th?id=OHR.ElbowRiver_ZH-CN9580175593_UHD.jpg) 
+2024-09-21 | [Oktoberfest in Munich at sunset](https://s.cn.bing.net/th?id=OHR.MunichBeerfest_ZH-CN0304560562_UHD.jpg) 
