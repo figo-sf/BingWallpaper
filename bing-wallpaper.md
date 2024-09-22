@@ -697,3 +697,4 @@
 2024-09-18 | [郡上八幡城，岐阜县，日本](https://s.cn.bing.net/th?id=OHR.GujoHachiman_ZH-CN9192289658_UHD.jpg) 
 2024-09-19 | [埃尔博河上空的银河，阿尔伯塔省，加拿大](https://s.cn.bing.net/th?id=OHR.ElbowRiver_ZH-CN9580175593_UHD.jpg) 
 2024-09-21 | [Oktoberfest in Munich at sunset](https://s.cn.bing.net/th?id=OHR.MunichBeerfest_ZH-CN0304560562_UHD.jpg) 
+2024-09-22 | [巴特米尔湖，湖区国家公园，英格兰，英国](https://s.cn.bing.net/th?id=OHR.AutumnCumbria_ZH-CN0565958390_UHD.jpg) 
