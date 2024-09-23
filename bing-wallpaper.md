@@ -698,3 +698,4 @@
 2024-09-19 | [埃尔博河上空的银河，阿尔伯塔省，加拿大](https://s.cn.bing.net/th?id=OHR.ElbowRiver_ZH-CN9580175593_UHD.jpg) 
 2024-09-21 | [Oktoberfest in Munich at sunset](https://s.cn.bing.net/th?id=OHR.MunichBeerfest_ZH-CN0304560562_UHD.jpg) 
 2024-09-22 | [巴特米尔湖，湖区国家公园，英格兰，英国](https://s.cn.bing.net/th?id=OHR.AutumnCumbria_ZH-CN0565958390_UHD.jpg) 
+2024-09-23 | [海獭，威廉王子湾,阿拉斯加州,美国](https://s.cn.bing.net/th?id=OHR.IcebergOtter_ZH-CN0972467238_UHD.jpg) 
