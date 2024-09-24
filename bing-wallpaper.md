@@ -699,3 +699,4 @@
 2024-09-21 | [Oktoberfest in Munich at sunset](https://s.cn.bing.net/th?id=OHR.MunichBeerfest_ZH-CN0304560562_UHD.jpg) 
 2024-09-22 | [巴特米尔湖，湖区国家公园，英格兰，英国](https://s.cn.bing.net/th?id=OHR.AutumnCumbria_ZH-CN0565958390_UHD.jpg) 
 2024-09-23 | [海獭，威廉王子湾,阿拉斯加州,美国](https://s.cn.bing.net/th?id=OHR.IcebergOtter_ZH-CN0972467238_UHD.jpg) 
+2024-09-24 | [斯卡夫塔山的瀑布，瓦特纳冰川国家公园，冰岛](https://s.cn.bing.net/th?id=OHR.SkaftafellWaterfall_ZH-CN1766863001_UHD.jpg) 
