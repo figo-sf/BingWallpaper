@@ -702,3 +702,4 @@
 2024-09-24 | [斯卡夫塔山的瀑布，瓦特纳冰川国家公园，冰岛](https://s.cn.bing.net/th?id=OHR.SkaftafellWaterfall_ZH-CN1766863001_UHD.jpg) 
 2024-09-26 | [蓝斑巨嘴鸟，洛斯戈查尔斯国家公园，哥斯达黎加](https://s.cn.bing.net/th?id=OHR.LittleToucanet_ZH-CN2910262009_UHD.jpg) 
 2024-09-27 | [大运河和安康圣母教堂的鸟瞰图，威尼斯，意大利](https://s.cn.bing.net/th?id=OHR.VeniceAerial_ZH-CN4070720525_UHD.jpg) 
+2024-09-28 | [日出时的海滩，海湾岛国家海岸，佛罗里达，美国](https://s.cn.bing.net/th?id=OHR.FloridaSeashore_ZH-CN4671838639_UHD.jpg) 
