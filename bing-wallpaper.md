@@ -706,3 +706,4 @@
 2024-09-29 | [横跨胡萨托尼克河的西康沃尔廊桥，康涅狄格州，美国](https://s.cn.bing.net/th?id=OHR.ConnecticutBridge_ZH-CN4957862425_UHD.jpg) 
 2024-09-30 | [斯匹次卑尔根岛北部的海象群，斯瓦尔巴群岛，挪威](https://s.cn.bing.net/th?id=OHR.WalrusNorway_ZH-CN5657804031_UHD.jpg) 
 2024-10-01 | [禾木村的风景，新疆，中国](https://s.cn.bing.net/th?id=OHR.NationalDay2024_ZH-CN7026189162_UHD.jpg) 
+2024-10-02 | [温德河，布鲁克斯山脉，北极国家野生动物保护区，阿拉斯加州，美国](https://s.cn.bing.net/th?id=OHR.WindRiverAlaska_ZH-CN7317039321_UHD.jpg) 
