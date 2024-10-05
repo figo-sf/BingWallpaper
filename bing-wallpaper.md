@@ -709,3 +709,4 @@
 2024-10-02 | [温德河，布鲁克斯山脉，北极国家野生动物保护区，阿拉斯加州，美国](https://s.cn.bing.net/th?id=OHR.WindRiverAlaska_ZH-CN7317039321_UHD.jpg) 
 2024-10-03 | [阿格拉的泰姬陵，安拉阿巴德，印度](https://s.cn.bing.net/th?id=OHR.TajMahalReflection_ZH-CN7498774173_UHD.jpg) 
 2024-10-04 | [木星的冰卫星木卫二](https://s.cn.bing.net/th?id=OHR.EuropaMoon_ZH-CN0149249980_UHD.jpg) 
+2024-10-05 | [东察沃国家公园的非洲象，肯尼亚](https://s.cn.bing.net/th?id=OHR.ElephantTeacher_ZH-CN0543308499_UHD.jpg) 
