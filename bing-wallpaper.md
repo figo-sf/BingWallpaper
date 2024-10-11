@@ -714,3 +714,4 @@
 2024-10-07 | [法属波利尼西亚波拉波拉岛的鸟瞰图](https://s.cn.bing.net/th?id=OHR.BoraPapeete_ZH-CN1991283465_UHD.jpg) 
 2024-10-09 | [马布尔附近的白杨树，科罗拉多州，美国](https://s.cn.bing.net/th?id=OHR.AspensColorado_ZH-CN0132780533_UHD.jpg) 
 2024-10-10 | [索拉诺，托斯卡纳，意大利](https://s.cn.bing.net/th?id=OHR.SoranoItaly_ZH-CN5842160079_UHD.jpg) 
+2024-10-11 | [黄山云海，安徽省，中国](https://s.cn.bing.net/th?id=OHR.Chongyang2024_ZH-CN4180097837_UHD.jpg) 
