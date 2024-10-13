@@ -716,3 +716,4 @@
 2024-10-10 | [索拉诺，托斯卡纳，意大利](https://s.cn.bing.net/th?id=OHR.SoranoItaly_ZH-CN5842160079_UHD.jpg) 
 2024-10-11 | [黄山云海，安徽省，中国](https://s.cn.bing.net/th?id=OHR.Chongyang2024_ZH-CN4180097837_UHD.jpg) 
 2024-10-12 | [林鸳鸯，魁北克省，加拿大](https://s.cn.bing.net/th?id=OHR.QuebecDuck_ZH-CN0588954873_UHD.jpg) 
+2024-10-13 | [塞维利亚王宫少女庭院，西班牙](https://s.cn.bing.net/th?id=OHR.AlcazarSeville_ZH-CN5581795099_UHD.jpg) 
