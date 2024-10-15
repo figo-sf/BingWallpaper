@@ -718,3 +718,4 @@
 2024-10-12 | [林鸳鸯，魁北克省，加拿大](https://s.cn.bing.net/th?id=OHR.QuebecDuck_ZH-CN0588954873_UHD.jpg) 
 2024-10-13 | [塞维利亚王宫少女庭院，西班牙](https://s.cn.bing.net/th?id=OHR.AlcazarSeville_ZH-CN5581795099_UHD.jpg) 
 2024-10-14 | [可可海滩上的渔船，果阿邦，印度](https://s.cn.bing.net/th?id=OHR.CocoBeach_ZH-CN7503553722_UHD.jpg) 
+2024-10-15 | [马拉河的角马大迁徙，肯尼亚](https://s.cn.bing.net/th?id=OHR.MaraMigration_ZH-CN8215566853_UHD.jpg) 
