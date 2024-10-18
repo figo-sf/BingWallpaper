@@ -720,3 +720,4 @@
 2024-10-14 | [可可海滩上的渔船，果阿邦，印度](https://s.cn.bing.net/th?id=OHR.CocoBeach_ZH-CN7503553722_UHD.jpg) 
 2024-10-15 | [马拉河的角马大迁徙，肯尼亚](https://s.cn.bing.net/th?id=OHR.MaraMigration_ZH-CN8215566853_UHD.jpg) 
 2024-10-17 | [地肤草，茨城县，日本](https://s.cn.bing.net/th?id=OHR.KochiaJapan_ZH-CN9896157139_UHD.jpg) 
+2024-10-18 | [曼哈顿中央公园的秋天，纽约，美国](https://s.cn.bing.net/th?id=OHR.CentralParkAutumn_ZH-CN2757358246_UHD.jpg) 
