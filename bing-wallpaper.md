@@ -724,3 +724,4 @@
 2024-10-19 | [哈索尔神庙，邓德拉神庙群，基纳，埃及](https://s.cn.bing.net/th?id=OHR.DenderaTemple_ZH-CN3097745887_UHD.jpg) 
 2024-10-20 | [哥斯达黎加的三趾树懒](https://s.cn.bing.net/th?id=OHR.SmilingSloth_ZH-CN4646662964_UHD.jpg) 
 2024-10-21 | [乔治·史密斯州立公园的柏树，佐治亚州，美国](https://s.cn.bing.net/th?id=OHR.AutumnCypress_ZH-CN5099875619_UHD.jpg) 
+2024-10-22 | [祖卡里宫，罗马，意大利](https://s.cn.bing.net/th?id=OHR.MonsterDoor_ZH-CN6613337019_UHD.jpg) 
