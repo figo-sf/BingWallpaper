@@ -727,3 +727,4 @@
 2024-10-22 | [祖卡里宫，罗马，意大利](https://s.cn.bing.net/th?id=OHR.MonsterDoor_ZH-CN6613337019_UHD.jpg) 
 2024-10-23 | [雪莉夫人森林和古堡遗迹，新罕布什尔州，美国](https://s.cn.bing.net/th?id=OHR.MadameSherriCastle_ZH-CN8101580548_UHD.jpg) 
 2024-10-24 | [博迪州立历史公园，莫诺县，加利福尼亚州，美国](https://s.cn.bing.net/th?id=OHR.BodieCalifornia_ZH-CN8941360519_UHD.jpg) 
+2024-10-25 | [沙莫尼的勃朗峰，法国](https://s.cn.bing.net/th?id=OHR.MontBlancMassif_ZH-CN9172264924_UHD.jpg) 
