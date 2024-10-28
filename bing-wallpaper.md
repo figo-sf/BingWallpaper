@@ -730,3 +730,4 @@
 2024-10-25 | [沙莫尼的勃朗峰，法国](https://s.cn.bing.net/th?id=OHR.MontBlancMassif_ZH-CN9172264924_UHD.jpg) 
 2024-10-26 | [幽灵森林，宁哈根，梅克伦堡-西波美拉尼亚，德国](https://s.cn.bing.net/th?id=OHR.GhostForest_ZH-CN9648216213_UHD.jpg) 
 2024-10-27 | [北极熊与幼崽，丘吉尔，曼尼托巴，加拿大](https://s.cn.bing.net/th?id=OHR.PolarBearHug_ZH-CN0696077546_UHD.jpg) 
+2024-10-28 | [南瓜田，维多利亚，不列颠哥伦比亚省，加拿大](https://s.cn.bing.net/th?id=OHR.PumpkinMist_ZH-CN0898655859_UHD.jpg) 
