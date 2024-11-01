@@ -734,3 +734,4 @@
 2024-10-29 | [大雕鸮](https://s.cn.bing.net/th?id=OHR.GreatOwl_ZH-CN1259534922_UHD.jpg) 
 2024-10-30 | [从苏格兰教堂墓地眺望爱丁堡城堡，英国](https://s.cn.bing.net/th?id=OHR.HauntedEdinburgh_ZH-CN1461834159_UHD.jpg) 
 2024-10-31 | [巴黎圣母院的奇美拉，法国](https://s.cn.bing.net/th?id=OHR.GargoyleParis_ZH-CN1668628241_UHD.jpg) 
+2024-11-01 | [秋季葡萄园的鸟瞰图，瓦恩哈尔特，黑森林，德国](https://s.cn.bing.net/th?id=OHR.VineyardsBlackForestFall_ZH-CN6767078591_UHD.jpg) 
