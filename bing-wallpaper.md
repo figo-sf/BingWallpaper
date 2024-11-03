@@ -736,3 +736,4 @@
 2024-10-31 | [巴黎圣母院的奇美拉，法国](https://s.cn.bing.net/th?id=OHR.GargoyleParis_ZH-CN1668628241_UHD.jpg) 
 2024-11-01 | [秋季葡萄园的鸟瞰图，瓦恩哈尔特，黑森林，德国](https://s.cn.bing.net/th?id=OHR.VineyardsBlackForestFall_ZH-CN6767078591_UHD.jpg) 
 2024-11-02 | [黄石国家公园的美洲野牛，怀俄明州，美国](https://s.cn.bing.net/th?id=OHR.BisonYellowstone_ZH-CN7320887379_UHD.jpg) 
+2024-11-03 | [巢中的加勒比火烈鸟蛋，里奥拉加托斯自然保护区，尤卡坦州，墨西哥](https://s.cn.bing.net/th?id=OHR.YucatanBiosphere_ZH-CN7442392453_UHD.jpg) 
