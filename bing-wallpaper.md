@@ -738,3 +738,4 @@
 2024-11-02 | [黄石国家公园的美洲野牛，怀俄明州，美国](https://s.cn.bing.net/th?id=OHR.BisonYellowstone_ZH-CN7320887379_UHD.jpg) 
 2024-11-03 | [巢中的加勒比火烈鸟蛋，里奥拉加托斯自然保护区，尤卡坦州，墨西哥](https://s.cn.bing.net/th?id=OHR.YucatanBiosphere_ZH-CN7442392453_UHD.jpg) 
 2024-11-05 | [马拉赫塞斯国家公园，马拉尼昂州,巴西](https://s.cn.bing.net/th?id=OHR.LencoisMaranhao_ZH-CN8194406488_UHD.jpg) 
+2024-11-06 | [奥林匹克国家公园石狮海滩，华盛顿州，美国](https://s.cn.bing.net/th?id=OHR.ShiShiBeach_ZH-CN8685799566_UHD.jpg) 
