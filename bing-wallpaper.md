@@ -740,3 +740,4 @@
 2024-11-05 | [马拉赫塞斯国家公园，马拉尼昂州,巴西](https://s.cn.bing.net/th?id=OHR.LencoisMaranhao_ZH-CN8194406488_UHD.jpg) 
 2024-11-06 | [奥林匹克国家公园石狮海滩，华盛顿州，美国](https://s.cn.bing.net/th?id=OHR.ShiShiBeach_ZH-CN8685799566_UHD.jpg) 
 2024-11-07 | [金色的松树，坝上草原，中国](https://s.cn.bing.net/th?id=OHR.LiDong2024_ZH-CN9944723194_UHD.jpg) 
+2024-11-08 | [冰岛冰川河流鸟瞰图](https://s.cn.bing.net/th?id=OHR.GlacialRivers_ZH-CN0260507556_UHD.jpg) 
