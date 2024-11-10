@@ -742,3 +742,4 @@
 2024-11-07 | [金色的松树，坝上草原，中国](https://s.cn.bing.net/th?id=OHR.LiDong2024_ZH-CN9944723194_UHD.jpg) 
 2024-11-08 | [冰岛冰川河流鸟瞰图](https://s.cn.bing.net/th?id=OHR.GlacialRivers_ZH-CN0260507556_UHD.jpg) 
 2024-11-09 | [银河，阿伊特本哈杜杜，摩洛哥](https://s.cn.bing.net/th?id=OHR.MoroccoMilkyWay_ZH-CN3544344290_UHD.jpg) 
+2024-11-10 | [加勒比火烈鸟，尤卡坦半岛，墨西哥](https://s.cn.bing.net/th?id=OHR.YucatanFlamingos_ZH-CN0721673752_UHD.jpg) 
