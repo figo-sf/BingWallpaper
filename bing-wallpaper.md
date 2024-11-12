@@ -744,3 +744,4 @@
 2024-11-09 | [银河，阿伊特本哈杜杜，摩洛哥](https://s.cn.bing.net/th?id=OHR.MoroccoMilkyWay_ZH-CN3544344290_UHD.jpg) 
 2024-11-10 | [加勒比火烈鸟，尤卡坦半岛，墨西哥](https://s.cn.bing.net/th?id=OHR.YucatanFlamingos_ZH-CN0721673752_UHD.jpg) 
 2024-11-11 | [班夫国家公园的日落，阿尔伯塔省，加拿大](https://s.cn.bing.net/th?id=OHR.Banff24_ZH-CN1156176817_UHD.jpg) 
+2024-11-12 | [透过海湾拱门看到双拱门，拱门国家公园，犹他州，美国](https://s.cn.bing.net/th?id=OHR.CoveArch_ZH-CN1281140578_UHD.jpg) 
