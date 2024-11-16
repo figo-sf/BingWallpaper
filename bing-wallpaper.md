@@ -747,3 +747,4 @@
 2024-11-12 | [透过海湾拱门看到双拱门，拱门国家公园，犹他州，美国](https://s.cn.bing.net/th?id=OHR.CoveArch_ZH-CN1281140578_UHD.jpg) 
 2024-11-14 | [马纳罗拉，五渔村国家公园，利古里亚，意大利](https://s.cn.bing.net/th?id=OHR.ManarolaItaly_ZH-CN2837915120_UHD.jpg) 
 2024-11-15 | [义蓬灯节 ，清迈，泰国](https://s.cn.bing.net/th?id=OHR.YiPengLanterns_ZH-CN5613043353_UHD.jpg) 
+2024-11-16 | [瓦登海沿岸，莫德加特附近，弗里斯兰，荷兰](https://s.cn.bing.net/th?id=OHR.FrieslandNetherlands_ZH-CN5952456898_UHD.jpg) 
