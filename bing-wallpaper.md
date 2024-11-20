@@ -751,3 +751,4 @@
 2024-11-17 | [加里东林中的马鹿，阿夫力谷，苏格兰高地](https://s.cn.bing.net/th?id=OHR.RedStag_ZH-CN6403546321_UHD.jpg) 
 2024-11-18 | [波斯考尔灯塔，南威尔士，英国](https://s.cn.bing.net/th?id=OHR.PorthcawlLighthouse_ZH-CN6655235820_UHD.jpg) 
 2024-11-19 | [塔斯曼拱门，塔斯马尼亚州，澳大利亚](https://s.cn.bing.net/th?id=OHR.TasmansArch_ZH-CN7062784426_UHD.jpg) 
+2024-11-20 | [皮埃尔桥，波尔多，法国](https://s.cn.bing.net/th?id=OHR.PontBordeaux_ZH-CN7656263575_UHD.jpg) 
