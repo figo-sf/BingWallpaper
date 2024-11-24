@@ -755,3 +755,4 @@
 2024-11-21 | [日出时的两只小狮子，南非](https://s.cn.bing.net/th?id=OHR.LionCubs_ZH-CN8538754038_UHD.jpg) 
 2024-11-22 | [](https://s.cn.bing.net/th?id=OHR.ZafraCastle_ZH-CN8791148758_UHD.jpg) 
 2024-11-23 | [](https://s.cn.bing.net/th?id=OHR.FibonacciAloe_ZH-CN8974137481_UHD.jpg) 
+2024-11-24 | [州立公园，索诺玛海岸，美国加利福尼亚州](https://s.cn.bing.net/th?id=OHR.SonomaCoast_ZH-CN9187330701_UHD.jpg) 
