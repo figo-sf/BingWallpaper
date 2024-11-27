@@ -758,3 +758,4 @@
 2024-11-24 | [州立公园，索诺玛海岸，美国加利福尼亚州](https://s.cn.bing.net/th?id=OHR.SonomaCoast_ZH-CN9187330701_UHD.jpg) 
 2024-11-25 | [马赛长颈鹿，安波塞利国家公园，肯尼亚](https://s.cn.bing.net/th?id=OHR.AmboseliGiraffes_ZH-CN9276085602_UHD.jpg) 
 2024-11-26 | [橄榄树林，伊特里亚山谷，普利亚，意大利](https://s.cn.bing.net/th?id=OHR.TrulliGrove_ZH-CN9519400567_UHD.jpg) 
+2024-11-27 | [秋天的巨人之墓，布永市，比利时](https://s.cn.bing.net/th?id=OHR.SemoisRiver_ZH-CN0801669014_UHD.jpg) 
