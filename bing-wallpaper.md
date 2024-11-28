@@ -759,3 +759,4 @@
 2024-11-25 | [马赛长颈鹿，安波塞利国家公园，肯尼亚](https://s.cn.bing.net/th?id=OHR.AmboseliGiraffes_ZH-CN9276085602_UHD.jpg) 
 2024-11-26 | [橄榄树林，伊特里亚山谷，普利亚，意大利](https://s.cn.bing.net/th?id=OHR.TrulliGrove_ZH-CN9519400567_UHD.jpg) 
 2024-11-27 | [秋天的巨人之墓，布永市，比利时](https://s.cn.bing.net/th?id=OHR.SemoisRiver_ZH-CN0801669014_UHD.jpg) 
+2024-11-28 | [日落时分风暴渐渐消散，阿西尼博因山省立公园，加拿大](https://s.cn.bing.net/th?id=OHR.AssiniboineTS_ZH-CN9936042562_UHD.jpg) 
