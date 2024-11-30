@@ -761,3 +761,4 @@
 2024-11-27 | [秋天的巨人之墓，布永市，比利时](https://s.cn.bing.net/th?id=OHR.SemoisRiver_ZH-CN0801669014_UHD.jpg) 
 2024-11-28 | [日落时分风暴渐渐消散，阿西尼博因山省立公园，加拿大](https://s.cn.bing.net/th?id=OHR.AssiniboineTS_ZH-CN9936042562_UHD.jpg) 
 2024-11-29 | [圣米歇尔山，诺曼底，法国](https://s.cn.bing.net/th?id=OHR.MtStMichel_ZH-CN1232662142_UHD.jpg) 
+2024-11-30 | [基尔亨城堡倒映在奥湖中，阿盖尔-比特郡，苏格兰](https://s.cn.bing.net/th?id=OHR.KilchurnAutumn_ZH-CN2547959725_UHD.jpg) 
