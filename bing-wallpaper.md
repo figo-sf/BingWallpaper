@@ -764,3 +764,4 @@
 2024-11-30 | [基尔亨城堡倒映在奥湖中，阿盖尔-比特郡，苏格兰](https://s.cn.bing.net/th?id=OHR.KilchurnAutumn_ZH-CN2547959725_UHD.jpg) 
 2024-12-01 | [南极洲的冰山](https://s.cn.bing.net/th?id=OHR.IcebergsAntarctica_ZH-CN2942178295_UHD.jpg) 
 2024-12-02 | [雌性驼鹿，德纳里国家公园，阿拉斯加州，美国](https://s.cn.bing.net/th?id=OHR.SnowMoose_ZH-CN3364979952_UHD.jpg) 
+2024-12-03 | [Sattais Katcheri，琥珀堡，拉贾斯坦邦，印度](https://s.cn.bing.net/th?id=OHR.JaipurFort_ZH-CN3891828158_UHD.jpg) 
