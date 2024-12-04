@@ -765,3 +765,4 @@
 2024-12-01 | [南极洲的冰山](https://s.cn.bing.net/th?id=OHR.IcebergsAntarctica_ZH-CN2942178295_UHD.jpg) 
 2024-12-02 | [雌性驼鹿，德纳里国家公园，阿拉斯加州，美国](https://s.cn.bing.net/th?id=OHR.SnowMoose_ZH-CN3364979952_UHD.jpg) 
 2024-12-03 | [Sattais Katcheri，琥珀堡，拉贾斯坦邦，印度](https://s.cn.bing.net/th?id=OHR.JaipurFort_ZH-CN3891828158_UHD.jpg) 
+2024-12-04 | [雄性白犀，纳库鲁湖，肯尼亚](https://s.cn.bing.net/th?id=OHR.RhinosKenya_ZH-CN4422118541_UHD.jpg) 
