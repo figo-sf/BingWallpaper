@@ -768,3 +768,4 @@
 2024-12-04 | [雄性白犀，纳库鲁湖，肯尼亚](https://s.cn.bing.net/th?id=OHR.RhinosKenya_ZH-CN4422118541_UHD.jpg) 
 2024-12-05 | [莫诺湖的石灰华地层，加利福尼亚州，美国](https://s.cn.bing.net/th?id=OHR.MonoTufa_ZH-CN4998806540_UHD.jpg) 
 2024-12-06 | [鸟瞰冰封的大海和悬崖上的灯塔，大连泊霞湾公园，辽宁省，中国](https://s.cn.bing.net/th?id=OHR.GreaterSnow2024_ZH-CN5929129591_UHD.jpg) 
+2024-12-07 | [里约热内卢州的阿拉亚尔多卡博，巴西](https://s.cn.bing.net/th?id=OHR.ArraialdoCabo_ZH-CN6202620711_UHD.jpg) 
