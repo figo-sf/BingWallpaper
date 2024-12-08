@@ -769,3 +769,4 @@
 2024-12-05 | [莫诺湖的石灰华地层，加利福尼亚州，美国](https://s.cn.bing.net/th?id=OHR.MonoTufa_ZH-CN4998806540_UHD.jpg) 
 2024-12-06 | [鸟瞰冰封的大海和悬崖上的灯塔，大连泊霞湾公园，辽宁省，中国](https://s.cn.bing.net/th?id=OHR.GreaterSnow2024_ZH-CN5929129591_UHD.jpg) 
 2024-12-07 | [里约热内卢州的阿拉亚尔多卡博，巴西](https://s.cn.bing.net/th?id=OHR.ArraialdoCabo_ZH-CN6202620711_UHD.jpg) 
+2024-12-08 | [巴黎圣母院，巴黎，法国](https://s.cn.bing.net/th?id=OHR.ReopeningNotreDame_ZH-CN6512133762_UHD.jpg) 
