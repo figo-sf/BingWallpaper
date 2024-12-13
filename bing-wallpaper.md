@@ -774,3 +774,4 @@
 2024-12-10 | [被雪覆盖的康沃尔天涯海角小径，康沃尔郡兰德恩德，英格兰](https://s.cn.bing.net/th?id=OHR.CornwallSnow_ZH-CN8407245245_UHD.jpg) 
 2024-12-11 | [拉瓦雷多三峰山,意大利](https://s.cn.bing.net/th?id=OHR.DolomitesSky_ZH-CN9299967785_UHD.jpg) 
 2024-12-12 | [一品红或圣诞花](https://s.cn.bing.net/th?id=OHR.WildPoinsettia_ZH-CN7984548709_UHD.jpg) 
+2024-12-13 | [圣诞市场，圣斯蒂芬大教堂，布达佩斯，匈牙利](https://s.cn.bing.net/th?id=OHR.ChristmasBudapest_ZH-CN8197439971_UHD.jpg) 
