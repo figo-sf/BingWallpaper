@@ -778,3 +778,4 @@
 2024-12-14 | [猛鸮，加拿大](https://s.cn.bing.net/th?id=OHR.NorthernHawkOwl_ZH-CN8408027305_UHD.jpg) 
 2024-12-15 | [米苏里纳湖，多洛米蒂山脉，意大利](https://s.cn.bing.net/th?id=OHR.MisurinaLake_ZH-CN0744434715_UHD.jpg) 
 2024-12-16 | [萨尔茨堡，奥地利](https://s.cn.bing.net/th?id=OHR.SalzburgSnow_ZH-CN0964131994_UHD.jpg) 
+2024-12-17 | [传统红色渔民小屋，雷讷峡湾岸边，挪威](https://s.cn.bing.net/th?id=OHR.ReinefjordenNorway_ZH-CN1198843758_UHD.jpg) 
