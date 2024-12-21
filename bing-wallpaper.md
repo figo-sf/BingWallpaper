@@ -782,3 +782,4 @@
 2024-12-18 | [印度吉姆科比特国家公园的大象，印度](https://s.cn.bing.net/th?id=OHR.MorningElephants_ZH-CN1418579765_UHD.jpg) 
 2024-12-19 | [锡比乌圣诞市场，罗马尼亚](https://s.cn.bing.net/th?id=OHR.SibiuRomania_ZH-CN1631942857_UHD.jpg) 
 2024-12-20 | [罗瓦涅米圣诞老人村，拉普兰，芬兰](https://s.cn.bing.net/th?id=OHR.SantaClausVillage_ZH-CN1839275027_UHD.jpg) 
+2024-12-21 | [满拉水库的雪景，日喀则，中国西藏自治区](https://s.cn.bing.net/th?id=OHR.WinterSolstice2024_ZH-CN2045153949_UHD.jpg) 
