@@ -784,3 +784,4 @@
 2024-12-20 | [罗瓦涅米圣诞老人村，拉普兰，芬兰](https://s.cn.bing.net/th?id=OHR.SantaClausVillage_ZH-CN1839275027_UHD.jpg) 
 2024-12-21 | [满拉水库的雪景，日喀则，中国西藏自治区](https://s.cn.bing.net/th?id=OHR.WinterSolstice2024_ZH-CN2045153949_UHD.jpg) 
 2024-12-22 | [水晶码头的圣诞树，太平洋海滩，加利福尼亚州，美国](https://s.cn.bing.net/th?id=OHR.CrystalPier_ZH-CN2256372880_UHD.jpg) 
+2024-12-23 | [钏路的两只丹顶鹤，北海道，日本](https://s.cn.bing.net/th?id=OHR.FestivusCranes_ZH-CN2464862059_UHD.jpg) 
