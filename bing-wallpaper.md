@@ -789,3 +789,4 @@
 2024-12-25 | [科瓦东加湖，阿斯图里亚斯，西班牙](https://s.cn.bing.net/th?id=OHR.CovadongaWinter_ZH-CN2873340163_UHD.jpg) 
 2024-12-26 | [莫斯霍尔港的圣诞灯饰，康沃尔，英格兰](https://s.cn.bing.net/th?id=OHR.MouseholeXmas_ZH-CN3079184443_UHD.jpg) 
 2024-12-27 | [布莱德湖，斯洛文尼亚](https://s.cn.bing.net/th?id=OHR.LakeBledSnow_ZH-CN4118056813_UHD.jpg) 
+2024-12-28 | [一只绿海龟在太平洋中游泳，法国海外属地新喀里多尼亚](https://s.cn.bing.net/th?id=OHR.CoralTurtle_ZH-CN4771437860_UHD.jpg) 
