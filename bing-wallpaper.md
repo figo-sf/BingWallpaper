@@ -791,3 +791,4 @@
 2024-12-27 | [布莱德湖，斯洛文尼亚](https://s.cn.bing.net/th?id=OHR.LakeBledSnow_ZH-CN4118056813_UHD.jpg) 
 2024-12-28 | [一只绿海龟在太平洋中游泳，法国海外属地新喀里多尼亚](https://s.cn.bing.net/th?id=OHR.CoralTurtle_ZH-CN4771437860_UHD.jpg) 
 2024-12-29 | [婆罗浮屠大佛寺，爪哇岛，印度尼西亚](https://s.cn.bing.net/th?id=OHR.BorobudurBells_ZH-CN5291511365_UHD.jpg) 
+2024-12-30 | [多布森湖附近的塔斯马尼亚雪胶和班达尼植物，费尔德山国家公园，塔斯马尼亚，澳大利亚](https://s.cn.bing.net/th?id=OHR.MountFieldNP_ZH-CN6004420782_UHD.jpg) 
