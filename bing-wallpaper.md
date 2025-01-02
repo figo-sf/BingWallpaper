@@ -794,3 +794,4 @@
 2024-12-30 | [多布森湖附近的塔斯马尼亚雪胶和班达尼植物，费尔德山国家公园，塔斯马尼亚，澳大利亚](https://s.cn.bing.net/th?id=OHR.MountFieldNP_ZH-CN6004420782_UHD.jpg) 
 2024-12-31 | [国会山上空的烟花，渥太华，加拿大](https://s.cn.bing.net/th?id=OHR.CANYE24_ZH-CN3884754296_UHD.jpg) 
 2025-01-01 | [在北极玩耍的北极熊](https://s.cn.bing.net/th?id=OHR.PolarBearSwim_ZH-CN1000349057_UHD.jpg) 
+2025-01-02 | [阿尔德兹村上空的星轨，格劳宾登州，瑞士](https://s.cn.bing.net/th?id=OHR.ArdezSwitzerland_ZH-CN5605305240_UHD.jpg) 
