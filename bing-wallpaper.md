@@ -801,3 +801,4 @@
 2025-01-06 | [被水淹没的地下室，圣弗朗西斯大教堂，拉文纳，意大利](https://s.cn.bing.net/th?id=OHR.RavennaBasilica_ZH-CN1406474730_UHD.jpg) 
 2025-01-07 | [日落时的摩拉基大圆石，南岛，新西兰](https://s.cn.bing.net/th?id=OHR.BouldersNZ_ZH-CN6750253580_UHD.jpg) 
 2025-01-08 | [被雪覆盖的长城，中国](https://s.cn.bing.net/th?id=OHR.GreatWallStairs_ZH-CN4045949792_UHD.jpg) 
+2025-01-10 | [亚伯拉罕湖，阿尔伯塔省，加拿大](https://s.cn.bing.net/th?id=OHR.BubbleLake_ZH-CN7146244555_UHD.jpg) 
