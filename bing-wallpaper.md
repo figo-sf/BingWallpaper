@@ -803,3 +803,4 @@
 2025-01-08 | [被雪覆盖的长城，中国](https://s.cn.bing.net/th?id=OHR.GreatWallStairs_ZH-CN4045949792_UHD.jpg) 
 2025-01-10 | [亚伯拉罕湖，阿尔伯塔省，加拿大](https://s.cn.bing.net/th?id=OHR.BubbleLake_ZH-CN7146244555_UHD.jpg) 
 2025-01-11 | [Heri es-Swani in Meknes, Morocco](https://s.cn.bing.net/th?id=OHR.MeknesMorocco_EN-US6991915839_UHD.jpg) 
+2025-01-12 | [大堡礁的宝石大眼鲷鱼，澳大利亚](https://s.cn.bing.net/th?id=OHR.CrescentTail_ZH-CN8283248964_UHD.jpg) 
