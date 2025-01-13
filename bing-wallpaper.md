@@ -804,3 +804,4 @@
 2025-01-10 | [亚伯拉罕湖，阿尔伯塔省，加拿大](https://s.cn.bing.net/th?id=OHR.BubbleLake_ZH-CN7146244555_UHD.jpg) 
 2025-01-11 | [Heri es-Swani in Meknes, Morocco](https://s.cn.bing.net/th?id=OHR.MeknesMorocco_EN-US6991915839_UHD.jpg) 
 2025-01-12 | [大堡礁的宝石大眼鲷鱼，澳大利亚](https://s.cn.bing.net/th?id=OHR.CrescentTail_ZH-CN8283248964_UHD.jpg) 
+2025-01-13 | [小屋和特尔莫尔灯塔，兰德温岛，威尔士，英国](https://s.cn.bing.net/th?id=OHR.CoastalWales_ZH-CN9113929287_UHD.jpg) 
