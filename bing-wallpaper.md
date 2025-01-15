@@ -806,3 +806,4 @@
 2025-01-12 | [大堡礁的宝石大眼鲷鱼，澳大利亚](https://s.cn.bing.net/th?id=OHR.CrescentTail_ZH-CN8283248964_UHD.jpg) 
 2025-01-13 | [小屋和特尔莫尔灯塔，兰德温岛，威尔士，英国](https://s.cn.bing.net/th?id=OHR.CoastalWales_ZH-CN9113929287_UHD.jpg) 
 2025-01-14 | [Village of Zahara de la Sierra, Cádiz province, Spain](https://s.cn.bing.net/th?id=OHR.CadizSpain_ZH-CN0032172399_UHD.jpg) 
+2025-01-15 | [Pointe du Diable，圣皮埃尔，留尼汪岛](https://s.cn.bing.net/th?id=OHR.PointeDiable_ZH-CN0610493136_UHD.jpg) 
