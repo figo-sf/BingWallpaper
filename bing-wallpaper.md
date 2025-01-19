@@ -810,3 +810,4 @@
 2025-01-16 | [尖峰国家公园的高峰步道，圣贝尼托县，加利福尼亚州，美国](https://s.cn.bing.net/th?id=OHR.PinnaclesPeaks_ZH-CN1603877182_UHD.jpg) 
 2025-01-17 | [褐鹈鹕，圣地亚哥，加利福尼亚州，美国](https://s.cn.bing.net/th?id=OHR.PelicanPortrait_ZH-CN1928504597_UHD.jpg) 
 2025-01-18 | [白沙国家公园的日落，新墨西哥州，美国](https://s.cn.bing.net/th?id=OHR.WhiteSandsNP_ZH-CN2517618394_UHD.jpg) 
+2025-01-19 | [海王星石窟，撒丁岛， 意大利](https://s.cn.bing.net/th?id=OHR.NeptunesGrotto_ZH-CN3092540170_UHD.jpg) 
