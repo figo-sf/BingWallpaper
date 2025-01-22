@@ -813,3 +813,4 @@
 2025-01-19 | [海王星石窟，撒丁岛， 意大利](https://s.cn.bing.net/th?id=OHR.NeptunesGrotto_ZH-CN3092540170_UHD.jpg) 
 2025-01-20 | [欧亚红松鼠与毒蘑菇](https://s.cn.bing.net/th?id=OHR.DutchSquirrel_ZH-CN3896893818_UHD.jpg) 
 2025-01-21 | [俯瞰那不勒斯湾和维苏威火山，意大利](https://s.cn.bing.net/th?id=OHR.NapoliPizza_ZH-CN4698906448_UHD.jpg) 
+2025-01-22 | [代尔修道院，佩特拉，约旦](https://s.cn.bing.net/th?id=OHR.PetraMonastery_ZH-CN5091189333_UHD.jpg) 
