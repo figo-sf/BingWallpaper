@@ -817,3 +817,4 @@
 2025-01-23 | [黄昏时的鹿谷，帕克城，犹他州，美国](https://s.cn.bing.net/th?id=OHR.DeerValley_ZH-CN6029262704_UHD.jpg) 
 2025-01-24 | [冰岛的史托克间歇泉](https://s.cn.bing.net/th?id=OHR.IcelandGeyser_ZH-CN2136665867_UHD.jpg) 
 2025-01-25 | [波尔图，葡萄牙](https://s.cn.bing.net/th?id=OHR.PortoSunset_ZH-CN2388246668_UHD.jpg) 
+2025-01-26 | [比利时的欧洲山毛榉森林](https://s.cn.bing.net/th?id=OHR.FrostedBeech_ZH-CN2845716018_UHD.jpg) 
