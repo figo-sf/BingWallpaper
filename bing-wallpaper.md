@@ -819,3 +819,4 @@
 2025-01-25 | [波尔图，葡萄牙](https://s.cn.bing.net/th?id=OHR.PortoSunset_ZH-CN2388246668_UHD.jpg) 
 2025-01-26 | [比利时的欧洲山毛榉森林](https://s.cn.bing.net/th?id=OHR.FrostedBeech_ZH-CN2845716018_UHD.jpg) 
 2025-01-27 | [琐罗亚斯德神庙，大峡谷国家公园，亚利桑那州，美国](https://s.cn.bing.net/th?id=OHR.CanyonSnow_ZH-CN3910130781_UHD.jpg) 
+2025-01-28 | [夜空中的烟花表演，长沙，湖南省，中国](https://s.cn.bing.net/th?id=OHR.LunarNewYearEve25Y_ZH-CN6059625695_UHD.jpg) 
