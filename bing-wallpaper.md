@@ -823,3 +823,4 @@
 2025-01-30 | [罗兰多山口，奥德萨和佩迪多山国家公园，西班牙](https://s.cn.bing.net/th?id=OHR.OrdesaSpain_ZH-CN1445868068_UHD.jpg) 
 2025-01-31 | [日出时的平原斑马，莫卡拉国家公园，南非](https://s.cn.bing.net/th?id=OHR.PlainsZebra_ZH-CN1989542307_UHD.jpg) 
 2025-02-02 | [年幼的高山土拨鼠](https://s.cn.bing.net/th?id=OHR.AustriaMarmot_ZH-CN2303743586_UHD.jpg) 
+2025-02-03 | [盛开的樱花树上的红头长尾山雀](https://s.cn.bing.net/th?id=OHR.BeginningofSpring25Y_ZH-CN7356156800_UHD.jpg) 
