@@ -825,3 +825,4 @@
 2025-02-02 | [年幼的高山土拨鼠](https://s.cn.bing.net/th?id=OHR.AustriaMarmot_ZH-CN2303743586_UHD.jpg) 
 2025-02-03 | [盛开的樱花树上的红头长尾山雀](https://s.cn.bing.net/th?id=OHR.BeginningofSpring25Y_ZH-CN7356156800_UHD.jpg) 
 2025-02-04 | [金桥，巴拿山，岘港，越南](https://s.cn.bing.net/th?id=OHR.GoldenBridge_ZH-CN2910740727_UHD.jpg) 
+2025-02-05 | [苏格兰黑脸羊，阿伯丁郡，苏格兰](https://s.cn.bing.net/th?id=OHR.ScottishSheep_ZH-CN7122848634_UHD.jpg) 
