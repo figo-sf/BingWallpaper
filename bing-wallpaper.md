@@ -828,3 +828,4 @@
 2025-02-05 | [苏格兰黑脸羊，阿伯丁郡，苏格兰](https://s.cn.bing.net/th?id=OHR.ScottishSheep_ZH-CN7122848634_UHD.jpg) 
 2025-02-06 | [拱门群岛，瓦拉里基海滩，南岛，新西兰](https://s.cn.bing.net/th?id=OHR.WhararikiBeach_ZH-CN7232913389_UHD.jpg) 
 2025-02-07 | [特隆赫姆的蓝色时刻，挪威](https://s.cn.bing.net/th?id=OHR.BlueNorway_ZH-CN4865816873_UHD.jpg) 
+2025-02-08 | [梅斯蒂亚的中世纪塔楼，上斯瓦涅季，格鲁吉亚](https://s.cn.bing.net/th?id=OHR.SnowySvaneti_ZH-CN7626153023_UHD.jpg) 
