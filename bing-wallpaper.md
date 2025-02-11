@@ -831,3 +831,4 @@
 2025-02-08 | [梅斯蒂亚的中世纪塔楼，上斯瓦涅季，格鲁吉亚](https://s.cn.bing.net/th?id=OHR.SnowySvaneti_ZH-CN7626153023_UHD.jpg) 
 2025-02-09 | [阿尔斯特罗姆角，鲍威尔湖，犹他州，美国](https://s.cn.bing.net/th?id=OHR.AlstromPoint_ZH-CN7844819126_UHD.jpg) 
 2025-02-10 | [雨伞艺术装置，博罗市场，伦敦，英国](https://s.cn.bing.net/th?id=OHR.UmbrellaDay_ZH-CN8024305066_UHD.jpg) 
+2025-02-11 | [云冈石窟，大同，山西省，中国](https://s.cn.bing.net/th?id=OHR.YungangGrottoes_ZH-CN8275054060_UHD.jpg) 
