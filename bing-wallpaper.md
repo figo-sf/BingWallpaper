@@ -833,3 +833,4 @@
 2025-02-10 | [雨伞艺术装置，博罗市场，伦敦，英国](https://s.cn.bing.net/th?id=OHR.UmbrellaDay_ZH-CN8024305066_UHD.jpg) 
 2025-02-11 | [云冈石窟，大同，山西省，中国](https://s.cn.bing.net/th?id=OHR.YungangGrottoes_ZH-CN8275054060_UHD.jpg) 
 2025-02-12 | [上海豫园的灯会，元宵节，上海市，中国](https://s.cn.bing.net/th?id=OHR.LanterFestival25Y_ZH-CN8547998003_UHD.jpg) 
+2025-02-13 | [泰瑞尔湖，维多利亚州，澳大利亚](https://s.cn.bing.net/th?id=OHR.LakeTyrrell_ZH-CN8860948292_UHD.jpg) 
