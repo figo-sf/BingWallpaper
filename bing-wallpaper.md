@@ -836,3 +836,4 @@
 2025-02-13 | [泰瑞尔湖，维多利亚州，澳大利亚](https://s.cn.bing.net/th?id=OHR.LakeTyrrell_ZH-CN8860948292_UHD.jpg) 
 2025-02-14 | [两只麦哲伦企鹅，福克兰群岛](https://s.cn.bing.net/th?id=OHR.PenguinLove_ZH-CN9124008164_UHD.jpg) 
 2025-02-15 | [三十槌冰柱，秩父市，日本](https://s.cn.bing.net/th?id=OHR.Misotsuchi2025_ZH-CN9260395680_UHD.jpg) 
+2025-02-16 | [座头鲸妈妈和宝宝，汤加](https://s.cn.bing.net/th?id=OHR.HumpbackMother_ZH-CN9453300759_UHD.jpg) 
