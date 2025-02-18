@@ -838,3 +838,4 @@
 2025-02-15 | [三十槌冰柱，秩父市，日本](https://s.cn.bing.net/th?id=OHR.Misotsuchi2025_ZH-CN9260395680_UHD.jpg) 
 2025-02-16 | [座头鲸妈妈和宝宝，汤加](https://s.cn.bing.net/th?id=OHR.HumpbackMother_ZH-CN9453300759_UHD.jpg) 
 2025-02-17 | [Coll d'Ares，加泰罗尼亚比利牛斯​​山脉](https://s.cn.bing.net/th?id=OHR.CatalanPyrenees_ZH-CN9699602584_UHD.jpg) 
+2025-02-18 | [大蓝洞，伯利兹](https://s.cn.bing.net/th?id=OHR.BlueBelize_ZH-CN9875040666_UHD.jpg) 
