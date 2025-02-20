@@ -840,3 +840,4 @@
 2025-02-17 | [Coll d'Ares，加泰罗尼亚比利牛斯​​山脉](https://s.cn.bing.net/th?id=OHR.CatalanPyrenees_ZH-CN9699602584_UHD.jpg) 
 2025-02-18 | [大蓝洞，伯利兹](https://s.cn.bing.net/th?id=OHR.BlueBelize_ZH-CN9875040666_UHD.jpg) 
 2025-02-19 | [欧亚水獭，莱利斯塔德，荷兰](https://s.cn.bing.net/th?id=OHR.IceHoleOtter_ZH-CN0106321041_UHD.jpg) 
+2025-02-20 | [马鹿，加拿大](https://s.cn.bing.net/th?id=OHR.CanadaDeer_ZH-CN0631345798_UHD.jpg) 
