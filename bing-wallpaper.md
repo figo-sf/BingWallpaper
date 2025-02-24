@@ -842,3 +842,4 @@
 2025-02-19 | [欧亚水獭，莱利斯塔德，荷兰](https://s.cn.bing.net/th?id=OHR.IceHoleOtter_ZH-CN0106321041_UHD.jpg) 
 2025-02-20 | [马鹿，加拿大](https://s.cn.bing.net/th?id=OHR.CanadaDeer_ZH-CN0631345798_UHD.jpg) 
 2025-02-22 | [圣路易斯拱门, 密苏里州, 美国](https://s.cn.bing.net/th?id=OHR.StLouisArch_ZH-CN0442955735_UHD.jpg) 
+2025-02-24 | [斯潘塞湾的一群伞膜乌贼, 怀阿拉,南澳大利亚](https://s.cn.bing.net/th?id=OHR.GiantCuttlefish_ZH-CN0670915878_UHD.jpg) 
