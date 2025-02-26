@@ -844,3 +844,4 @@
 2025-02-22 | [圣路易斯拱门, 密苏里州, 美国](https://s.cn.bing.net/th?id=OHR.StLouisArch_ZH-CN0442955735_UHD.jpg) 
 2025-02-24 | [斯潘塞湾的一群伞膜乌贼, 怀阿拉,南澳大利亚](https://s.cn.bing.net/th?id=OHR.GiantCuttlefish_ZH-CN0670915878_UHD.jpg) 
 2025-02-25 | [砂岩石柱，布莱斯峡谷国家公园，犹他州，美国](https://s.cn.bing.net/th?id=OHR.BryceHoodoos_ZH-CN0817211446_UHD.jpg) 
+2025-02-26 | [莱奇湖上的斯托克尔城堡，阿盖尔郡，苏格兰](https://s.cn.bing.net/th?id=OHR.ArgyllStalker_ZH-CN0970395078_UHD.jpg) 
