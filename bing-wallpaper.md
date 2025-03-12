@@ -856,3 +856,4 @@
 2025-03-08 | [石勒苏益格-荷尔斯泰因州瓦登海国家公园，德国](https://s.cn.bing.net/th?id=OHR.WaddenSeaBiosphereReserve_ZH-CN9012125146_UHD.jpg) 
 2025-03-09 | [圣马可钟楼，威尼斯，意大利](https://s.cn.bing.net/th?id=OHR.ItalyClock_ZH-CN0846995743_UHD.jpg) 
 2025-03-11 | [努沙佩尼达岛的破碎海滩, 巴厘岛, 印度尼西亚](https://s.cn.bing.net/th?id=OHR.NusaPenida_ZH-CN4934656933_UHD.jpg) 
+2025-03-12 | [卢瓦尔河畔叙利城堡, 卢瓦尔中心省, 法国](https://s.cn.bing.net/th?id=OHR.ChateauLoire_ZH-CN5040147638_UHD.jpg) 
