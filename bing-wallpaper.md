@@ -857,3 +857,4 @@
 2025-03-09 | [圣马可钟楼，威尼斯，意大利](https://s.cn.bing.net/th?id=OHR.ItalyClock_ZH-CN0846995743_UHD.jpg) 
 2025-03-11 | [努沙佩尼达岛的破碎海滩, 巴厘岛, 印度尼西亚](https://s.cn.bing.net/th?id=OHR.NusaPenida_ZH-CN4934656933_UHD.jpg) 
 2025-03-12 | [卢瓦尔河畔叙利城堡, 卢瓦尔中心省, 法国](https://s.cn.bing.net/th?id=OHR.ChateauLoire_ZH-CN5040147638_UHD.jpg) 
+2025-03-13 | [洒红节庆祝活动，斋浦尔，印度](https://s.cn.bing.net/th?id=OHR.HoliColors_ZH-CN2177185823_UHD.jpg) 
