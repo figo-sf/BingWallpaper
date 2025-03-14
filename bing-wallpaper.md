@@ -858,3 +858,4 @@
 2025-03-11 | [努沙佩尼达岛的破碎海滩, 巴厘岛, 印度尼西亚](https://s.cn.bing.net/th?id=OHR.NusaPenida_ZH-CN4934656933_UHD.jpg) 
 2025-03-12 | [卢瓦尔河畔叙利城堡, 卢瓦尔中心省, 法国](https://s.cn.bing.net/th?id=OHR.ChateauLoire_ZH-CN5040147638_UHD.jpg) 
 2025-03-13 | [洒红节庆祝活动，斋浦尔，印度](https://s.cn.bing.net/th?id=OHR.HoliColors_ZH-CN2177185823_UHD.jpg) 
+2025-03-14 | [索尔吉奈特克斯的巨石墓，巴斯克地区，阿拉瓦省，西班牙](https://s.cn.bing.net/th?id=OHR.BasqueDolmen_ZH-CN2364777801_UHD.jpg) 
