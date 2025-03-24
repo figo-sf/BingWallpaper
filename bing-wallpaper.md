@@ -867,3 +867,4 @@
 2025-03-21 | [低地雨林上空的薄雾，丹浓谷，沙巴，婆罗洲，马来西亚](https://s.cn.bing.net/th?id=OHR.DanumValley_ZH-CN5786482012_UHD.jpg) 
 2025-03-22 | [尼特哈天然井水面上的睡莲，图卢姆，墨西哥](https://s.cn.bing.net/th?id=OHR.CenoteLilies_ZH-CN5915682591_UHD.jpg) 
 2025-03-23 | [鲍曼附近日落时分的闪电和风暴云，布拉斯加州，美国](https://s.cn.bing.net/th?id=OHR.NebraskaStorm_ZH-CN6944682381_UHD.jpg) 
+2025-03-24 | [沙漠象与小象在高高的草丛中觅食，纳米比亚](https://s.cn.bing.net/th?id=OHR.ElephantGrass_ZH-CN7110191053_UHD.jpg) 
