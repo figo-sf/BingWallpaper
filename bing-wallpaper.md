@@ -875,3 +875,4 @@
 2025-03-29 | [卡里佐平原国家纪念碑的超级花期，加利福尼亚州，美国](https://s.cn.bing.net/th?id=OHR.CarrizoBloom_ZH-CN7967467357_UHD.jpg) 
 2025-03-31 | [黄昏下的奥斯图尼, 普利亚, 意大利](https://s.cn.bing.net/th?id=OHR.ItalyOstuni_ZH-CN8306220080_UHD.jpg) 
 2025-04-01 | [树蛙, 哥斯达黎加](https://s.cn.bing.net/th?id=OHR.TicanFrog_ZH-CN8949758487_UHD.jpg) 
+2025-04-02 | [凯恩维尔附近荒地的砂岩地层, 犹他州, 美国](https://s.cn.bing.net/th?id=OHR.UtahBadlands_ZH-CN9174002963_UHD.jpg) 
