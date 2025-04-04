@@ -876,3 +876,4 @@
 2025-03-31 | [黄昏下的奥斯图尼, 普利亚, 意大利](https://s.cn.bing.net/th?id=OHR.ItalyOstuni_ZH-CN8306220080_UHD.jpg) 
 2025-04-01 | [树蛙, 哥斯达黎加](https://s.cn.bing.net/th?id=OHR.TicanFrog_ZH-CN8949758487_UHD.jpg) 
 2025-04-02 | [凯恩维尔附近荒地的砂岩地层, 犹他州, 美国](https://s.cn.bing.net/th?id=OHR.UtahBadlands_ZH-CN9174002963_UHD.jpg) 
+2025-04-04 | [苏州古镇风景，江苏省，中国](https://s.cn.bing.net/th?id=OHR.QingMingY25_ZH-CN9818431198_UHD.jpg) 
