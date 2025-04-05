@@ -877,3 +877,4 @@
 2025-04-01 | [树蛙, 哥斯达黎加](https://s.cn.bing.net/th?id=OHR.TicanFrog_ZH-CN8949758487_UHD.jpg) 
 2025-04-02 | [凯恩维尔附近荒地的砂岩地层, 犹他州, 美国](https://s.cn.bing.net/th?id=OHR.UtahBadlands_ZH-CN9174002963_UHD.jpg) 
 2025-04-04 | [苏州古镇风景，江苏省，中国](https://s.cn.bing.net/th?id=OHR.QingMingY25_ZH-CN9818431198_UHD.jpg) 
+2025-04-05 | [日落时分的加兹特鲁加特岛 , 巴斯克地区, 西班牙](https://s.cn.bing.net/th?id=OHR.GaztelugatxeSunset_ZH-CN0553703567_UHD.jpg) 
