@@ -880,3 +880,4 @@
 2025-04-05 | [日落时分的加兹特鲁加特岛 , 巴斯克地区, 西班牙](https://s.cn.bing.net/th?id=OHR.GaztelugatxeSunset_ZH-CN0553703567_UHD.jpg) 
 2025-04-06 | [碎片大厦，伦敦](https://s.cn.bing.net/th?id=OHR.ShardLondon2025_ZH-CN0722863055_UHD.jpg) 
 2025-04-07 | [美洲海狸, Moran, 怀俄明州, 美国](https://s.cn.bing.net/th?id=OHR.BeaverDay_ZH-CN2889563041_UHD.jpg) 
+2025-04-08 | [春天的水仙花在清晨绽放](https://s.cn.bing.net/th?id=OHR.SpringDaffodils_ZH-CN6737270212_UHD.jpg) 
