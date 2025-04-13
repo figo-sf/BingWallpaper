@@ -883,3 +883,4 @@
 2025-04-08 | [春天的水仙花在清晨绽放](https://s.cn.bing.net/th?id=OHR.SpringDaffodils_ZH-CN6737270212_UHD.jpg) 
 2025-04-11 | [郁金香，荷兰](https://s.cn.bing.net/th?id=OHR.TulipsWindmill_ZH-CN0665142956_UHD.jpg) 
 2025-04-12 | [从国际空间站穹顶俯瞰南太平洋](https://s.cn.bing.net/th?id=OHR.SpaceFlight_ZH-CN0927394503_UHD.jpg) 
+2025-04-13 | [班克鲁特的唐赛寺，泰国](https://s.cn.bing.net/th?id=OHR.ThailandPagodas_ZH-CN1143878296_UHD.jpg) 
