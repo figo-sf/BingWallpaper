@@ -885,3 +885,4 @@
 2025-04-12 | [从国际空间站穹顶俯瞰南太平洋](https://s.cn.bing.net/th?id=OHR.SpaceFlight_ZH-CN0927394503_UHD.jpg) 
 2025-04-13 | [班克鲁特的唐赛寺，泰国](https://s.cn.bing.net/th?id=OHR.ThailandPagodas_ZH-CN1143878296_UHD.jpg) 
 2025-04-14 | [圣玛丽亚岛附近的大西洋细吻海豚，亚速尔群岛，葡萄牙](https://s.cn.bing.net/th?id=OHR.SpottedDolphins_ZH-CN1257100316_UHD.jpg) 
+2025-04-15 | [卡拉奥拉城堡，格拉纳达，西班牙](https://s.cn.bing.net/th?id=OHR.CerezoEnFlor_ZH-CN2951543796_UHD.jpg) 
