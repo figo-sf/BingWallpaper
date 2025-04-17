@@ -887,3 +887,4 @@
 2025-04-14 | [圣玛丽亚岛附近的大西洋细吻海豚，亚速尔群岛，葡萄牙](https://s.cn.bing.net/th?id=OHR.SpottedDolphins_ZH-CN1257100316_UHD.jpg) 
 2025-04-15 | [卡拉奥拉城堡，格拉纳达，西班牙](https://s.cn.bing.net/th?id=OHR.CerezoEnFlor_ZH-CN2951543796_UHD.jpg) 
 2025-04-16 | [卡奇纳桥，天然桥国家区，犹他州，美国](https://s.cn.bing.net/th?id=OHR.KachinaBridge_ZH-CN3333793502_UHD.jpg) 
+2025-04-17 | [安第斯动冠伞鸟，厄瓜多尔](https://s.cn.bing.net/th?id=OHR.EcuadorBird_ZH-CN3676173654_UHD.jpg) 
