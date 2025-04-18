@@ -888,3 +888,4 @@
 2025-04-15 | [卡拉奥拉城堡，格拉纳达，西班牙](https://s.cn.bing.net/th?id=OHR.CerezoEnFlor_ZH-CN2951543796_UHD.jpg) 
 2025-04-16 | [卡奇纳桥，天然桥国家区，犹他州，美国](https://s.cn.bing.net/th?id=OHR.KachinaBridge_ZH-CN3333793502_UHD.jpg) 
 2025-04-17 | [安第斯动冠伞鸟，厄瓜多尔](https://s.cn.bing.net/th?id=OHR.EcuadorBird_ZH-CN3676173654_UHD.jpg) 
+2025-04-18 | [卡帕多西亚格雷梅国家公园上空的热气球，土耳其](https://s.cn.bing.net/th?id=OHR.GoremeTurkey_ZH-CN0255739302_UHD.jpg) 
