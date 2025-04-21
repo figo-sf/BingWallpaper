@@ -891,3 +891,4 @@
 2025-04-18 | [卡帕多西亚格雷梅国家公园上空的热气球，土耳其](https://s.cn.bing.net/th?id=OHR.GoremeTurkey_ZH-CN0255739302_UHD.jpg) 
 2025-04-19 | [锡安国家公园，犹他州，美国](https://s.cn.bing.net/th?id=OHR.ZionValley_ZH-CN0611524754_UHD.jpg) 
 2025-04-20 | [春天里的野生小兔子](https://s.cn.bing.net/th?id=OHR.BunnyLove_ZH-CN1145897965_UHD.jpg) 
+2025-04-21 | [银河下的约书亚树，加利福尼亚州，美国](https://s.cn.bing.net/th?id=OHR.JoshuaStars_ZH-CN1375098210_UHD.jpg) 
