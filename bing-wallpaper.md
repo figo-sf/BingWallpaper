@@ -893,3 +893,4 @@
 2025-04-20 | [春天里的野生小兔子](https://s.cn.bing.net/th?id=OHR.BunnyLove_ZH-CN1145897965_UHD.jpg) 
 2025-04-21 | [银河下的约书亚树，加利福尼亚州，美国](https://s.cn.bing.net/th?id=OHR.JoshuaStars_ZH-CN1375098210_UHD.jpg) 
 2025-04-22 | [大棱镜彩泉，黄石国家公园，怀俄明州，美国](https://s.cn.bing.net/th?id=OHR.YellowstoneSpring_ZH-CN2643482467_UHD.jpg) 
+2025-04-23 | [海利根港斯坦沃德海滩上的沙滩椅，石勒苏益格-荷尔斯泰因州，德国](https://s.cn.bing.net/th?id=OHR.BeachChairsSteinwarder_ZH-CN2947390092_UHD.jpg) 
