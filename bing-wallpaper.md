@@ -902,3 +902,4 @@
 2025-04-29 | [维朗德里城堡，卢瓦尔河谷，法国](https://s.cn.bing.net/th?id=OHR.GardensVillandry_ZH-CN3660934263_UHD.jpg) 
 2025-04-30 | [从巴拉那州看到的伊瓜苏瀑布, 巴西](https://s.cn.bing.net/th?id=OHR.FozdoIguacu2025_ZH-CN3781165595_UHD.jpg) 
 2025-05-01 | [鸡蛋花，夏威夷，美国](https://s.cn.bing.net/th?id=OHR.PinkPlumeria_ZH-CN3890147555_UHD.jpg) 
+2025-05-02 | [维多利亚睡莲上的绿鹭，潘塔纳尔 ，巴西](https://s.cn.bing.net/th?id=OHR.BrazilHeron_ZH-CN7200229300_UHD.jpg) 
