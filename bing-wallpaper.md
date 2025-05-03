@@ -903,3 +903,4 @@
 2025-04-30 | [从巴拉那州看到的伊瓜苏瀑布, 巴西](https://s.cn.bing.net/th?id=OHR.FozdoIguacu2025_ZH-CN3781165595_UHD.jpg) 
 2025-05-01 | [鸡蛋花，夏威夷，美国](https://s.cn.bing.net/th?id=OHR.PinkPlumeria_ZH-CN3890147555_UHD.jpg) 
 2025-05-02 | [维多利亚睡莲上的绿鹭，潘塔纳尔 ，巴西](https://s.cn.bing.net/th?id=OHR.BrazilHeron_ZH-CN7200229300_UHD.jpg) 
+2025-05-03 | [拱门国家公园双拱门映衬下的银河，犹他州，美国](https://s.cn.bing.net/th?id=OHR.ArchesGalaxy_ZH-CN0954505086_UHD.jpg) 
