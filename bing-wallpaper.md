@@ -914,3 +914,4 @@
 2025-05-14 | [弗拉维亚港, 苏尔西斯-伊格莱西恩特, 撒丁岛, 意大利](https://s.cn.bing.net/th?id=OHR.SardiniaFlavia_ZH-CN6784449568_UHD.jpg) 
 2025-05-15 | [大本钟和国会大厦, 威斯敏斯特宫, 伦敦, 英国](https://s.cn.bing.net/th?id=OHR.LondonParliament_ZH-CN7089923691_UHD.jpg) 
 2025-05-17 | [威尼斯潟湖中的三角洲, 意大利](https://s.cn.bing.net/th?id=OHR.VeniceLagoon_ZH-CN3791408491_UHD.jpg) 
+2025-05-18 | [加龙河对面的圣皮埃尔桥，图卢兹，法国](https://s.cn.bing.net/th?id=OHR.ToulouseBridge_ZH-CN3930246927_UHD.jpg) 
