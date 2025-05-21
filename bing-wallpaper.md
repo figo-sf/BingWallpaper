@@ -917,3 +917,4 @@
 2025-05-18 | [加龙河对面的圣皮埃尔桥，图卢兹，法国](https://s.cn.bing.net/th?id=OHR.ToulouseBridge_ZH-CN3930246927_UHD.jpg) 
 2025-05-19 | [汉密尔顿山, 旧金山湾区, 加利福尼亚, 美国](https://s.cn.bing.net/th?id=OHR.MountHamilton_ZH-CN4280549129_UHD.jpg) 
 2025-05-20 | [薰衣草上的蜜蜂](https://s.cn.bing.net/th?id=OHR.HoneyBeeLavender_ZH-CN4513594236_UHD.jpg) 
+2025-05-21 | [杨家塘村茶园，松阳县，中国](https://s.cn.bing.net/th?id=OHR.SongyangTeaGarden_ZH-CN4763170909_UHD.jpg) 
