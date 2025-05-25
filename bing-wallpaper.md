@@ -921,3 +921,4 @@
 2025-05-22 | [日落时分的猴面包树，猴面包树大道，马达加斯加](https://s.cn.bing.net/th?id=OHR.BaobabAvenue_ZH-CN5217451344_UHD.jpg) 
 2025-05-23 | [停在黄头侧颈龟鼻子上的茱莉亚蝶，亚马逊地区，厄瓜多尔](https://s.cn.bing.net/th?id=OHR.ButterflyTurtle_ZH-CN5706515924_UHD.jpg) 
 2025-05-24 | [挪威尤通黑门山国家公园](https://s.cn.bing.net/th?id=OHR.JotunheimenPark_ZH-CN7417034574_UHD.jpg) 
+2025-05-25 | [布伦特伍德湾的布查特花园，不列颠哥伦比亚省，加拿大](https://s.cn.bing.net/th?id=OHR.ButchartFlowers_ZH-CN6692930571_UHD.jpg) 
