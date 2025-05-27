@@ -923,3 +923,4 @@
 2025-05-24 | [挪威尤通黑门山国家公园](https://s.cn.bing.net/th?id=OHR.JotunheimenPark_ZH-CN7417034574_UHD.jpg) 
 2025-05-25 | [布伦特伍德湾的布查特花园，不列颠哥伦比亚省，加拿大](https://s.cn.bing.net/th?id=OHR.ButchartFlowers_ZH-CN6692930571_UHD.jpg) 
 2025-05-26 | [沿着岚山保津川行驶的火车，京都，日本](https://s.cn.bing.net/th?id=OHR.Arashiyama2025_ZH-CN7836747321_UHD.jpg) 
+2025-05-27 | [梦娜维尔岩池，悉尼，澳大利亚](https://s.cn.bing.net/th?id=OHR.MonaValePool_ZH-CN7968271596_UHD.jpg) 
